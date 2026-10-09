@@ -1,5 +1,5 @@
 # ENGINE WIN-AD — B1→B7 & template mẫu QC
-Version: 2.0 — kế thừa mục 4 (MODE 1) + 5.1 bản v1.3
+Version: 2.1 — kế thừa mục 4 (MODE 1) + 5.1 bản v1.3
 
 Chạy tuần tự sau khi từ khóa đã **qua cổng 2/3** (`kn-cong-win-tu-khoa.md`). Đọc kết quả & lặp ở MODE 3 (B8–B9).
 
@@ -19,11 +19,16 @@ Xuất kèm nguồn mỗi câu. Không tìm được câu thật → nói rõ **
 
 ---
 
-## B2 · Chọn góc + khung
-- **Góc A — khát khao** → khung **AIDA**. Dùng khi khách đã muốn đẹp, chỉ đang chọn làm gì / ở đâu.
-- **Góc B — nỗi đau** → khung **PAS**. Dùng khi intent xuất phát từ khiếm khuyết/nỗi sợ.
+## B2 · Chọn góc
+- **Góc A — khát khao.** Dùng khi khách đã muốn đẹp, chỉ đang chọn làm gì / ở đâu.
+- **Góc B — nỗi đau.** Dùng khi intent xuất phát từ khiếm khuyết/nỗi sợ.
 
 **1 nội dung = 1 góc chính.** Trộn hai góc trong một mẫu làm loãng cả hai.
+
+> ⚠️ **GÓC ≠ KHUNG LANDING.** Góc chỉ quyết định *mẫu quảng cáo nói về cái gì*.
+> Khung landing chọn theo **nguồn traffic**: landing chạy Google Ads **luôn là AIDA**
+> (`A1` khát khao / `A2` trả lời trước), **PAS chỉ cho SEO · GEO · social nguội**.
+> Một mẫu QC góc B hoàn toàn có thể đổ về landing khung A2. Xem [`kn-khung-landing.md`](kn-khung-landing.md).
 
 ---
 
@@ -98,7 +103,12 @@ Mỗi tiêu chí **0 – 1 – 2 điểm**:
 | 3 | Bằng chứng thật | Toàn tính từ | Giấy phép/chứng chỉ/case cụ thể |
 | 4 | Gỡ ≥ 1 rào cản | Không chạm Sợ–Ngờ–Ngại | Gỡ thẳng rào cản chính |
 | 5 | CTA rõ 1 hành động | Mơ hồ hoặc nhiều CTA | Một hành động duy nhất, rõ |
-| 6 | Tuân thủ y tế VN + Google/Meta | Có từ cấm / claim vi phạm | Sạch, đã rà `kn-rao-phap-ly.md` |
+| 6 | Tuân thủ y tế VN + Google/Meta **+ đúng tuyến cơ sở** | Có từ cấm / claim vi phạm / **mời đại phẫu ở viện tỉnh** / hứa thời gian hồi phục cứng | Sạch, đã rà `kn-rao-phap-ly.md` và đã xác nhận tuyến |
 
 **Tổng < 10/12 → sửa rồi chấm lại. Không xuất mẫu chưa đạt.**
+
+> ⛔ **Tiêu chí 6 bị 0 điểm = LOẠI THẲNG, bất kể tổng điểm.** Ba lỗi tự động cho 0 điểm:
+> ① có từ cấm (gồm *"an toàn tuyệt đối"* · *"không biến chứng"* · *"không để lại sẹo"*);
+> ② **quảng cáo/mời đại phẫu cho viện tỉnh** — vượt phạm vi giấy phép, xem `kn-ho-so-thuong-hieu.md`;
+> ③ **hứa thời gian hồi phục cứng** (vd *"3 ngày là đi làm được"*) thay vì dạng khoảng + *"tùy cơ địa"*.
 Tiêu chí 6 bị 0 điểm → **loại thẳng**, bất kể tổng điểm.

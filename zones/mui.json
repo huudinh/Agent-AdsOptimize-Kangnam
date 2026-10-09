@@ -1,0 +1,2179 @@
+{
+  "zone": {
+    "ten": "Nâng mũi",
+    "ma": "mui",
+    "nganh": "Aesthetic",
+    "ten_file": "KN _ Google Ads _ Bộ từ khoá Nâng mũi",
+    "ds_phu_dinh_chung": "KN_Neg_Chung",
+    "ngan_sach_thang": 180000000,
+    "muc_tieu": "Ưu tiên chi phí/ca chốt, rồi tới booking rate, cuối cùng mới tới CPL — ZONE Mũi có giá trị ca cao nên lead rẻ mà không ra ca là lỗ."
+  },
+  "chan_dung": [
+    {
+      "ma": "CD1",
+      "ten": "Nữ 22–30, đi làm/sinh viên mới ra trường, mũi thấp - tẹt, lần đầu làm thẩm mỹ",
+      "insight": "Tránh chụp ảnh góc ngang, soi gương thấy mặt bị 'bẹt'. Muốn đẹp tự nhiên để đồng nghiệp không nhận ra là đã làm. CẦN GIỮ KÍN — không muốn đồng nghiệp và họ hàng biết.",
+      "rao_can": "SỢ — sợ lộ sóng, sợ mũi trông 'giả', sợ bị nhận ra là đã phẫu thuật",
+      "chang_vao": "S2-S3",
+      "chien_dich": "KN | S2 | Phương pháp & Công nghệ · KN | S3 | Nỗi sợ & Bằng chứng",
+      "gia_tri_ca": "Cao"
+    },
+    {
+      "ma": "CD2",
+      "ten": "Nữ 28–40, có thu nhập ổn định, đã tìm hiểu lâu, so sánh nhiều cơ sở",
+      "insight": "Đã đọc review 6 tháng đến 1 năm, biết hết thuật ngữ sụn sườn - sụn tai - sụn nhân tạo. Không sợ đau, sợ chọn sai bác sĩ. Người gõ Google chính là người điều trị.",
+      "rao_can": "NGỜ — tay nghề bác sĩ và cơ sở có đúng tuyến bệnh viện không",
+      "chang_vao": "S2-S4",
+      "chien_dich": "KN | S2 | Ở đâu tốt - Thương hiệu · KN | S4 | Giá & Trả góp",
+      "gia_tri_ca": "Rất cao"
+    },
+    {
+      "ma": "CD3",
+      "ten": "Khách đã nâng mũi ở nơi khác, nay bị lộ sóng / bóng đỏ / lệch / co rút",
+      "insight": "Đã mất tiền một lần và kết quả nằm trên mặt, ai cũng thấy. MẤT NIỀM TIN VÀO CẢ NGÀNH. Không tìm 'nâng mũi', họ tìm 'sửa mũi hỏng', 'tháo sụn'. Sẵn sàng trả cao nhất nhưng khó thuyết phục nhất.",
+      "rao_can": "NGỜ — lần này có chắc không, ai chịu trách nhiệm nếu lại hỏng",
+      "chang_vao": "S3-S4",
+      "chien_dich": "KN | S3 | Sửa mũi hỏng",
+      "gia_tri_ca": "Rất cao"
+    },
+    {
+      "ma": "CD4",
+      "ten": "Nữ 30–45, sau sinh, chồng là người tìm hiểu và chi trả",
+      "insight": "Tự thấy xuống sắc sau sinh nhưng không dám chi cho bản thân. NGƯỜI GÕ GOOGLE THƯỜNG LÀ CHỒNG — tìm quà tặng vợ, hoặc vợ nhờ chồng tìm. Thông điệp phải viết cho người mua hộ.",
+      "rao_can": "NGẠI — nghỉ dưỡng bao lâu, ai trông con, chi phí có đáng không",
+      "chang_vao": "S3-S4",
+      "chien_dich": "KN | S3 | Nỗi sợ & Bằng chứng · KN | S4 | Giá & Trả góp",
+      "gia_tri_ca": "Cao"
+    },
+    {
+      "ma": "CD5",
+      "ten": "Nam 25–40, nhân viên kinh doanh / làm hình ảnh, muốn mũi nam tính",
+      "insight": "Muốn sống mũi cao thẳng để trông sắc nét hơn trong công việc, nhưng sợ bị cho là 'đàn ông mà đi sửa mặt'. CẦN GIỮ KÍN tuyệt đối. Tìm vào buổi tối, ít gọi hotline, thích chat.",
+      "rao_can": "NGẠI — sợ bị người khác biết, sợ kết quả nữ tính hoá",
+      "chang_vao": "S2-S3",
+      "chien_dich": "KN | S2 | Phương pháp & Công nghệ · KN | S3 | Nỗi sợ & Bằng chứng",
+      "gia_tri_ca": "Cao"
+    },
+    {
+      "ma": "CD6",
+      "ten": "Khách tỉnh (Hải Phòng · Nghệ An · Đà Nẵng · Cần Thơ · Thanh Hóa)",
+      "insight": "Tìm theo tên tỉnh mình vì nghĩ phải làm gần nhà. Thực tế đại phẫu phải lên tuyến bệnh viện HN hoặc SG. Rào cản thật là chi phí đi lại và thời gian lưu trú, không phải giá ca mổ.",
+      "rao_can": "NGẠI — đi lại xa, ở lại mấy ngày, hậu phẫu ai theo",
+      "chang_vao": "S3-S4",
+      "chien_dich": "KN | S4 | Local viện tỉnh - Tư vấn",
+      "gia_tri_ca": "Cao"
+    },
+    {
+      "ma": "CD7",
+      "ten": "Khách đã mổ tại Kangnam — đang hậu phẫu hoặc đã hồi phục",
+      "insight": "Giai đoạn hậu phẫu chỉ cần được trấn an nhanh: sưng thế này có bình thường không. Sau khi hài lòng thì đây là nhóm dễ làm dịch vụ thứ 2 và kéo theo cả gia đình — gần như không còn rào cản, chỉ cần lý do và ưu đãi.",
+      "rao_can": "NGẠI — lo lắng hậu phẫu, sau đó là ngại chi thêm",
+      "chang_vao": "S5-S6",
+      "chien_dich": "KN | S5 | Hậu phẫu & Chăm sóc · KN | S6 | Khách cũ & Cross-sell",
+      "gia_tri_ca": "Trung bình"
+    }
+  ],
+  "hanh_trinh": [
+    {
+      "chang": "S1 NHẬN BIẾT",
+      "chan_dung": "CD1, CD5",
+      "tam_ly": "Mới chớm nghĩ 'mũi mình có vấn đề gì không', chưa có ý định làm",
+      "rao_can": "Chưa có rào cản mua — rào cản là chưa thấy mình cần",
+      "chien_dich": "KN | S1 | Nhận biết & Giáo dục",
+      "tu_khoa": "nâng mũi là gì · có nên nâng mũi · các loại nâng mũi",
+      "thong_diep": "Giáo dục nhẹ: phân biệt các phương pháp, không bán",
+      "bang_chung": "Nội dung do bác sĩ chuyên khoa duyệt",
+      "lp": "LP1",
+      "chuyen_doi": "Đọc >60s, xem video, không tính lead",
+      "sau_lead": "Không chạy remarketing bán — chỉ nuôi nội dung S2",
+      "kpi": "Time-on-page, scroll depth. KHÔNG đo CPL ở chặng này",
+      "tiep_theo": "Remarketing sang S2"
+    },
+    {
+      "chang": "S2 TÌM HIỂU",
+      "chan_dung": "CD1, CD2, CD5",
+      "tam_ly": "Đã muốn làm, đang so phương pháp và so cơ sở",
+      "rao_can": "NGỜ — phương pháp nào phù hợp, cơ sở nào tin được",
+      "chien_dich": "KN | S2 | Phương pháp & Công nghệ · KN | S2 | Ở đâu tốt - Thương hiệu",
+      "tu_khoa": "nâng mũi cấu trúc · nâng mũi sụn sườn · nâng mũi ở đâu tốt",
+      "thong_diep": "So sánh phương pháp theo tình trạng mũi + định vị bệnh viện chuẩn Hàn",
+      "bang_chung": "BẮT BUỘC: giấy phép KCB Bộ Y tế 287/BYT-GPHĐ + bác sĩ thành viên KCCS",
+      "lp": "LP2, LP3",
+      "chuyen_doi": "Để lại SĐT nhận tư vấn phương pháp",
+      "sau_lead": "Tư vấn viên gọi trong 5 phút, chốt lịch khám miễn phí",
+      "kpi": "CTR, CPL, tỷ lệ chốt lịch khám",
+      "tiep_theo": "Khách hỏi 'có đau không' → chuyển thông điệp S3"
+    },
+    {
+      "chang": "S3 CÂN NHẮC & NỖI SỢ ★",
+      "chan_dung": "CD1, CD3, CD4, CD5",
+      "tam_ly": "Đã chọn được nơi nhưng chưa dám đặt cọc. Đây là chặng rụng khách nhiều nhất",
+      "rao_can": "SỢ — đau, biến chứng, gây mê, và nhất là HỎNG THẤY BẰNG MẮT",
+      "chien_dich": "KN | S3 | Nỗi sợ & Bằng chứng · KN | S3 | Sửa mũi hỏng",
+      "tu_khoa": "nâng mũi có đau không · nâng mũi bao lâu hồi phục · sửa mũi hỏng · nâng mũi bị lộ sóng",
+      "thong_diep": "TRẢ LỜI THẲNG nỗi lo ngay dưới hero, không khoét sâu",
+      "bang_chung": "BẮT BUỘC: quy trình 5 bước vô khuẩn + hội đồng chuyên môn giám sát + bảo hành minh bạch + case HTLX đã phát sóng",
+      "lp": "LP4, LP5",
+      "chuyen_doi": "Đặt khám miễn phí với bác sĩ chuyên khoa (KHÔNG phải đặt lịch mổ)",
+      "sau_lead": "Bác sĩ khám và tư vấn trực tiếp, không chốt mổ ngay buổi đầu",
+      "kpi": "Booking rate, show-up rate. CPL ở đây CAO là bình thường — đừng cắt sớm",
+      "tiep_theo": "Sau khám → S4 báo giá và trả góp"
+    },
+    {
+      "chang": "S4 THỰC HIỆN",
+      "chan_dung": "CD2, CD4, CD6",
+      "tam_ly": "Đã quyết làm, đang hỏi giá và sắp xếp thời gian - tiền",
+      "rao_can": "NGẠI — chi phí lớn, nghỉ dưỡng, (CD6) đi lại xa",
+      "chien_dich": "KN | S4 | Giá & Trả góp · KN | S4 | Đặt lịch - Local tuyến BV · KN | S4 | Local viện tỉnh - Tư vấn",
+      "tu_khoa": "nâng mũi giá bao nhiêu · nâng mũi trả góp · nâng mũi hà nội",
+      "thong_diep": "Giá minh bạch [động] + trả góp + cam kết an toàn + đặt lịch nhanh",
+      "bang_chung": "Bảng giá tại /bang-gia/ và ưu đãi tại /uu-dai/ đọc LÚC CHẠY — không dùng số cũ",
+      "lp": "LP6, LP7, LP8",
+      "chuyen_doi": "Đặt lịch + đặt cọc giữ suất ưu đãi",
+      "sau_lead": "Xác nhận lịch, gửi hướng dẫn tiền phẫu, nhắc trước 24h",
+      "kpi": "Chi phí/ca chốt, tỷ lệ đặt cọc",
+      "tiep_theo": "Sau mổ → S5"
+    },
+    {
+      "chang": "S5 TRẢI NGHIỆM & HẬU PHẪU",
+      "chan_dung": "CD7",
+      "tam_ly": "Đang sưng nề, lo 'thế này có bình thường không'",
+      "rao_can": "Lo lắng hậu phẫu, cần được trấn an nhanh",
+      "chien_dich": "KN | S5 | Hậu phẫu & Chăm sóc",
+      "tu_khoa": "sau nâng mũi kiêng gì · nâng mũi sưng bao lâu · chăm sóc sau nâng mũi",
+      "thong_diep": "Hướng dẫn + trấn an + mời tái khám đúng hẹn",
+      "bang_chung": "Gói chăm sóc hậu phẫu + tái khám định kỳ (6 quyền lợi)",
+      "lp": "LP9",
+      "chuyen_doi": "Đặt tái khám, tải app Kangnam Care",
+      "sau_lead": "Điều dưỡng theo dõi theo mốc 3-7-30 ngày",
+      "kpi": "Tỷ lệ tái khám đúng hẹn, mức độ hài lòng. KHÔNG chạy LDP chốt ở đây",
+      "tiep_theo": "Hài lòng → S6 lấy review và cross-sell"
+    },
+    {
+      "chang": "S6 GẮN BÓ & MỞ RỘNG",
+      "chan_dung": "CD7",
+      "tam_ly": "Đã tin, dễ làm thêm dịch vụ khác và giới thiệu người quen",
+      "rao_can": "Gần như không còn rào cản — chỉ cần lý do và ưu đãi",
+      "chien_dich": "KN | S6 | Khách cũ & Cross-sell",
+      "tu_khoa": "khách cũ ưu đãi · cắt mí · trẻ hoá da",
+      "thong_diep": "Cross-sell sang ZONE Mắt và Trẻ hoá & Da liễu + chương trình giới thiệu",
+      "bang_chung": "Chính case của chính khách đó (có giấy đồng ý) + HTLX",
+      "lp": "LP10",
+      "chuyen_doi": "Đăng ký dịch vụ thứ 2, giới thiệu bạn",
+      "sau_lead": "Gán tag khách cũ trong Caresoft, ưu đãi riêng",
+      "kpi": "LTV, tỷ lệ mua dịch vụ thứ 2, số khách giới thiệu",
+      "tiep_theo": "Cross-sell sang KDT (nha khoa) hoặc cơ xương khớp là ĐỔI SUB-BRAND — chỉ gợi ý, không tự viết nội dung"
+    }
+  ],
+  "chien_dich": [
+    {
+      "ten": "KN | S1 | Nhận biết & Giáo dục",
+      "uu_tien": "P4",
+      "vai_tro": "Hứng volume đầu phễu, nuôi remarketing",
+      "ty_trong": 0.05,
+      "diem": {
+        "y_dinh": 1,
+        "gia_tri": 3,
+        "kha_nang_chot": 1
+      },
+      "bid": "Thấp - chỉ giữ hiện diện",
+      "chi_tieu": "Cắt đầu tiên khi cần dồn ngân sách"
+    },
+    {
+      "ten": "KN | S2 | Phương pháp & Công nghệ",
+      "uu_tien": "P2",
+      "vai_tro": "Giáo dục phương pháp, bắt khách đang so sánh",
+      "ty_trong": 0.14,
+      "diem": {
+        "y_dinh": 3,
+        "gia_tri": 4,
+        "kha_nang_chot": 3
+      },
+      "bid": "Trung bình",
+      "chi_tieu": "Giữ ổn định"
+    },
+    {
+      "ten": "KN | S2 | Ở đâu tốt - Thương hiệu",
+      "uu_tien": "P2",
+      "vai_tro": "Cạnh tranh trực diện ở truy vấn 'ở đâu tốt'",
+      "ty_trong": 0.1,
+      "diem": {
+        "y_dinh": 4,
+        "gia_tri": 4,
+        "kha_nang_chot": 3
+      },
+      "bid": "Cao - đây là chỗ đối thủ đấu mạnh",
+      "chi_tieu": "Theo dõi CPC hàng tuần"
+    },
+    {
+      "ten": "KN | S3 | Nỗi sợ & Bằng chứng",
+      "uu_tien": "P1",
+      "vai_tro": "CHẶNG QUYẾT ĐỊNH - gỡ nỗi sợ, cạnh tranh thấp nhất",
+      "ty_trong": 0.18,
+      "diem": {
+        "y_dinh": 4,
+        "gia_tri": 5,
+        "kha_nang_chot": 4
+      },
+      "bid": "Cao",
+      "chi_tieu": "KHÔNG cắt trước 6 tuần dù CPL cao"
+    },
+    {
+      "ten": "KN | S3 | Sửa mũi hỏng",
+      "uu_tien": "P1",
+      "vai_tro": "Ngách giá trị cao nhất - khách sửa lại",
+      "ty_trong": 0.12,
+      "diem": {
+        "y_dinh": 5,
+        "gia_tri": 5,
+        "kha_nang_chot": 3
+      },
+      "bid": "Rất cao - giá trị ca bù được",
+      "chi_tieu": "Giữ, đây là lợi thế bệnh viện"
+    },
+    {
+      "ten": "KN | S4 | Giá & Trả góp",
+      "uu_tien": "P1",
+      "vai_tro": "Chốt đơn - intent mua cao nhất",
+      "ty_trong": 0.2,
+      "diem": {
+        "y_dinh": 5,
+        "gia_tri": 5,
+        "kha_nang_chot": 5
+      },
+      "bid": "Rất cao",
+      "chi_tieu": "Ưu tiên tuyệt đối"
+    },
+    {
+      "ten": "KN | S4 | Đặt lịch - Local tuyến BV",
+      "uu_tien": "P1",
+      "vai_tro": "Local tuyến BỆNH VIỆN (HN + SG) - được mời đại phẫu",
+      "ty_trong": 0.11,
+      "diem": {
+        "y_dinh": 5,
+        "gia_tri": 5,
+        "kha_nang_chot": 5
+      },
+      "bid": "Rất cao",
+      "chi_tieu": "Ưu tiên tuyệt đối"
+    },
+    {
+      "ten": "KN | S4 | Local viện tỉnh - Tư vấn",
+      "uu_tien": "P3",
+      "vai_tro": "Local VIỆN TỈNH - chỉ tư vấn + đặt khám, mổ tại tuyến BV",
+      "ty_trong": 0.06,
+      "diem": {
+        "y_dinh": 4,
+        "gia_tri": 5,
+        "kha_nang_chot": 2
+      },
+      "bid": "Trung bình",
+      "chi_tieu": "Chỉ chạy khi landing đã nói rõ nơi phẫu thuật"
+    },
+    {
+      "ten": "KN | S5 | Hậu phẫu & Chăm sóc",
+      "uu_tien": "P4",
+      "vai_tro": "Giữ khách đã mổ, giảm lo lắng hậu phẫu",
+      "ty_trong": 0.02,
+      "diem": {
+        "y_dinh": 1,
+        "gia_tri": 2,
+        "kha_nang_chot": 1
+      },
+      "bid": "Rất thấp",
+      "chi_tieu": "Gần như chỉ để hiện diện"
+    },
+    {
+      "ten": "KN | S6 | Khách cũ & Cross-sell",
+      "uu_tien": "P3",
+      "vai_tro": "Cross-sell và loyalty - LTV",
+      "ty_trong": 0.02,
+      "diem": {
+        "y_dinh": 3,
+        "gia_tri": 3,
+        "kha_nang_chot": 4
+      },
+      "bid": "Thấp - chủ yếu chạy qua CRM",
+      "chi_tieu": "Giữ nhỏ, đẩy mạnh qua Zalo OA"
+    }
+  ],
+  "cap_uu_tien": [
+    {
+      "cap": "P1",
+      "quy_tac": "Intent mua rõ hoặc chặng quyết định. Ngân sách ưu tiên, không cắt khi tối ưu."
+    },
+    {
+      "cap": "P2",
+      "quy_tac": "Đang so sánh, chưa chốt. Giữ ổn định, tối ưu dần bằng nội dung."
+    },
+    {
+      "cap": "P3",
+      "quy_tac": "Có giá trị nhưng khả năng chốt thấp hoặc cần điều kiện (tuyến, CRM). Bật sau khi P1 đủ."
+    },
+    {
+      "cap": "P4",
+      "quy_tac": "Hứng volume hoặc giữ hiện diện. Cắt đầu tiên khi cần dồn ngân sách."
+    }
+  ],
+  "landing": [
+    {
+      "ma_ten": "LP1: Nâng mũi - Kiến thức tổng quan",
+      "loai": "Công cụ",
+      "chang": "S1",
+      "chan_dung": "CD1, CD5",
+      "rao_can": "Chưa có - giai đoạn giáo dục",
+      "noi_dung": "Phân biệt các phương pháp theo tình trạng mũi, không bán. Nội dung bác sĩ duyệt.",
+      "cta": "Đọc tiếp / Xem phương pháp phù hợp",
+      "micro": "Không có form - chỉ điều hướng nội dung"
+    },
+    {
+      "ma_ten": "LP2: Nâng mũi cấu trúc",
+      "loai": "A1 - AIDA khát khao",
+      "chang": "S2",
+      "chan_dung": "CD1, CD2",
+      "rao_can": "NGỜ - phương pháp nào phù hợp với mũi mình",
+      "noi_dung": "Kết quả tự nhiên theo dáng mặt Á Đông, so sánh cấu trúc vs bọc sụn, bác sĩ KCCS, quy trình 5 bước. Địa chỉ TUYẾN BỆNH VIỆN.",
+      "cta": "Đặt khám miễn phí với bác sĩ chuyên khoa",
+      "micro": "Chọn dịch vụ quan tâm (bottom sheet) trước form"
+    },
+    {
+      "ma_ten": "LP3: Nâng mũi sụn tự thân - sụn sườn",
+      "loai": "A1 - AIDA khát khao",
+      "chang": "S2",
+      "chan_dung": "CD2",
+      "rao_can": "NGỜ - tay nghề bác sĩ với ca khó",
+      "noi_dung": "Chỉ định sụn tự thân, kinh nghiệm bác sĩ, điều kiện phòng mổ bệnh viện. Địa chỉ TUYẾN BỆNH VIỆN.",
+      "cta": "Đặt khám với bác sĩ chuyên khoa",
+      "micro": "Chọn dịch vụ quan tâm trước form"
+    },
+    {
+      "ma_ten": "LP4: Nâng mũi có đau không - Hỏi đáp nỗi lo",
+      "loai": "A2 - AIDA trả lời trước",
+      "chang": "S3",
+      "chan_dung": "CD1, CD4, CD5",
+      "rao_can": "SỢ - đau, gây mê, biến chứng",
+      "noi_dung": "Hero gọi đúng nỗi lo rồi TRẢ LỜI NGAY. Gây mê do bác sĩ gây mê bệnh viện phụ trách, quy trình 5 bước vô khuẩn, hội đồng chuyên môn, bảo hành minh bạch. KHÔNG khoét sâu nỗi sợ. Thời gian hồi phục nói dạng khoảng + tùy cơ địa.",
+      "cta": "Đặt khám miễn phí - chưa cần quyết định mổ",
+      "micro": "Đặt khám miễn phí với bác sĩ chuyên khoa"
+    },
+    {
+      "ma_ten": "LP5: Sửa mũi hỏng - Khắc phục",
+      "loai": "A2 - AIDA trả lời trước",
+      "chang": "S3",
+      "chan_dung": "CD3",
+      "rao_can": "NGỜ - lần này có chắc không, ai chịu trách nhiệm",
+      "noi_dung": "Hero thừa nhận tình trạng rồi trả lời ngay là sửa được. Phân loại lộ sóng/bóng đỏ/lệch/co rút và hướng xử lý từng loại. Nhấn ĐIỀU KIỆN BỆNH VIỆN + hội đồng chuyên môn + bảo hành. Giọng KHÔNG phán xét nơi làm trước, KHÔNG nêu tên đối thủ.",
+      "cta": "Gửi ảnh mũi để bác sĩ đánh giá sơ bộ",
+      "micro": "Chat riêng tư Zalo - gửi ảnh không cần để SĐT"
+    },
+    {
+      "ma_ten": "LP6: Giá nâng mũi & Trả góp",
+      "loai": "A1 - AIDA khát khao",
+      "chang": "S4",
+      "chan_dung": "CD2, CD4",
+      "rao_can": "NGẠI - chi phí lớn",
+      "noi_dung": "Bảng giá theo phương pháp [ĐỘNG - đọc /bang-gia/ lúc chạy], ưu đãi [ĐỘNG - /uu-dai/], điều kiện trả góp [ĐỘNG]. Minh bạch chi phí phát sinh. Địa chỉ TUYẾN BỆNH VIỆN.",
+      "cta": "Nhận báo giá theo tình trạng của bạn",
+      "micro": "Chọn mức ưu đãi quan tâm trước form"
+    },
+    {
+      "ma_ten": "LP7: Nâng mũi Hà Nội - 190 Trường Chinh",
+      "loai": "A1 - AIDA khát khao",
+      "chang": "S4",
+      "chan_dung": "CD2, CD4",
+      "rao_can": "NGẠI - thời gian, đi lại trong thành phố",
+      "noi_dung": "TUYẾN BỆNH VIỆN - được mời đại phẫu. Địa chỉ 190 Trường Chinh, giấy phép, bản đồ, giờ khám, bác sĩ trực.",
+      "cta": "Đặt lịch khám tại 190 Trường Chinh",
+      "micro": "Chọn dịch vụ + chọn ca khám trước form"
+    },
+    {
+      "ma_ten": "LP8: Nâng mũi TP.HCM - 666 CMT8",
+      "loai": "A1 - AIDA khát khao",
+      "chang": "S4",
+      "chan_dung": "CD2, CD4",
+      "rao_can": "NGẠI - thời gian, đi lại trong thành phố",
+      "noi_dung": "TUYẾN BỆNH VIỆN - được mời đại phẫu. Địa chỉ 666 CMT8, giấy phép 287/BYT-GPHĐ, bản đồ, giờ khám.",
+      "cta": "Đặt lịch khám tại 666 CMT8",
+      "micro": "Chọn dịch vụ + chọn ca khám trước form"
+    },
+    {
+      "ma_ten": "LP9: Hướng dẫn sau nâng mũi",
+      "loai": "Trang CRM",
+      "chang": "S5",
+      "chan_dung": "CD7",
+      "rao_can": "Lo lắng hậu phẫu",
+      "noi_dung": "Mốc hồi phục 3-7-30 ngày, kiêng gì, dấu hiệu cần gọi ngay cho điều dưỡng. Gói chăm sóc hậu phẫu.",
+      "cta": "Đặt tái khám / Gọi điều dưỡng",
+      "micro": "Không có form bán - chỉ đặt tái khám"
+    },
+    {
+      "ma_ten": "LP10: Ưu đãi khách cũ",
+      "loai": "A1 - AIDA khát khao",
+      "chang": "S6",
+      "chan_dung": "CD7",
+      "rao_can": "Gần như không còn - cần lý do và ưu đãi",
+      "noi_dung": "Quyền lợi khách cũ [ĐỘNG], cross-sell sang ZONE Mắt / Trẻ hoá, chương trình giới thiệu.",
+      "cta": "Nhận ưu đãi khách cũ",
+      "micro": "Chọn dịch vụ quan tâm trước form"
+    },
+    {
+      "ma_ten": "LP11: Tư vấn nâng mũi cho khách tỉnh",
+      "loai": "A2 - AIDA trả lời trước",
+      "chang": "S4",
+      "chan_dung": "CD6",
+      "rao_can": "NGẠI - đi lại xa, lưu trú, hậu phẫu ai theo",
+      "noi_dung": "NÓI RÕ NGAY Ở HERO: khám và tư vấn tại viện tỉnh, PHẪU THUẬT TẠI TUYẾN BỆNH VIỆN (HN hoặc SG). Lộ trình 1 chuyến đi, hỗ trợ lưu trú, hậu phẫu theo dõi tại viện tỉnh gần nhà. TUYỆT ĐỐI không mời mổ tại viện tỉnh.",
+      "cta": "Đặt khám tại viện tỉnh gần bạn",
+      "micro": "Chọn tỉnh + chọn dịch vụ trước form"
+    }
+  ],
+  "tu_khoa": [
+    {
+      "chien_dich": "KN | S1 | Nhận biết & Giáo dục",
+      "nhom_qc": "Khái niệm",
+      "tu_khoa": "nâng mũi là gì",
+      "khop": "Exact",
+      "uu_tien": "P4",
+      "chang": "S1",
+      "chan_dung": "CD1",
+      "rao_can": "SỢ",
+      "canh_tranh": "Cao",
+      "win": "1/3",
+      "lp": "LP1",
+      "thong_diep": "Hiểu đúng về nâng mũi trước khi quyết định · Đọc kiến thức",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": "Đầu ngành, chấm 1/3 - giữ để hứng volume, KHÔNG sản xuất nội dung riêng. Cắt nếu CPC > 1,5x trung bình nhóm."
+    },
+    {
+      "chien_dich": "KN | S1 | Nhận biết & Giáo dục",
+      "nhom_qc": "Khái niệm",
+      "tu_khoa": "có nên nâng mũi không",
+      "khop": "Phrase",
+      "uu_tien": "P4",
+      "chang": "S1",
+      "chan_dung": "CD1",
+      "rao_can": "SỢ",
+      "canh_tranh": "Cao",
+      "win": "1/3",
+      "lp": "LP1",
+      "thong_diep": "Cân nhắc dựa trên tình trạng mũi thật · Xem phân tích",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": "Giữ P4. Không chạy landing chốt ở S1."
+    },
+    {
+      "chien_dich": "KN | S1 | Nhận biết & Giáo dục",
+      "nhom_qc": "Khái niệm",
+      "tu_khoa": "các loại nâng mũi hiện nay",
+      "khop": "Phrase",
+      "uu_tien": "P4",
+      "chang": "S1",
+      "chan_dung": "CD1",
+      "rao_can": "SỢ",
+      "canh_tranh": "Trung bình",
+      "win": "1/3",
+      "lp": "LP1",
+      "thong_diep": "Phân biệt từng phương pháp theo dáng mũi · Đọc tiếp",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": "Giữ P4."
+    },
+    {
+      "chien_dich": "KN | S1 | Nhận biết & Giáo dục",
+      "nhom_qc": "Khái niệm",
+      "tu_khoa": "nâng mũi giữ được bao lâu",
+      "khop": "Phrase",
+      "uu_tien": "P4",
+      "chang": "S1",
+      "chan_dung": "CD1",
+      "rao_can": "NGỜ",
+      "canh_tranh": "Trung bình",
+      "win": "1/3",
+      "lp": "LP1",
+      "thong_diep": "Độ bền tuỳ phương pháp và cơ địa · Xem giải thích",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": "TUYỆT ĐỐI không dùng từ 'vĩnh viễn' trong thông điệp."
+    },
+    {
+      "chien_dich": "KN | S2 | Phương pháp & Công nghệ",
+      "nhom_qc": "Cấu trúc",
+      "tu_khoa": "nâng mũi cấu trúc",
+      "khop": "Exact",
+      "uu_tien": "P2",
+      "chang": "S2",
+      "chan_dung": "CD1",
+      "rao_can": "SỢ",
+      "canh_tranh": "Cao",
+      "win": "2/3",
+      "lp": "LP2",
+      "thong_diep": "Nâng mũi cấu trúc tại bệnh viện chuẩn Hàn · Đặt khám miễn phí",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": ""
+    },
+    {
+      "chien_dich": "KN | S2 | Phương pháp & Công nghệ",
+      "nhom_qc": "Cấu trúc",
+      "tu_khoa": "nâng mũi cấu trúc là gì",
+      "khop": "Phrase",
+      "uu_tien": "P3",
+      "chang": "S2",
+      "chan_dung": "CD1",
+      "rao_can": "SỢ",
+      "canh_tranh": "Trung bình",
+      "win": "2/3",
+      "lp": "LP2",
+      "thong_diep": "Dựng lại toàn bộ cấu trúc mũi, dáng bền tự nhiên · Xem chi tiết",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": ""
+    },
+    {
+      "chien_dich": "KN | S2 | Phương pháp & Công nghệ",
+      "nhom_qc": "Cấu trúc",
+      "tu_khoa": "nâng mũi bọc sụn hay cấu trúc",
+      "khop": "Phrase",
+      "uu_tien": "P2",
+      "chang": "S2",
+      "chan_dung": "CD2",
+      "rao_can": "NGỜ",
+      "canh_tranh": "Thấp",
+      "win": "3/3",
+      "lp": "LP2",
+      "thong_diep": "So sánh theo tình trạng mũi của bạn · Bác sĩ tư vấn miễn phí",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": "Ngách so sánh - cạnh tranh thấp, intent cao. Ưu tiên nội dung riêng."
+    },
+    {
+      "chien_dich": "KN | S2 | Phương pháp & Công nghệ",
+      "nhom_qc": "Sụn tự thân",
+      "tu_khoa": "nâng mũi sụn tự thân",
+      "khop": "Exact",
+      "uu_tien": "P2",
+      "chang": "S2",
+      "chan_dung": "CD2",
+      "rao_can": "NGỜ",
+      "canh_tranh": "Trung bình",
+      "win": "3/3",
+      "lp": "LP3",
+      "thong_diep": "Sụn tự thân, thực hiện tại phòng mổ bệnh viện · Đặt khám",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": ""
+    },
+    {
+      "chien_dich": "KN | S2 | Phương pháp & Công nghệ",
+      "nhom_qc": "Sụn tự thân",
+      "tu_khoa": "nâng mũi sụn sườn",
+      "khop": "Exact",
+      "uu_tien": "P2",
+      "chang": "S2",
+      "chan_dung": "CD2",
+      "rao_can": "NGỜ",
+      "canh_tranh": "Trung bình",
+      "win": "3/3",
+      "lp": "LP3",
+      "thong_diep": "Chỉ định sụn sườn cho ca khó · Bác sĩ chuyên khoa đánh giá",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": "Giá trị ca rất cao. Bid cao được."
+    },
+    {
+      "chien_dich": "KN | S2 | Phương pháp & Công nghệ",
+      "nhom_qc": "Sụn tự thân",
+      "tu_khoa": "nâng mũi sụn tai",
+      "khop": "Exact",
+      "uu_tien": "P3",
+      "chang": "S2",
+      "chan_dung": "CD2",
+      "rao_can": "NGỜ",
+      "canh_tranh": "Trung bình",
+      "win": "2/3",
+      "lp": "LP3",
+      "thong_diep": "Sụn tai cho đầu mũi mềm tự nhiên · Xem chỉ định",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": ""
+    },
+    {
+      "chien_dich": "KN | S2 | Phương pháp & Công nghệ",
+      "nhom_qc": "Dáng mũi",
+      "tu_khoa": "nâng mũi s line",
+      "khop": "Exact",
+      "uu_tien": "P2",
+      "chang": "S2",
+      "chan_dung": "CD1",
+      "rao_can": "SỢ",
+      "canh_tranh": "Cao",
+      "win": "2/3",
+      "lp": "LP2",
+      "thong_diep": "Dáng S-line phù hợp khuôn mặt Á Đông · Đặt khám miễn phí",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": ""
+    },
+    {
+      "chien_dich": "KN | S2 | Phương pháp & Công nghệ",
+      "nhom_qc": "Dáng mũi",
+      "tu_khoa": "nâng mũi l line",
+      "khop": "Exact",
+      "uu_tien": "P3",
+      "chang": "S2",
+      "chan_dung": "CD1",
+      "rao_can": "SỢ",
+      "canh_tranh": "Trung bình",
+      "win": "2/3",
+      "lp": "LP2",
+      "thong_diep": "Dáng L-line và chỉ định phù hợp · Bác sĩ tư vấn",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": ""
+    },
+    {
+      "chien_dich": "KN | S2 | Phương pháp & Công nghệ",
+      "nhom_qc": "Dáng mũi",
+      "tu_khoa": "nâng mũi tự nhiên không lộ",
+      "khop": "Phrase",
+      "uu_tien": "P1",
+      "chang": "S2",
+      "chan_dung": "CD1",
+      "rao_can": "SỢ",
+      "canh_tranh": "Thấp",
+      "win": "3/3",
+      "lp": "LP2",
+      "thong_diep": "Dáng tự nhiên theo tỷ lệ khuôn mặt · Xem case thật đã duyệt",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": "Ngách nỗi sợ 'bị nhận ra' của CD1 - cạnh tranh thấp. Ưu tiên P1."
+    },
+    {
+      "chien_dich": "KN | S2 | Phương pháp & Công nghệ",
+      "nhom_qc": "Nam giới",
+      "tu_khoa": "nâng mũi nam",
+      "khop": "Exact",
+      "uu_tien": "P2",
+      "chang": "S2",
+      "chan_dung": "CD5",
+      "rao_can": "NGẠI",
+      "canh_tranh": "Thấp",
+      "win": "3/3",
+      "lp": "LP2",
+      "thong_diep": "Dáng mũi nam tính, sắc nét · Tư vấn riêng tư qua Zalo",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": "CD5 cần GIỮ KÍN - landing phải có kênh chat riêng tư, không chỉ form SĐT."
+    },
+    {
+      "chien_dich": "KN | S2 | Phương pháp & Công nghệ",
+      "nhom_qc": "Nam giới",
+      "tu_khoa": "nâng mũi cho nam giá bao nhiêu",
+      "khop": "Phrase",
+      "uu_tien": "P2",
+      "chang": "S2",
+      "chan_dung": "CD5",
+      "rao_can": "NGẠI",
+      "canh_tranh": "Thấp",
+      "win": "3/3",
+      "lp": "LP6",
+      "thong_diep": "Chi phí theo phương pháp [CHỜ CẬP NHẬT] · Nhận báo giá riêng",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": "Giá ĐỘNG - đọc /bang-gia/ lúc chạy."
+    },
+    {
+      "chien_dich": "KN | S2 | Ở đâu tốt - Thương hiệu",
+      "nhom_qc": "Ở đâu tốt",
+      "tu_khoa": "nâng mũi ở đâu tốt",
+      "khop": "Phrase",
+      "uu_tien": "P2",
+      "chang": "S2",
+      "chan_dung": "CD2",
+      "rao_can": "NGỜ",
+      "canh_tranh": "Rất cao",
+      "win": "2/3",
+      "lp": "LP2",
+      "thong_diep": "Bệnh viện thẩm mỹ chuẩn Hàn, giấy phép Bộ Y tế · Đặt khám",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": "Cạnh tranh rất cao. Theo dõi CPC hàng tuần, cắt nếu vượt ngưỡng."
+    },
+    {
+      "chien_dich": "KN | S2 | Ở đâu tốt - Thương hiệu",
+      "nhom_qc": "Ở đâu tốt",
+      "tu_khoa": "bệnh viện nâng mũi uy tín",
+      "khop": "Phrase",
+      "uu_tien": "P2",
+      "chang": "S2",
+      "chan_dung": "CD2",
+      "rao_can": "NGỜ",
+      "canh_tranh": "Cao",
+      "win": "3/3",
+      "lp": "LP2",
+      "thong_diep": "Tuyến bệnh viện, hội đồng chuyên môn giám sát · Xem giấy phép",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": "Từ khoá 'bệnh viện' lọc đúng khách cần tuyến BV - chất lượng cao hơn 'thẩm mỹ viện'."
+    },
+    {
+      "chien_dich": "KN | S2 | Ở đâu tốt - Thương hiệu",
+      "nhom_qc": "Ở đâu tốt",
+      "tu_khoa": "bác sĩ nâng mũi giỏi",
+      "khop": "Phrase",
+      "uu_tien": "P2",
+      "chang": "S2",
+      "chan_dung": "CD2",
+      "rao_can": "NGỜ",
+      "canh_tranh": "Cao",
+      "win": "2/3",
+      "lp": "LP3",
+      "thong_diep": "Bác sĩ thành viên Hiệp hội Thẩm mỹ Hàn Quốc KCCS · Xem đội ngũ",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": "CHỈ dùng tên bác sĩ có trong kn-ho-so-thuong-hieu.md."
+    },
+    {
+      "chien_dich": "KN | S2 | Ở đâu tốt - Thương hiệu",
+      "nhom_qc": "Ở đâu tốt",
+      "tu_khoa": "review nâng mũi kangnam",
+      "khop": "Phrase",
+      "uu_tien": "P2",
+      "chang": "S2",
+      "chan_dung": "CD2",
+      "rao_can": "NGỜ",
+      "canh_tranh": "Thấp",
+      "win": "3/3",
+      "lp": "LP2",
+      "thong_diep": "Case thật đã duyệt pháp lý và chương trình HTLX · Xem kết quả",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": "Từ khoá brand - CPC thấp, intent cao. KHÔNG bịa review."
+    },
+    {
+      "chien_dich": "KN | S2 | Ở đâu tốt - Thương hiệu",
+      "nhom_qc": "Ở đâu tốt",
+      "tu_khoa": "kangnam nâng mũi",
+      "khop": "Exact",
+      "uu_tien": "P2",
+      "chang": "S2",
+      "chan_dung": "CD2",
+      "rao_can": "NGỜ",
+      "canh_tranh": "Thấp",
+      "win": "3/3",
+      "lp": "LP2",
+      "thong_diep": "Nâng mũi tại BVTM Kangnam · Đặt khám miễn phí",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": "Brand - giữ bid đủ để không mất traffic thương hiệu."
+    },
+    {
+      "chien_dich": "KN | S3 | Nỗi sợ & Bằng chứng",
+      "nhom_qc": "Nỗi sợ đau",
+      "tu_khoa": "nâng mũi có đau không",
+      "khop": "Exact",
+      "uu_tien": "P1",
+      "chang": "S3",
+      "chan_dung": "CD1",
+      "rao_can": "SỢ",
+      "canh_tranh": "Thấp",
+      "win": "3/3",
+      "lp": "LP4",
+      "thong_diep": "Gây mê do bác sĩ gây mê bệnh viện phụ trách · Đọc câu trả lời",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": "CHẶNG QUYẾT ĐỊNH. Landing A2 - trả lời ngay, KHÔNG khoét sâu."
+    },
+    {
+      "chien_dich": "KN | S3 | Nỗi sợ & Bằng chứng",
+      "nhom_qc": "Nỗi sợ đau",
+      "tu_khoa": "nâng mũi đau mấy ngày",
+      "khop": "Phrase",
+      "uu_tien": "P1",
+      "chang": "S3",
+      "chan_dung": "CD1",
+      "rao_can": "SỢ",
+      "canh_tranh": "Thấp",
+      "win": "3/3",
+      "lp": "LP4",
+      "thong_diep": "Mức độ và thời gian tuỳ cơ địa, có phác đồ giảm đau · Xem chi tiết",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": "KHÔNG hứa số ngày cứng. Nói dạng khoảng + 'tùy cơ địa'."
+    },
+    {
+      "chien_dich": "KN | S3 | Nỗi sợ & Bằng chứng",
+      "nhom_qc": "Nỗi sợ biến chứng",
+      "tu_khoa": "nâng mũi có nguy hiểm không",
+      "khop": "Exact",
+      "uu_tien": "P1",
+      "chang": "S3",
+      "chan_dung": "CD1",
+      "rao_can": "SỢ",
+      "canh_tranh": "Thấp",
+      "win": "3/3",
+      "lp": "LP4",
+      "thong_diep": "Quy trình 5 bước vô khuẩn, hội đồng chuyên môn giám sát · Đọc ngay",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": "KHÔNG dùng 'không biến chứng' hay 'an toàn tuyệt đối' - generator sẽ chặn."
+    },
+    {
+      "chien_dich": "KN | S3 | Nỗi sợ & Bằng chứng",
+      "nhom_qc": "Nỗi sợ biến chứng",
+      "tu_khoa": "nâng mũi có để lại sẹo không",
+      "khop": "Phrase",
+      "uu_tien": "P1",
+      "chang": "S3",
+      "chan_dung": "CD1",
+      "rao_can": "SỢ",
+      "canh_tranh": "Thấp",
+      "win": "3/3",
+      "lp": "LP4",
+      "thong_diep": "Vị trí đường mổ và cách hạn chế sẹo · Bác sĩ giải thích",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": "KHÔNG dùng 'không để lại sẹo'."
+    },
+    {
+      "chien_dich": "KN | S3 | Nỗi sợ & Bằng chứng",
+      "nhom_qc": "Hồi phục",
+      "tu_khoa": "nâng mũi bao lâu hồi phục",
+      "khop": "Exact",
+      "uu_tien": "P1",
+      "chang": "S3",
+      "chan_dung": "CD4",
+      "rao_can": "NGẠI",
+      "canh_tranh": "Thấp",
+      "win": "3/3",
+      "lp": "LP4",
+      "thong_diep": "Mốc hồi phục 3-7-30 ngày, tuỳ cơ địa · Xem lộ trình",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": "Trục NGẠI của CD4 - 'nghỉ bao lâu mới đi làm được'. KHÔNG hứa thời gian cứng."
+    },
+    {
+      "chien_dich": "KN | S3 | Nỗi sợ & Bằng chứng",
+      "nhom_qc": "Hồi phục",
+      "tu_khoa": "nâng mũi sưng bao lâu",
+      "khop": "Phrase",
+      "uu_tien": "P1",
+      "chang": "S3",
+      "chan_dung": "CD4",
+      "rao_can": "NGẠI",
+      "canh_tranh": "Thấp",
+      "win": "3/3",
+      "lp": "LP4",
+      "thong_diep": "Diễn tiến sưng nề theo ngày · Xem hướng dẫn hậu phẫu",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": ""
+    },
+    {
+      "chien_dich": "KN | S3 | Nỗi sợ & Bằng chứng",
+      "nhom_qc": "Hồi phục",
+      "tu_khoa": "nâng mũi bao lâu thì đi làm được",
+      "khop": "Phrase",
+      "uu_tien": "P1",
+      "chang": "S3",
+      "chan_dung": "CD4",
+      "rao_can": "NGẠI",
+      "canh_tranh": "Thấp",
+      "win": "3/3",
+      "lp": "LP4",
+      "thong_diep": "Thời gian nghỉ dưỡng theo phương pháp, tuỳ cơ địa · Tư vấn lộ trình",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": "Ngách tình huống - rất sát intent của người đi làm. Cạnh tranh thấp."
+    },
+    {
+      "chien_dich": "KN | S3 | Nỗi sợ & Bằng chứng",
+      "nhom_qc": "Gây mê",
+      "tu_khoa": "nâng mũi gây mê hay gây tê",
+      "khop": "Phrase",
+      "uu_tien": "P2",
+      "chang": "S3",
+      "chan_dung": "CD1",
+      "rao_can": "SỢ",
+      "canh_tranh": "Thấp",
+      "win": "3/3",
+      "lp": "LP4",
+      "thong_diep": "Phương pháp vô cảm do bác sĩ gây mê bệnh viện quyết định · Đọc thêm",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": "Lợi thế tuyến bệnh viện - có bác sĩ gây mê riêng."
+    },
+    {
+      "chien_dich": "KN | S3 | Nỗi sợ & Bằng chứng",
+      "nhom_qc": "Bảo hành",
+      "tu_khoa": "nâng mũi có bảo hành không",
+      "khop": "Phrase",
+      "uu_tien": "P2",
+      "chang": "S3",
+      "chan_dung": "CD2",
+      "rao_can": "NGỜ",
+      "canh_tranh": "Thấp",
+      "win": "3/3",
+      "lp": "LP4",
+      "thong_diep": "Bảo hành minh bạch bằng văn bản · Xem điều kiện",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": "Điều kiện bảo hành cụ thể là [CHỜ CẬP NHẬT] - không tự điền."
+    },
+    {
+      "chien_dich": "KN | S3 | Nỗi sợ & Bằng chứng",
+      "nhom_qc": "Nỗi sợ hỏng",
+      "tu_khoa": "nâng mũi bị lộ sóng",
+      "khop": "Phrase",
+      "uu_tien": "P1",
+      "chang": "S3",
+      "chan_dung": "CD3",
+      "rao_can": "NGỜ",
+      "canh_tranh": "Thấp",
+      "win": "3/3",
+      "lp": "LP5",
+      "thong_diep": "Nguyên nhân lộ sóng và cách khắc phục · Gửi ảnh để bác sĩ đánh giá",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": "Cầu nối sang CD3. Giọng KHÔNG gây hoang mang, KHÔNG phán xét nơi làm trước."
+    },
+    {
+      "chien_dich": "KN | S3 | Nỗi sợ & Bằng chứng",
+      "nhom_qc": "Nỗi sợ hỏng",
+      "tu_khoa": "nâng mũi bị bóng đỏ",
+      "khop": "Phrase",
+      "uu_tien": "P1",
+      "chang": "S3",
+      "chan_dung": "CD3",
+      "rao_can": "NGỜ",
+      "canh_tranh": "Thấp",
+      "win": "3/3",
+      "lp": "LP5",
+      "thong_diep": "Xử lý bóng đỏ đầu mũi theo mức độ · Bác sĩ đánh giá sơ bộ",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": ""
+    },
+    {
+      "chien_dich": "KN | S3 | Sửa mũi hỏng",
+      "nhom_qc": "Sửa lại",
+      "tu_khoa": "sửa mũi hỏng",
+      "khop": "Exact",
+      "uu_tien": "P1",
+      "chang": "S3",
+      "chan_dung": "CD3",
+      "rao_can": "NGỜ",
+      "canh_tranh": "Thấp",
+      "win": "3/3",
+      "lp": "LP5",
+      "thong_diep": "Sửa mũi hỏng tại tuyến bệnh viện, hội đồng chuyên môn · Gửi ảnh đánh giá",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": "NGÁCH GIÁ TRỊ CAO NHẤT. CD3 đã mất niềm tin - cần bằng chứng điều kiện bệnh viện, không phải lời hứa."
+    },
+    {
+      "chien_dich": "KN | S3 | Sửa mũi hỏng",
+      "nhom_qc": "Sửa lại",
+      "tu_khoa": "sửa mũi hỏng ở đâu",
+      "khop": "Phrase",
+      "uu_tien": "P1",
+      "chang": "S3",
+      "chan_dung": "CD3",
+      "rao_can": "NGỜ",
+      "canh_tranh": "Thấp",
+      "win": "3/3",
+      "lp": "LP5",
+      "thong_diep": "Tuyến bệnh viện, phòng mổ vô khuẩn, bác sĩ KCCS · Đặt khám",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": ""
+    },
+    {
+      "chien_dich": "KN | S3 | Sửa mũi hỏng",
+      "nhom_qc": "Sửa lại",
+      "tu_khoa": "phẫu thuật lại mũi",
+      "khop": "Phrase",
+      "uu_tien": "P1",
+      "chang": "S3",
+      "chan_dung": "CD3",
+      "rao_can": "NGỜ",
+      "canh_tranh": "Thấp",
+      "win": "3/3",
+      "lp": "LP5",
+      "thong_diep": "Đánh giá lại cấu trúc mũi trước khi can thiệp · Bác sĩ khám trực tiếp",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": ""
+    },
+    {
+      "chien_dich": "KN | S3 | Sửa mũi hỏng",
+      "nhom_qc": "Sửa lại",
+      "tu_khoa": "tháo sụn mũi",
+      "khop": "Exact",
+      "uu_tien": "P2",
+      "chang": "S3",
+      "chan_dung": "CD3",
+      "rao_can": "NGỜ",
+      "canh_tranh": "Thấp",
+      "win": "3/3",
+      "lp": "LP5",
+      "thong_diep": "Chỉ định tháo sụn và thời điểm phù hợp · Bác sĩ đánh giá",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": ""
+    },
+    {
+      "chien_dich": "KN | S3 | Sửa mũi hỏng",
+      "nhom_qc": "Sửa lại",
+      "tu_khoa": "mũi bị lệch sau nâng",
+      "khop": "Phrase",
+      "uu_tien": "P1",
+      "chang": "S3",
+      "chan_dung": "CD3",
+      "rao_can": "NGỜ",
+      "canh_tranh": "Thấp",
+      "win": "3/3",
+      "lp": "LP5",
+      "thong_diep": "Nguyên nhân lệch và hướng chỉnh lại · Gửi ảnh để đánh giá",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": ""
+    },
+    {
+      "chien_dich": "KN | S3 | Sửa mũi hỏng",
+      "nhom_qc": "Sửa lại",
+      "tu_khoa": "mũi bị co rút sau nâng",
+      "khop": "Phrase",
+      "uu_tien": "P1",
+      "chang": "S3",
+      "chan_dung": "CD3",
+      "rao_can": "NGỜ",
+      "canh_tranh": "Thấp",
+      "win": "3/3",
+      "lp": "LP5",
+      "thong_diep": "Co rút bao xơ và phương án dựng lại cấu trúc · Bác sĩ khám",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": "Ca khó nhất, giá trị ca cao nhất. Cần điều kiện bệnh viện."
+    },
+    {
+      "chien_dich": "KN | S3 | Sửa mũi hỏng",
+      "nhom_qc": "Sửa lại",
+      "tu_khoa": "nâng mũi lần 2",
+      "khop": "Phrase",
+      "uu_tien": "P1",
+      "chang": "S3",
+      "chan_dung": "CD3",
+      "rao_can": "NGỜ",
+      "canh_tranh": "Thấp",
+      "win": "3/3",
+      "lp": "LP5",
+      "thong_diep": "Điều kiện và thời điểm làm lại lần 2 · Đặt khám đánh giá",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": ""
+    },
+    {
+      "chien_dich": "KN | S3 | Sửa mũi hỏng",
+      "nhom_qc": "Sửa lại",
+      "tu_khoa": "sửa mũi hỏng giá bao nhiêu",
+      "khop": "Phrase",
+      "uu_tien": "P2",
+      "chang": "S4",
+      "chan_dung": "CD3",
+      "rao_can": "NGẠI",
+      "canh_tranh": "Thấp",
+      "win": "3/3",
+      "lp": "LP6",
+      "thong_diep": "Chi phí tuỳ mức độ, báo giá sau khám [CHỜ CẬP NHẬT] · Nhận báo giá",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": "KHÔNG báo giá ca cụ thể trước khám. Giá ĐỘNG."
+    },
+    {
+      "chien_dich": "KN | S4 | Giá & Trả góp",
+      "nhom_qc": "Giá",
+      "tu_khoa": "nâng mũi giá bao nhiêu",
+      "khop": "Exact",
+      "uu_tien": "P1",
+      "chang": "S4",
+      "chan_dung": "CD2",
+      "rao_can": "NGẠI",
+      "canh_tranh": "Rất cao",
+      "win": "2/3",
+      "lp": "LP6",
+      "thong_diep": "Bảng giá theo phương pháp [CHỜ CẬP NHẬT] · Nhận báo giá chi tiết",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": "Intent mua cao nhất. Giá ĐỘNG - đọc /bang-gia/ lúc chạy, KHÔNG dùng số cũ."
+    },
+    {
+      "chien_dich": "KN | S4 | Giá & Trả góp",
+      "nhom_qc": "Giá",
+      "tu_khoa": "chi phí nâng mũi cấu trúc",
+      "khop": "Phrase",
+      "uu_tien": "P1",
+      "chang": "S4",
+      "chan_dung": "CD2",
+      "rao_can": "NGẠI",
+      "canh_tranh": "Cao",
+      "win": "3/3",
+      "lp": "LP6",
+      "thong_diep": "Chi phí nâng mũi cấu trúc [CHỜ CẬP NHẬT] · Xem bảng giá",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": ""
+    },
+    {
+      "chien_dich": "KN | S4 | Giá & Trả góp",
+      "nhom_qc": "Giá",
+      "tu_khoa": "bảng giá nâng mũi",
+      "khop": "Phrase",
+      "uu_tien": "P1",
+      "chang": "S4",
+      "chan_dung": "CD2",
+      "rao_can": "NGẠI",
+      "canh_tranh": "Cao",
+      "win": "3/3",
+      "lp": "LP6",
+      "thong_diep": "Bảng giá minh bạch, không phát sinh ẩn · Xem bảng giá",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": "Gỡ rào cản 'giá ẩn' của NGỜ."
+    },
+    {
+      "chien_dich": "KN | S4 | Giá & Trả góp",
+      "nhom_qc": "Giá",
+      "tu_khoa": "nâng mũi bao nhiêu tiền 2026",
+      "khop": "Phrase",
+      "uu_tien": "P2",
+      "chang": "S4",
+      "chan_dung": "CD2",
+      "rao_can": "NGẠI",
+      "canh_tranh": "Cao",
+      "win": "2/3",
+      "lp": "LP6",
+      "thong_diep": "Giá cập nhật theo đợt [CHỜ CẬP NHẬT] · Nhận báo giá",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": "Từ khoá có năm - phải kiểm lại mỗi năm, giá ĐỘNG."
+    },
+    {
+      "chien_dich": "KN | S4 | Giá & Trả góp",
+      "nhom_qc": "Trả góp",
+      "tu_khoa": "nâng mũi trả góp",
+      "khop": "Exact",
+      "uu_tien": "P1",
+      "chang": "S4",
+      "chan_dung": "CD4",
+      "rao_can": "NGẠI",
+      "canh_tranh": "Trung bình",
+      "win": "3/3",
+      "lp": "LP6",
+      "thong_diep": "Trả góp theo điều kiện hiện hành [CHỜ CẬP NHẬT] · Xem điều kiện",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": "Điều kiện và lãi suất trả góp là DỮ LIỆU ĐỘNG - không tự điền."
+    },
+    {
+      "chien_dich": "KN | S4 | Giá & Trả góp",
+      "nhom_qc": "Trả góp",
+      "tu_khoa": "nâng mũi trả góp 0 đồng",
+      "khop": "Phrase",
+      "uu_tien": "P2",
+      "chang": "S4",
+      "chan_dung": "CD4",
+      "rao_can": "NGẠI",
+      "canh_tranh": "Trung bình",
+      "win": "2/3",
+      "lp": "LP6",
+      "thong_diep": "Chương trình trả góp hiện hành [CHỜ CẬP NHẬT] · Hỏi điều kiện",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": "KHÔNG hứa '0 đồng' nếu chương trình không còn hiệu lực. Kiểm /uu-dai/ lúc chạy."
+    },
+    {
+      "chien_dich": "KN | S4 | Giá & Trả góp",
+      "nhom_qc": "Ưu đãi",
+      "tu_khoa": "nâng mũi ưu đãi",
+      "khop": "Phrase",
+      "uu_tien": "P2",
+      "chang": "S4",
+      "chan_dung": "CD4",
+      "rao_can": "NGẠI",
+      "canh_tranh": "Trung bình",
+      "win": "2/3",
+      "lp": "LP6",
+      "thong_diep": "Ưu đãi đang áp dụng [CHỜ CẬP NHẬT] · Xem ưu đãi",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": "% ưu đãi, số suất, hạn chương trình đều ĐỘNG."
+    },
+    {
+      "chien_dich": "KN | S4 | Giá & Trả góp",
+      "nhom_qc": "Đặt lịch",
+      "tu_khoa": "đặt lịch nâng mũi",
+      "khop": "Phrase",
+      "uu_tien": "P1",
+      "chang": "S4",
+      "chan_dung": "CD2",
+      "rao_can": "NGẠI",
+      "canh_tranh": "Thấp",
+      "win": "3/3",
+      "lp": "LP6",
+      "thong_diep": "Đặt khám với bác sĩ chuyên khoa · Chọn ca khám",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": ""
+    },
+    {
+      "chien_dich": "KN | S4 | Đặt lịch - Local tuyến BV",
+      "nhom_qc": "Hà Nội",
+      "tu_khoa": "nâng mũi hà nội",
+      "khop": "Phrase",
+      "uu_tien": "P1",
+      "chang": "S4",
+      "chan_dung": "CD2",
+      "rao_can": "NGẠI",
+      "canh_tranh": "Rất cao",
+      "win": "2/3",
+      "lp": "LP7",
+      "thong_diep": "Tuyến bệnh viện 190 Trường Chinh, Hà Nội · Đặt lịch khám",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": "TUYẾN BỆNH VIỆN - được mời đại phẫu."
+    },
+    {
+      "chien_dich": "KN | S4 | Đặt lịch - Local tuyến BV",
+      "nhom_qc": "Hà Nội",
+      "tu_khoa": "nâng mũi ở hà nội giá bao nhiêu",
+      "khop": "Phrase",
+      "uu_tien": "P1",
+      "chang": "S4",
+      "chan_dung": "CD2",
+      "rao_can": "NGẠI",
+      "canh_tranh": "Cao",
+      "win": "3/3",
+      "lp": "LP7",
+      "thong_diep": "Giá tại cơ sở Hà Nội [CHỜ CẬP NHẬT] · Nhận báo giá",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": ""
+    },
+    {
+      "chien_dich": "KN | S4 | Đặt lịch - Local tuyến BV",
+      "nhom_qc": "Hà Nội",
+      "tu_khoa": "bệnh viện thẩm mỹ nâng mũi hà nội",
+      "khop": "Phrase",
+      "uu_tien": "P1",
+      "chang": "S4",
+      "chan_dung": "CD2",
+      "rao_can": "NGỜ",
+      "canh_tranh": "Cao",
+      "win": "3/3",
+      "lp": "LP7",
+      "thong_diep": "Bệnh viện 190 Trường Chinh, giấy phép Bộ Y tế · Xem giấy phép",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": ""
+    },
+    {
+      "chien_dich": "KN | S4 | Đặt lịch - Local tuyến BV",
+      "nhom_qc": "Hà Nội",
+      "tu_khoa": "nâng mũi quận thanh xuân",
+      "khop": "Phrase",
+      "uu_tien": "P2",
+      "chang": "S4",
+      "chan_dung": "CD2",
+      "rao_can": "NGẠI",
+      "canh_tranh": "Thấp",
+      "win": "3/3",
+      "lp": "LP7",
+      "thong_diep": "Cơ sở 190 Trường Chinh, gần Thanh Xuân · Chỉ đường",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": "Ngách local nhỏ - CPC thấp. Verify lại địa chỉ hành chính trước khi chạy."
+    },
+    {
+      "chien_dich": "KN | S4 | Đặt lịch - Local tuyến BV",
+      "nhom_qc": "TP.HCM",
+      "tu_khoa": "nâng mũi tphcm",
+      "khop": "Phrase",
+      "uu_tien": "P1",
+      "chang": "S4",
+      "chan_dung": "CD2",
+      "rao_can": "NGẠI",
+      "canh_tranh": "Rất cao",
+      "win": "2/3",
+      "lp": "LP8",
+      "thong_diep": "Tuyến bệnh viện 666 CMT8, TP.HCM · Đặt lịch khám",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": "TUYẾN BỆNH VIỆN - được mời đại phẫu."
+    },
+    {
+      "chien_dich": "KN | S4 | Đặt lịch - Local tuyến BV",
+      "nhom_qc": "TP.HCM",
+      "tu_khoa": "nâng mũi sài gòn",
+      "khop": "Phrase",
+      "uu_tien": "P1",
+      "chang": "S4",
+      "chan_dung": "CD2",
+      "rao_can": "NGẠI",
+      "canh_tranh": "Cao",
+      "win": "2/3",
+      "lp": "LP8",
+      "thong_diep": "Bệnh viện 666 CMT8, giấy phép 287/BYT-GPHĐ · Đặt khám",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": ""
+    },
+    {
+      "chien_dich": "KN | S4 | Đặt lịch - Local tuyến BV",
+      "nhom_qc": "TP.HCM",
+      "tu_khoa": "nâng mũi ở đâu tốt tphcm",
+      "khop": "Phrase",
+      "uu_tien": "P1",
+      "chang": "S4",
+      "chan_dung": "CD2",
+      "rao_can": "NGỜ",
+      "canh_tranh": "Rất cao",
+      "win": "2/3",
+      "lp": "LP8",
+      "thong_diep": "Tuyến bệnh viện, hội đồng chuyên môn giám sát · Xem cơ sở",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": ""
+    },
+    {
+      "chien_dich": "KN | S4 | Đặt lịch - Local tuyến BV",
+      "nhom_qc": "TP.HCM",
+      "tu_khoa": "bệnh viện nâng mũi quận tân bình",
+      "khop": "Phrase",
+      "uu_tien": "P2",
+      "chang": "S4",
+      "chan_dung": "CD2",
+      "rao_can": "NGỜ",
+      "canh_tranh": "Thấp",
+      "win": "3/3",
+      "lp": "LP8",
+      "thong_diep": "Cơ sở 666 CMT8, Tân Bình · Chỉ đường",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": "Verify lại địa chỉ hành chính trước khi chạy."
+    },
+    {
+      "chien_dich": "KN | S4 | Local viện tỉnh - Tư vấn",
+      "nhom_qc": "Đà Nẵng",
+      "tu_khoa": "nâng mũi đà nẵng",
+      "khop": "Phrase",
+      "uu_tien": "P3",
+      "chang": "S4",
+      "chan_dung": "CD6",
+      "rao_can": "NGẠI",
+      "canh_tranh": "Cao",
+      "win": "2/3",
+      "lp": "LP11",
+      "thong_diep": "Khám và tư vấn tại Đà Nẵng, phẫu thuật tại tuyến bệnh viện · Đặt khám",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": "BẪY TUYẾN: Đà Nẵng chỉ có viện tỉnh, KHÔNG làm đại phẫu. Đổ về LP11 - nói rõ ngay ở hero là khám tại viện tỉnh, mổ tại TUYẾN BỆNH VIỆN (HN hoặc SG)."
+    },
+    {
+      "chien_dich": "KN | S4 | Local viện tỉnh - Tư vấn",
+      "nhom_qc": "Đà Nẵng",
+      "tu_khoa": "nâng mũi ở đà nẵng giá bao nhiêu",
+      "khop": "Phrase",
+      "uu_tien": "P3",
+      "chang": "S4",
+      "chan_dung": "CD6",
+      "rao_can": "NGẠI",
+      "canh_tranh": "Trung bình",
+      "win": "2/3",
+      "lp": "LP11",
+      "thong_diep": "Chi phí và lộ trình 1 chuyến đi [CHỜ CẬP NHẬT] · Nhận tư vấn",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": "BẪY TUYẾN - xử lý như trên: chỉ tư vấn tại viện tỉnh, phẫu thuật tại tuyến bệnh viện."
+    },
+    {
+      "chien_dich": "KN | S4 | Local viện tỉnh - Tư vấn",
+      "nhom_qc": "Hải Phòng",
+      "tu_khoa": "nâng mũi hải phòng",
+      "khop": "Phrase",
+      "uu_tien": "P3",
+      "chang": "S4",
+      "chan_dung": "CD6",
+      "rao_can": "NGẠI",
+      "canh_tranh": "Trung bình",
+      "win": "2/3",
+      "lp": "LP11",
+      "thong_diep": "Khám tại Hải Phòng, phẫu thuật tại tuyến bệnh viện Hà Nội · Đặt khám",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": "BẪY TUYẾN: Hải Phòng là viện tỉnh. Đổ về LP11, mổ tại tuyến bệnh viện 190 Trường Chinh."
+    },
+    {
+      "chien_dich": "KN | S4 | Local viện tỉnh - Tư vấn",
+      "nhom_qc": "Nghệ An",
+      "tu_khoa": "nâng mũi vinh nghệ an",
+      "khop": "Phrase",
+      "uu_tien": "P3",
+      "chang": "S4",
+      "chan_dung": "CD6",
+      "rao_can": "NGẠI",
+      "canh_tranh": "Thấp",
+      "win": "2/3",
+      "lp": "LP11",
+      "thong_diep": "Khám tại Vinh, phẫu thuật tại tuyến bệnh viện · Đặt khám",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": "BẪY TUYẾN: Vinh là viện tỉnh. LP11 nói rõ phẫu thuật tại tuyến bệnh viện."
+    },
+    {
+      "chien_dich": "KN | S4 | Local viện tỉnh - Tư vấn",
+      "nhom_qc": "Cần Thơ",
+      "tu_khoa": "nâng mũi cần thơ",
+      "khop": "Phrase",
+      "uu_tien": "P3",
+      "chang": "S4",
+      "chan_dung": "CD6",
+      "rao_can": "NGẠI",
+      "canh_tranh": "Trung bình",
+      "win": "2/3",
+      "lp": "LP11",
+      "thong_diep": "Khám tại Cần Thơ, phẫu thuật tại tuyến bệnh viện TP.HCM · Đặt khám",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": "BẪY TUYẾN: Cần Thơ là viện tỉnh. Mổ tại tuyến bệnh viện 666 CMT8."
+    },
+    {
+      "chien_dich": "KN | S4 | Local viện tỉnh - Tư vấn",
+      "nhom_qc": "Thanh Hóa",
+      "tu_khoa": "nâng mũi thanh hóa",
+      "khop": "Phrase",
+      "uu_tien": "P3",
+      "chang": "S4",
+      "chan_dung": "CD6",
+      "rao_can": "NGẠI",
+      "canh_tranh": "Thấp",
+      "win": "2/3",
+      "lp": "LP11",
+      "thong_diep": "Khám tại Thanh Hóa, phẫu thuật tại tuyến bệnh viện Hà Nội · Đặt khám",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": "BẪY TUYẾN: Thanh Hóa là viện tỉnh. Mổ tại tuyến bệnh viện 190 Trường Chinh."
+    },
+    {
+      "chien_dich": "KN | S5 | Hậu phẫu & Chăm sóc",
+      "nhom_qc": "Hậu phẫu",
+      "tu_khoa": "sau nâng mũi kiêng gì",
+      "khop": "Phrase",
+      "uu_tien": "P4",
+      "chang": "S5",
+      "chan_dung": "CD7",
+      "rao_can": "NGẠI",
+      "canh_tranh": "Thấp",
+      "win": "1/3",
+      "lp": "LP9",
+      "thong_diep": "Danh mục cần kiêng theo từng mốc · Xem hướng dẫn",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": "KHÔNG chạy landing chốt ở S5. Chỉ giữ hiện diện + hỗ trợ khách đã mổ."
+    },
+    {
+      "chien_dich": "KN | S5 | Hậu phẫu & Chăm sóc",
+      "nhom_qc": "Hậu phẫu",
+      "tu_khoa": "chăm sóc sau nâng mũi",
+      "khop": "Phrase",
+      "uu_tien": "P4",
+      "chang": "S5",
+      "chan_dung": "CD7",
+      "rao_can": "NGẠI",
+      "canh_tranh": "Thấp",
+      "win": "1/3",
+      "lp": "LP9",
+      "thong_diep": "Hướng dẫn chăm sóc 3-7-30 ngày · Gọi điều dưỡng",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": ""
+    },
+    {
+      "chien_dich": "KN | S5 | Hậu phẫu & Chăm sóc",
+      "nhom_qc": "Hậu phẫu",
+      "tu_khoa": "nâng mũi bao lâu được nằm nghiêng",
+      "khop": "Phrase",
+      "uu_tien": "P4",
+      "chang": "S5",
+      "chan_dung": "CD7",
+      "rao_can": "NGẠI",
+      "canh_tranh": "Thấp",
+      "win": "1/3",
+      "lp": "LP9",
+      "thong_diep": "Mốc thời gian an toàn, tuỳ cơ địa · Xem hướng dẫn",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": ""
+    },
+    {
+      "chien_dich": "KN | S6 | Khách cũ & Cross-sell",
+      "nhom_qc": "Khách cũ",
+      "tu_khoa": "kangnam ưu đãi khách cũ",
+      "khop": "Phrase",
+      "uu_tien": "P3",
+      "chang": "S6",
+      "chan_dung": "CD7",
+      "rao_can": "NGẠI",
+      "canh_tranh": "Thấp",
+      "win": "2/3",
+      "lp": "LP10",
+      "thong_diep": "Quyền lợi dành riêng khách cũ [CHỜ CẬP NHẬT] · Nhận ưu đãi",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": "Chủ yếu chạy qua Zalo OA và Caresoft, Search chỉ hứng brand."
+    },
+    {
+      "chien_dich": "KN | S6 | Khách cũ & Cross-sell",
+      "nhom_qc": "Cross-sell",
+      "tu_khoa": "nâng mũi kết hợp cắt mí",
+      "khop": "Phrase",
+      "uu_tien": "P3",
+      "chang": "S6",
+      "chan_dung": "CD7",
+      "rao_can": "NGẠI",
+      "canh_tranh": "Thấp",
+      "win": "2/3",
+      "lp": "LP10",
+      "thong_diep": "Gói kết hợp trong 1 lần phẫu thuật · Bác sĩ tư vấn lộ trình",
+      "volume": "",
+      "cpc": "",
+      "ghi_chu": "Cross-sell sang ZONE Mắt - vẫn trong phạm vi thẩm mỹ. Sang KDT (nha khoa) hoặc cơ xương khớp là ĐỔI SUB-BRAND, chỉ gợi ý."
+    }
+  ],
+  "phu_dinh_chung": [
+    {
+      "nhom": "Miễn phí & giá rẻ",
+      "tu": "miễn phí",
+      "khop": "Phrase",
+      "ap_dung": "Toàn tài khoản",
+      "ly_do": "Trừ 'khám miễn phí' - khách tìm phẫu thuật miễn phí không có thật"
+    },
+    {
+      "nhom": "Miễn phí & giá rẻ",
+      "tu": "giá rẻ nhất",
+      "khop": "Phrase",
+      "ap_dung": "Toàn tài khoản",
+      "ly_do": "Lệch định vị bệnh viện, hút khách không đủ ngân sách"
+    },
+    {
+      "nhom": "Miễn phí & giá rẻ",
+      "tu": "rẻ nhất",
+      "khop": "Phrase",
+      "ap_dung": "Toàn tài khoản",
+      "ly_do": "Như trên"
+    },
+    {
+      "nhom": "Tự làm tại nhà",
+      "tu": "tại nhà",
+      "khop": "Phrase",
+      "ap_dung": "Toàn tài khoản",
+      "ly_do": "Tìm cách tự làm - không phải khách phẫu thuật"
+    },
+    {
+      "nhom": "Tự làm tại nhà",
+      "tu": "không cần phẫu thuật",
+      "khop": "Phrase",
+      "ap_dung": "Chiến dịch đại phẫu",
+      "ly_do": "Điều hướng sang nhóm tiêm filler nếu có, không loại hẳn"
+    },
+    {
+      "nhom": "Tự làm tại nhà",
+      "tu": "kẹp nâng mũi",
+      "khop": "Phrase",
+      "ap_dung": "Toàn tài khoản",
+      "ly_do": "Sản phẩm dụng cụ, không phải dịch vụ"
+    },
+    {
+      "nhom": "Tự làm tại nhà",
+      "tu": "bài tập nâng mũi",
+      "khop": "Phrase",
+      "ap_dung": "Toàn tài khoản",
+      "ly_do": "Như trên"
+    },
+    {
+      "nhom": "Học & nghề",
+      "tu": "học nâng mũi",
+      "khop": "Phrase",
+      "ap_dung": "Toàn tài khoản",
+      "ly_do": "Người học nghề, không phải khách"
+    },
+    {
+      "nhom": "Học & nghề",
+      "tu": "khóa học",
+      "khop": "Phrase",
+      "ap_dung": "Toàn tài khoản",
+      "ly_do": "Như trên"
+    },
+    {
+      "nhom": "Học & nghề",
+      "tu": "tuyển dụng",
+      "khop": "Phrase",
+      "ap_dung": "Toàn tài khoản",
+      "ly_do": "Ứng viên"
+    },
+    {
+      "nhom": "Học & nghề",
+      "tu": "tuyển bác sĩ",
+      "khop": "Phrase",
+      "ap_dung": "Toàn tài khoản",
+      "ly_do": "Ứng viên"
+    },
+    {
+      "nhom": "Nội dung xấu",
+      "tu": "lừa đảo",
+      "khop": "Phrase",
+      "ap_dung": "Toàn tài khoản",
+      "ly_do": "Truy vấn tiêu cực, không chạy ads - xử lý bằng PR/SEO"
+    },
+    {
+      "nhom": "Nội dung xấu",
+      "tu": "tố cáo",
+      "khop": "Phrase",
+      "ap_dung": "Toàn tài khoản",
+      "ly_do": "Như trên"
+    },
+    {
+      "nhom": "Nội dung xấu",
+      "tu": "chết",
+      "khop": "Phrase",
+      "ap_dung": "Toàn tài khoản",
+      "ly_do": "Truy vấn khủng hoảng - KHÔNG chạy ads vào đây"
+    },
+    {
+      "nhom": "Nội dung xấu",
+      "tu": "kiện",
+      "khop": "Phrase",
+      "ap_dung": "Toàn tài khoản",
+      "ly_do": "Như trên"
+    },
+    {
+      "nhom": "Đối thủ",
+      "tu": "thu cúc",
+      "khop": "Phrase",
+      "ap_dung": "Toàn tài khoản",
+      "ly_do": "KHÔNG đấu giá tên đối thủ - rủi ro policy và hạ thấp đối thủ"
+    },
+    {
+      "nhom": "Đối thủ",
+      "tu": "jw",
+      "khop": "Phrase",
+      "ap_dung": "Toàn tài khoản",
+      "ly_do": "Như trên"
+    },
+    {
+      "nhom": "Đối thủ",
+      "tu": "đông á",
+      "khop": "Phrase",
+      "ap_dung": "Toàn tài khoản",
+      "ly_do": "Như trên"
+    },
+    {
+      "nhom": "Dịch vụ khác",
+      "tu": "nâng mũi cho thú",
+      "khop": "Phrase",
+      "ap_dung": "Toàn tài khoản",
+      "ly_do": "Lệch hoàn toàn"
+    },
+    {
+      "nhom": "Dịch vụ khác",
+      "tu": "makeup",
+      "khop": "Phrase",
+      "ap_dung": "Toàn tài khoản",
+      "ly_do": "Trang điểm tạo khối - không phải phẫu thuật"
+    },
+    {
+      "nhom": "Dịch vụ khác",
+      "tu": "trang điểm",
+      "khop": "Phrase",
+      "ap_dung": "Toàn tài khoản",
+      "ly_do": "Như trên"
+    },
+    {
+      "nhom": "Hình ảnh & video",
+      "tu": "hình ảnh",
+      "khop": "Phrase",
+      "ap_dung": "Chiến dịch S4",
+      "ly_do": "Tìm ảnh tham khảo, chưa có intent mua - điều hướng sang S1/S2"
+    },
+    {
+      "nhom": "Hình ảnh & video",
+      "tu": "video",
+      "khop": "Phrase",
+      "ap_dung": "Chiến dịch S4",
+      "ly_do": "Như trên"
+    },
+    {
+      "nhom": "Nghiên cứu",
+      "tu": "là gì",
+      "khop": "Phrase",
+      "ap_dung": "Chiến dịch S4",
+      "ly_do": "Phủ định chéo - đẩy về S1, không loại khỏi tài khoản"
+    },
+    {
+      "nhom": "Nghiên cứu",
+      "tu": "wiki",
+      "khop": "Phrase",
+      "ap_dung": "Toàn tài khoản",
+      "ly_do": "Tra cứu thuần"
+    }
+  ],
+  "phu_dinh_cheo": [
+    {
+      "nhom": "S4 → S1",
+      "tu": "là gì",
+      "khop": "Phrase",
+      "ap_dung": "KN | S4 | Giá & Trả góp",
+      "ly_do": "ĐIỀU HƯỚNG: truy vấn khái niệm thuộc CD1 chặng S1 - đẩy về chiến dịch S1, không loại"
+    },
+    {
+      "nhom": "S4 → S1",
+      "tu": "có nên",
+      "khop": "Phrase",
+      "ap_dung": "KN | S4 | Giá & Trả góp",
+      "ly_do": "ĐIỀU HƯỚNG về S1 - khách chưa quyết định làm"
+    },
+    {
+      "nhom": "S4 → S3",
+      "tu": "có đau không",
+      "khop": "Phrase",
+      "ap_dung": "KN | S4 | Giá & Trả góp",
+      "ly_do": "ĐIỀU HƯỚNG: nỗi sợ thuộc S3, landing A2 trả lời trước mới đúng"
+    },
+    {
+      "nhom": "S4 → S3",
+      "tu": "có nguy hiểm",
+      "khop": "Phrase",
+      "ap_dung": "KN | S4 | Giá & Trả góp",
+      "ly_do": "ĐIỀU HƯỚNG về S3"
+    },
+    {
+      "nhom": "S4 → S3",
+      "tu": "bao lâu hồi phục",
+      "khop": "Phrase",
+      "ap_dung": "KN | S4 | Giá & Trả góp",
+      "ly_do": "ĐIỀU HƯỚNG về S3"
+    },
+    {
+      "nhom": "S2 → S3R",
+      "tu": "hỏng",
+      "khop": "Phrase",
+      "ap_dung": "KN | S2 | Phương pháp & Công nghệ",
+      "ly_do": "ĐIỀU HƯỚNG: khách mũi hỏng là CD3, phải vào LP5 với bằng chứng khác hẳn"
+    },
+    {
+      "nhom": "S2 → S3R",
+      "tu": "sửa lại",
+      "khop": "Phrase",
+      "ap_dung": "KN | S2 | Phương pháp & Công nghệ",
+      "ly_do": "ĐIỀU HƯỚNG về S3R"
+    },
+    {
+      "nhom": "S2 → S3R",
+      "tu": "lần 2",
+      "khop": "Phrase",
+      "ap_dung": "KN | S2 | Phương pháp & Công nghệ",
+      "ly_do": "ĐIỀU HƯỚNG về S3R"
+    },
+    {
+      "nhom": "S2 → S3R",
+      "tu": "lộ sóng",
+      "khop": "Phrase",
+      "ap_dung": "KN | S2 | Phương pháp & Công nghệ",
+      "ly_do": "ĐIỀU HƯỚNG về S3R"
+    },
+    {
+      "nhom": "S2 → S3R",
+      "tu": "bóng đỏ",
+      "khop": "Phrase",
+      "ap_dung": "KN | S2 | Phương pháp & Công nghệ",
+      "ly_do": "ĐIỀU HƯỚNG về S3R"
+    },
+    {
+      "nhom": "S3R → S2",
+      "tu": "nâng mũi cấu trúc",
+      "khop": "Exact",
+      "ap_dung": "KN | S3 | Sửa mũi hỏng",
+      "ly_do": "ĐIỀU HƯỚNG ngược: khách lần đầu không nên vào landing sửa mũi hỏng"
+    },
+    {
+      "nhom": "Local chéo",
+      "tu": "hà nội",
+      "khop": "Phrase",
+      "ap_dung": "KN | S4 | Giá & Trả góp",
+      "ly_do": "ĐIỀU HƯỚNG về chiến dịch local tuyến BV để đo riêng theo cơ sở"
+    },
+    {
+      "nhom": "Local chéo",
+      "tu": "tphcm",
+      "khop": "Phrase",
+      "ap_dung": "KN | S4 | Giá & Trả góp",
+      "ly_do": "ĐIỀU HƯỚNG về local tuyến BV"
+    },
+    {
+      "nhom": "Local chéo",
+      "tu": "sài gòn",
+      "khop": "Phrase",
+      "ap_dung": "KN | S4 | Giá & Trả góp",
+      "ly_do": "ĐIỀU HƯỚNG về local tuyến BV"
+    },
+    {
+      "nhom": "TUYẾN - tỉnh",
+      "tu": "đà nẵng",
+      "khop": "Phrase",
+      "ap_dung": "KN | S4 | Đặt lịch - Local tuyến BV",
+      "ly_do": "TUYẾN: Đà Nẵng là viện tỉnh, KHÔNG được mời đại phẫu ở landing tuyến BV - đẩy về chiến dịch viện tỉnh"
+    },
+    {
+      "nhom": "TUYẾN - tỉnh",
+      "tu": "hải phòng",
+      "khop": "Phrase",
+      "ap_dung": "KN | S4 | Đặt lịch - Local tuyến BV",
+      "ly_do": "TUYẾN: viện tỉnh - đẩy về chiến dịch S4 viện tỉnh"
+    },
+    {
+      "nhom": "TUYẾN - tỉnh",
+      "tu": "cần thơ",
+      "khop": "Phrase",
+      "ap_dung": "KN | S4 | Đặt lịch - Local tuyến BV",
+      "ly_do": "TUYẾN: viện tỉnh"
+    },
+    {
+      "nhom": "TUYẾN - tỉnh",
+      "tu": "thanh hóa",
+      "khop": "Phrase",
+      "ap_dung": "KN | S4 | Đặt lịch - Local tuyến BV",
+      "ly_do": "TUYẾN: viện tỉnh"
+    },
+    {
+      "nhom": "TUYẾN - tỉnh",
+      "tu": "nghệ an",
+      "khop": "Phrase",
+      "ap_dung": "KN | S4 | Đặt lịch - Local tuyến BV",
+      "ly_do": "TUYẾN: viện tỉnh"
+    },
+    {
+      "nhom": "TUYẾN - tỉnh",
+      "tu": "vinh",
+      "khop": "Phrase",
+      "ap_dung": "KN | S4 | Đặt lịch - Local tuyến BV",
+      "ly_do": "TUYẾN: viện tỉnh"
+    },
+    {
+      "nhom": "Nam/Nữ",
+      "tu": "nam",
+      "khop": "Exact",
+      "ap_dung": "KN | S2 | Ở đâu tốt - Thương hiệu",
+      "ly_do": "ĐIỀU HƯỚNG: CD5 cần thông điệp riêng tư và dáng nam tính - đẩy về nhóm Nam giới"
+    }
+  ],
+  "phieu": {
+    "cpc": 35000,
+    "click_lead": 0.06,
+    "lead_lich": 0.4,
+    "show_up": 0.6,
+    "chot": 0.35,
+    "gia_tri_ca": 45000000,
+    "ghi_chu": {
+      "cpc": "Giả định. Cập nhật từ Keyword Planner hoặc tài khoản thực.",
+      "click_lead": "Giả định. Lead = form + cuộc gọi ≥ 60 giây + chat Zalo có SĐT.",
+      "lead_lich": "Giả định. Lấy từ Caresoft.",
+      "show_up": "Giả định. Lấy từ Caresoft. Khách tỉnh (CD6) show-up thấp hơn đáng kể vì phải đi xa.",
+      "chot": "Giả định. Lấy từ báo cáo tư vấn tại cơ sở.",
+      "gia_tri_ca": "Giả định. Pha trộn nâng mũi cấu trúc và sụn tự thân. Giá thật lấy tại /bang-gia/ khi chạy."
+    }
+  },
+  "quy_trinh_phu_dinh": [
+    "Tuần 1–4: xem báo cáo Cụm từ tìm kiếm 2 lần/tuần. Từ tuần 5: 1 lần/tuần.",
+    "Với mỗi truy vấn lệch, hỏi TRƯỚC KHI phủ định: truy vấn này thuộc chân dung nào, chặng nào? Có chân dung phù hợp thì ĐIỀU HƯỚNG sang đúng chiến dịch, không loại bỏ.",
+    "Kiểm bẫy TUYẾN: truy vấn đại phẫu + tỉnh chỉ có viện tỉnh (Hải Phòng · Nghệ An/Vinh · Đà Nẵng · Cần Thơ · Thanh Hóa) phải được điều hướng về LP11 hoặc đưa vào phủ định. KHÔNG để mặc.",
+    "Ghi lý do vào sheet phủ định ngay khi thêm. Không ghi lý do thì 3 tháng sau không ai dám bỏ phủ định đó ra."
+  ],
+  "nguyen_tac": [
+    "Chọn NGƯỜI trước, TỪ KHOÁ sau. Mỗi từ khoá phải trả lời được: ai gõ câu này, họ đang ở chặng nào, rào cản nào đang chặn họ.",
+    "Không trộn 2 ZONE vào một bộ từ khoá. Rào cản khác nhau thì bằng chứng gỡ cũng khác nhau.",
+    "Chia ngân sách theo Ý ĐỊNH MUA × GIÁ TRỊ CA, KHÔNG theo lượng tìm kiếm. Volume lớn không có nghĩa ra ca.",
+    "S3 tối thiểu 10% ngân sách. Đây là chặng rụng khách nhiều nhất và đồng thời là ngách cạnh tranh thấp nhất. Hiện S3 + S3R = 30%.",
+    "KHÔNG cắt S3 trước 6 tuần dù CPL cao. Chu kỳ quyết định của đại phẫu dài, cắt sớm là mất nhóm sắp chốt.",
+    "ĐẠI PHẪU CHỈ TẠI TUYẾN BỆNH VIỆN: 190 Trường Chinh (HN) và 666 CMT8 (TP.HCM). Viện tỉnh chỉ da/spa/tiểu phẫu + tư vấn/tái khám.",
+    "Từ khoá đại phẫu + tỉnh có viện tỉnh phải khai cách xử lý trong ghi_chu: hoặc điều hướng về LP11 (mổ tại tuyến BV, nói rõ trên trang), hoặc phủ định. Generator chặn nếu để trống.",
+    "Chỉ dùng Exact và Phrase. KHÔNG Broad cho tới khi đã import được chuyển đổi offline.",
+    "Để TRỐNG lượng tìm kiếm và CPC. Hai số đó lấy từ Keyword Planner, không ước lượng, không bịa.",
+    "Giá, ưu đãi và trả góp là DỮ LIỆU ĐỘNG: đọc /bang-gia/ và /uu-dai/ lúc chạy, không dùng số cũ đã nhớ.",
+    "Đánh giá bằng chi phí/ca chốt, không chỉ bằng CPL. Giá trị ca cao nên lead rẻ mà không ra ca là lỗ.",
+    "Báo cáo theo chiến dịch VÀ theo chân dung KH. Cần trường chân dung trong Caresoft từ Pha 1."
+  ],
+  "nguong": [
+    {
+      "quy_tac": "Từ khoá chi tiêu vượt ngưỡng mà 0 lead",
+      "he_so": 2.0,
+      "moc": "cpl",
+      "hanh_dong": "Tạm dừng từ khoá, kiểm tra search terms và landing trước khi bật lại"
+    },
+    {
+      "quy_tac": "CPL cao hơn mục tiêu 2 tuần liền",
+      "he_so": 1.5,
+      "moc": "cpl",
+      "hanh_dong": "Rà lại landing và thông điệp. CHƯA cắt, trừ khi là P4"
+    },
+    {
+      "quy_tac": "Chi phí/ca chốt vượt tỷ lệ giá trị ca",
+      "he_so": 0.15,
+      "moc": "ca_chot",
+      "hanh_dong": "Rà lại chất lượng lead và quy trình tư vấn, chưa tắt chiến dịch"
+    },
+    {
+      "quy_tac": "Chi phí/ca chốt vượt ngưỡng cắt",
+      "he_so": 0.25,
+      "moc": "ca_chot",
+      "hanh_dong": "Dừng nhóm, phân tích lại chân dung và landing. Ngoại lệ: S3 giữ tối thiểu 6 tuần"
+    }
+  ],
+  "lo_trinh": [
+    {
+      "pha": "Pha 1: Học",
+      "thoi_gian": "Tuần 1–4",
+      "dieu_kien": "Bắt đầu",
+      "chien_luoc": "Bật P1 (S3, S3R, S4, S4L). Max Conversions chưa đặt tCPA. Brand: Target IS. P3–P4 chưa bật.",
+      "chuyen_doi": "Lead (form, cuộc gọi ≥ 60 giây, chat Zalo có SĐT)",
+      "bat_buoc": "Cài chuyển đổi đầy đủ. Thêm trường CHÂN DUNG vào Caresoft. Đọc search terms 2 lần/tuần. KHÔNG bật S4T khi LP11 chưa qua pháp chế.",
+      "ra_pha_sau": "Đạt ≥ 100 click mỗi nhóm P1 và đo được CPL theo chân dung"
+    },
+    {
+      "pha": "Pha 2: Tối ưu",
+      "thoi_gian": "Tuần 5–10",
+      "dieu_kien": "Đã có dữ liệu Pha 1",
+      "chien_luoc": "Bật P2 (S2, S2B). Đặt tCPA theo CPL thực tế. Bật S4T sau khi LP11 qua pháp chế.",
+      "chuyen_doi": "Lead + booking (đặt khám thành công)",
+      "bat_buoc": "A/B theo ma trận T1–T5, đổi đúng 1 biến mỗi lô. Mở rộng ngách nỗi sợ và sửa lại. KHÔNG cắt S3 dù CPL cao.",
+      "ra_pha_sau": "Xác định được 2–3 hook thắng và booking rate theo chân dung"
+    },
+    {
+      "pha": "Pha 3: Scale",
+      "thoi_gian": "Tuần 11+",
+      "dieu_kien": "Đã import được chuyển đổi offline",
+      "chien_luoc": "Chuyển sang tROAS theo chi phí/ca chốt. Sau đó mới cân nhắc Broad. Bật P3/P4.",
+      "chuyen_doi": "Ca chốt (offline conversion từ Caresoft)",
+      "bat_buoc": "Scale winner và nhân bản sang cơ sở CÙNG TUYẾN. KHÔNG nhân bản landing tuyến BV sang viện tỉnh.",
+      "ra_pha_sau": "Đo được doanh thu và LTV theo chân dung"
+    }
+  ],
+  "quy_tac_canh_tranh": [
+    {
+      "hang_muc": "Brand",
+      "quy_tac": "Giữ Top IS ≥ 90% cho từ khoá brand. Đối thủ đấu thầu tên Kangnam thì nâng trần CPC brand ngay trong ngày."
+    },
+    {
+      "hang_muc": "Tên đối thủ",
+      "quy_tac": "KHÔNG đấu giá tên đối thủ — rủi ro policy và vi phạm nguyên tắc không hạ thấp đối thủ."
+    },
+    {
+      "hang_muc": "So sánh",
+      "quy_tac": "So sánh bằng tiêu chí khách quan, không nêu tên: tuyến bệnh viện · giấy phép Bộ Y tế · KCCS · hội đồng chuyên môn."
+    },
+    {
+      "hang_muc": "Ngách ưu tiên",
+      "quy_tac": "Dồn vào 3 ngách cạnh tranh thấp: từ khoá NỖI SỢ · từ khoá SỬA LẠI/KHẮC PHỤC · từ khoá TÌNH HUỐNG (trước cưới, sau sinh, đi làm)."
+    },
+    {
+      "hang_muc": "Từ khoá 'bệnh viện'",
+      "quy_tac": "Từ khoá chứa 'bệnh viện' lọc tốt hơn 'thẩm mỹ viện' vì khách đã tự lọc theo tuyến — đúng lợi thế của Kangnam."
+    },
+    {
+      "hang_muc": "Khung giờ",
+      "quy_tac": "Tăng bid buổi tối cho nhóm Nam giới (CD5) vì nhóm này tìm kiếm riêng tư vào buổi tối."
+    },
+    {
+      "hang_muc": "Thiết bị",
+      "quy_tac": "Mobile-first, tăng bid mobile. Landing bắt buộc mobile-first 360–430px."
+    },
+    {
+      "hang_muc": "Vị trí — tuyến BV",
+      "quy_tac": "Bán kính 25km quanh 190 Trường Chinh và 666 CMT8 cho chiến dịch S4L. Khách gần cơ sở có show-up cao hơn rõ rệt."
+    },
+    {
+      "hang_muc": "Vị trí — viện tỉnh",
+      "quy_tac": "Target đúng tỉnh cho S4T. Không để truy vấn tỉnh rơi vào landing tuyến BV."
+    },
+    {
+      "hang_muc": "Remarketing",
+      "quy_tac": "Phân tầng theo chặng. Khách đọc S1 không remarket bằng thông điệp giá — remarket bằng nội dung S2."
+    },
+    {
+      "hang_muc": "Loại trừ",
+      "quy_tac": "Loại khách đã mổ (CD7) khỏi chiến dịch S1–S4. Đốt ngân sách và gây khó chịu, họ thuộc S5/S6."
+    },
+    {
+      "hang_muc": "Pháp lý",
+      "quy_tac": "Mọi mẫu QC chờ giấy xác nhận nội dung quảng cáo trước khi phát hành. CHẶN CỨNG."
+    }
+  ],
+  "ab_test": [
+    {
+      "test": "Hook theo archetype",
+      "a": "Hook nỗi sợ: 'nâng mũi có đau không'",
+      "b": "Hook khát khao: 'dáng mũi tự nhiên không lộ'",
+      "chi_so": "CTR, sau đó CVR",
+      "thoi_gian": "3 tuần"
+    },
+    {
+      "test": "Góc A hay B ở chặng S3",
+      "a": "Góc khát khao (kết quả)",
+      "b": "Góc nỗi đau (gỡ lo lắng)",
+      "chi_so": "CTR + CVR",
+      "thoi_gian": "4 tuần"
+    },
+    {
+      "test": "Bằng chứng chủ lực cho CD3 (sửa lại)",
+      "a": "Điều kiện bệnh viện + hội đồng chuyên môn",
+      "b": "Case before–after đã duyệt",
+      "chi_so": "Booking rate",
+      "thoi_gian": "4 tuần"
+    },
+    {
+      "test": "Offer ở chặng S3",
+      "a": "Đặt khám MIỄN PHÍ với bác sĩ chuyên khoa",
+      "b": "Ưu đãi giảm giá ca mổ",
+      "chi_so": "Booking rate + chi phí/ca chốt",
+      "thoi_gian": "4 tuần"
+    },
+    {
+      "test": "Visual gỡ nỗi sợ",
+      "a": "Ảnh phòng mổ bệnh viện",
+      "b": "Ảnh case thực tế đã duyệt",
+      "chi_so": "CVR, scroll depth",
+      "thoi_gian": "3 tuần"
+    },
+    {
+      "test": "Micro-conversion trước form",
+      "a": "Chọn dịch vụ quan tâm (bottom sheet)",
+      "b": "Đặt khám miễn phí trực tiếp",
+      "chi_so": "Form rate và chất lượng lead",
+      "thoi_gian": "3 tuần"
+    },
+    {
+      "test": "Kênh liên hệ cho nhóm cần giữ kín",
+      "a": "Form SĐT truyền thống",
+      "b": "Chat Zalo riêng tư, không đòi SĐT",
+      "chi_so": "Tổng lead (CD1 và CD5)",
+      "thoi_gian": "4 tuần"
+    }
+  ],
+  "rui_ro": [
+    {
+      "rui_ro": "Quảng cáo đại phẫu cho viện tỉnh (vượt phạm vi giấy phép)",
+      "kiem_soat": "CHẶN CỨNG. LP11 phải nói rõ nơi phẫu thuật trước khi bật chiến dịch S4T. Generator có cổng TUYẾN chặn từ khoá chưa khai cách xử lý."
+    },
+    {
+      "rui_ro": "Chưa có giấy xác nhận nội dung quảng cáo từng chiến dịch",
+      "kiem_soat": "CHẶN CỨNG việc bật chiến dịch. Pháp chế duyệt trước."
+    },
+    {
+      "rui_ro": "Dùng ảnh before–after chưa duyệt pháp lý",
+      "kiem_soat": "Chỉ dùng case có giấy đồng ý và đã qua pháp chế. Chưa có thì dùng Ô ẢNH TẠM, không dùng ảnh stock/AI."
+    },
+    {
+      "rui_ro": "Từ cấm lọt vào mẫu QC hoặc landing",
+      "kiem_soat": "Generator chặn ở cột thông điệp. Mẫu QC và landing phải tự soát theo kn-rao-phap-ly.md: 'an toàn tuyệt đối' · 'không biến chứng' · 'không để lại sẹo'."
+    },
+    {
+      "rui_ro": "Hứa thời gian hồi phục cứng",
+      "kiem_soat": "Nói dạng khoảng + 'tùy cơ địa'. Không viết '3 ngày là đi làm được'."
+    },
+    {
+      "rui_ro": "Dùng giá hoặc ưu đãi cũ đã nhớ",
+      "kiem_soat": "Giá và ưu đãi đổi theo đợt. Đọc /bang-gia/ và /uu-dai/ lúc chạy; không truy cập được thì ghi [CHỜ CẬP NHẬT]."
+    },
+    {
+      "rui_ro": "Chưa có trường chân dung trong Caresoft",
+      "kiem_soat": "Thêm từ Pha 1. Không có thì không đo được chân dung nào ra ca, không tối ưu được ngân sách theo người."
+    },
+    {
+      "rui_ro": "Cắt S3 vì CPL cao",
+      "kiem_soat": "Sai lầm phổ biến nhất. S3 là chặng rụng khách nhiều nhất, giữ tối thiểu 6 tuần trước khi phán xét."
+    },
+    {
+      "rui_ro": "Tư vấn viên không gọi trong 5 phút",
+      "kiem_soat": "Lead ngành thẩm mỹ nguội rất nhanh. Đặt SLA 5 phút và đo tỷ lệ đạt SLA hàng tuần."
+    },
+    {
+      "rui_ro": "Landing gộp nhiều intent",
+      "kiem_soat": "1 dịch vụ × 1 chặng × 1 intent = 1 trang. Đây là nguyên nhân phổ biến của 'CTR ổn mà không ai điền form'."
+    }
+  ],
+  "hook_format": [
+    {
+      "chang": "S2",
+      "chan_dung": "CD1",
+      "hook": "Mũi mình nên làm cấu trúc hay bọc sụn?",
+      "format": "Carousel so sánh theo tình trạng mũi",
+      "muc_tieu": "Đẩy về LP2, nuôi tệp remarketing S3"
+    },
+    {
+      "chang": "S3",
+      "chan_dung": "CD1",
+      "hook": "Sợ nhất là bị nhận ra đã sửa — dáng theo tỷ lệ khuôn mặt thì không lộ",
+      "format": "Video bác sĩ phân tích dáng mũi 15–30s",
+      "muc_tieu": "Đẩy về LP4. KHÔNG dùng before–after chưa duyệt"
+    },
+    {
+      "chang": "S2",
+      "chan_dung": "CD2",
+      "hook": "Tiêu chí chọn nơi làm: tuyến bệnh viện · giấy phép · KCCS",
+      "format": "Video review quy trình + phòng mổ",
+      "muc_tieu": "Đẩy về LP2/LP3, nhấn điều kiện bệnh viện"
+    },
+    {
+      "chang": "S3",
+      "chan_dung": "CD3",
+      "hook": "Mũi đã hỏng một lần, lần này dựa vào đâu để tin?",
+      "format": "Video bác sĩ nói về quy trình đánh giá lại",
+      "muc_tieu": "Đẩy về LP5. KHÔNG phán xét nơi làm trước, KHÔNG nêu tên đối thủ"
+    },
+    {
+      "chang": "S3",
+      "chan_dung": "CD3",
+      "hook": "Phân loại 4 kiểu mũi hỏng và hướng xử lý từng kiểu",
+      "format": "Carousel 4 slide",
+      "muc_tieu": "Đẩy về LP5. Giọng chuyên môn, không gây hoang mang"
+    },
+    {
+      "chang": "S3",
+      "chan_dung": "CD4",
+      "hook": "Nghỉ bao lâu mới đi làm và trông con được?",
+      "format": "Timeline hồi phục 3–7–30 ngày",
+      "muc_tieu": "Đẩy về LP4. Nói dạng khoảng + tùy cơ địa"
+    },
+    {
+      "chang": "S4",
+      "chan_dung": "CD4",
+      "hook": "Thông điệp cho NGƯỜI MUA HỘ — chồng tìm cho vợ",
+      "format": "Video ngắn + landing có trục trả góp",
+      "muc_tieu": "Đẩy về LP6. Ngôn ngữ nói với người chi trả, không nói với người điều trị"
+    },
+    {
+      "chang": "S2",
+      "chan_dung": "CD5",
+      "hook": "Dáng mũi nam tính, sắc nét — không nữ tính hoá",
+      "format": "Video dọc, tông trầm, chạy khung giờ tối",
+      "muc_tieu": "Đẩy về LP2. CTA về chat riêng tư, không đòi SĐT"
+    },
+    {
+      "chang": "S4",
+      "chan_dung": "CD6",
+      "hook": "Ở tỉnh thì làm thế nào? — lộ trình 1 chuyến đi",
+      "format": "Infographic: khám tại tỉnh → mổ tại tuyến BV → hậu phẫu tại tỉnh",
+      "muc_tieu": "Đẩy về LP11. BẮT BUỘC nói rõ phẫu thuật tại tuyến bệnh viện"
+    }
+  ]
+}

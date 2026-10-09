@@ -1,5 +1,5 @@
 # RÀO PHÁP LÝ — Quảng cáo y tế & thẩm mỹ (Kangnam)
-Version: 2.0
+Version: 2.1
 Áp cho MỌI output. Agent tự rà trước khi xuất; nội dung chạm ranh → gắn cờ ⚠️ chờ người duyệt.
 
 ## Nguyên tắc nền
@@ -20,6 +20,9 @@ Version: 2.0
 | vĩnh viễn / trọn đời | duy trì lâu dài, có chế độ bảo hành minh bạch |
 | cam kết kết quả như hình | kết quả tùy cơ địa, bác sĩ đánh giá riêng từng trường hợp* |
 | rẻ nhất thị trường | chi phí minh bạch, công khai tại bảng giá |
+| **không để lại sẹo** | vị trí đường mổ được chọn để hạn chế sẹo, chăm sóc theo hướng dẫn* |
+| **"3 ngày là đi làm được"** và mọi mốc thời gian hồi phục CỨNG | mốc hồi phục dạng **khoảng** (vd 7–14 ngày) + **"tùy cơ địa mỗi người"** |
+| **"chính hãng"** gắn cho vật liệu không có hồ sơ | nêu đúng tên vật liệu/thiết bị có trong hồ sơ thương hiệu, hoặc bỏ |
 
 Mọi con số và cam kết mức độ đều phải gắn dấu `*` dẫn **"Hiệu quả phụ thuộc cơ địa mỗi người"**.
 
@@ -42,3 +45,15 @@ Mẫu QC có số liệu y khoa · nội dung so sánh phương pháp · mọi c
 - Số **giấy xác nhận nội dung quảng cáo** của từng nội dung/chiến dịch: `[CHỜ CẬP NHẬT]`
 - Danh sách case + ảnh đã có giấy đồng ý sử dụng hình ảnh: `[CHỜ CẬP NHẬT]`
 - Phạm vi giấy phép chi tiết từng cơ sở (làm được gì / không làm gì): `[CHỜ CẬP NHẬT]`
+
+---
+
+## Hai luật riêng của gói Kangnam
+
+**① KHÔNG hứa thời gian hồi phục cứng.** Thời gian hồi phục là trục **NGẠI** thật của ngành ("nghỉ bao lâu mới đi làm được") nên rất dễ bị hứa quá. Luôn nói dạng **khoảng** và kèm *"tùy cơ địa mỗi người"*. Câu như *"3 ngày là đi làm bình thường"* là **không được viết**.
+
+**② KHÔNG quảng cáo đại phẫu cho viện tỉnh.** Đại phẫu chỉ được làm tại **tuyến bệnh viện** (190 Trường Chinh HN · 666 CMT8 SG). Viện tỉnh làm da/spa/tiểu phẫu + tư vấn/tái khám.
+
+Từ khoá **đại phẫu + tên tỉnh chỉ có viện tỉnh** (vd *"nâng ngực Đà Nẵng"*) phải xử lý theo một trong hai cách: ① đổ về landing tư vấn/đặt khám tại viện tỉnh + **phẫu thuật tại tuyến bệnh viện**, nói rõ trên trang; hoặc ② đưa vào **phủ định** của chiến dịch local.
+
+Đây là **vượt phạm vi giấy phép**, không phải chuyện hiệu suất quảng cáo. Chi tiết ở [`kn-ho-so-thuong-hieu.md`](kn-ho-so-thuong-hieu.md) và §4 của bộ não.

@@ -1,5 +1,5 @@
 # HỒ SƠ THƯƠNG HIỆU — KANGNAM *(module swappable)*
-Version: 2.0 — kế thừa mục 3.3 bản v1.3
+Version: 2.1 — kế thừa mục 3.3 bản v1.3; bổ sung cột TUYẾN và đối chiếu Design System v3.0
 
 > Đây là **module thương hiệu**. Đổi sang brand khác = thay file này + `kn-rao-phap-ly.md`, giữ nguyên bộ não.
 
@@ -12,7 +12,7 @@ Hệ thống **Bệnh viện Thẩm mỹ chuẩn Hàn tại Việt Nam**, nền 
 - Footer (SVG, nền tối): `https://benhvienthammykangnam.com.vn/wp-content/themes/SCI_Theme_v3/Module/Home/footer_kn_3_1_0/images/logo.svg`
 - Hệ sinh thái (cùng thư mục `header_kn_3_0_0/images/`): KPS `logo-kps.png` · KBS `logo-kbs.png` · KDT `logo-kdt.png` · KWN `logo-kwn.png` · KWL `logo-kwl.png`
 
-**Màu (brand system):**
+**Màu — bộ nhận diện cấp thương hiệu:**
 
 | Vai trò | Mã | Dùng ở |
 |---|---|---|
@@ -21,26 +21,45 @@ Hệ thống **Bệnh viện Thẩm mỹ chuẩn Hàn tại Việt Nam**, nền 
 | Nền | `#FFFFFF` | chủ đạo, **≥ 80% diện tích** |
 | Text | `#1D2939` | thân bài |
 
-**Font:** Be Vietnam Pro.
+> ⚠️ **Lệch với trang production — đọc trước khi dựng landing.**
+> Trang production `dep-ven-tron.html` đang chạy `--navy #074E84` và `--cta #EF6103`, không phải `#003c77` / `#f6871f`.
+> **Dựng landing thì dùng token production** ở [`kn-khung-landing.md`](kn-khung-landing.md) (Design System Kangnam v3.0) để trang mới khớp trang đang chạy.
+> Bảng trên vẫn là bộ nhận diện cho **ấn phẩm cấp thương hiệu** (profile, brochure, biển hiệu).
+> Chênh lệch này **cần brand/pháp chế chốt một lần** — xem *Việc còn treo* ở [`doc/CHANGELOG.md`](../doc/CHANGELOG.md).
+
+**Font:** Be Vietnam Pro (production dùng thêm **Lora italic** cho dòng "pre" của tiêu đề section).
 
 **Giọng:** chuyên nghiệp – y khoa nhưng ấm, "chuẩn Hàn", tận tâm. **Không** dùng từ cấm / so sánh tuyệt đối.
 
 ## Cơ sở
 Hotline chung **0968.999.777** · email info@benhvienthammykangnam.com.vn · App **Kangnam Care**.
 
-| Cơ sở | Loại | Địa chỉ | Khu vực |
-|---|---|---|---|
-| Kangnam Hà Nội | Bệnh viện (GP 194/BYT-GPHĐ) | 190 Trường Chinh, Hà Nội | Bắc |
-| Kangnam Hà Nội (Viện TM) | Viện TM | 194 Trường Chinh, P. Kim Liên, Hà Nội | Bắc |
-| Kangnam Sài Gòn | Bệnh viện (GP 287/BYT-GPHĐ) | 666 CM Tháng 8, P. Tân Sơn Nhất, TP.HCM | Nam |
-| Kangnam Hải Phòng | Viện TM | 378 Tô Hiệu, P. Trần Nguyên Hãn, Hải Phòng | Bắc |
-| Kangnam Nghệ An | Viện TM | 148 Nguyễn Văn Cừ, TP. Vinh | Trung |
-| Kangnam Đà Nẵng | Viện TM | 293 Hùng Vương, P. Thanh Khê, Đà Nẵng | Trung |
-| Kangnam Cần Thơ | Viện TM | 28 Lý Tự Trọng, P. Ninh Kiều, Cần Thơ | Nam |
-| Kangnam Thanh Hóa | Viện TM | 103 Nguyễn Trãi, P. Hạc Thành, Thanh Hóa | Trung |
+| Cơ sở | **TUYẾN** | Địa chỉ | Khu vực | Được mời đại phẫu? |
+|---|---|---|---|---|
+| Kangnam Hà Nội | **Bệnh viện** (GP 194/BYT-GPHĐ) | 190 Trường Chinh, Hà Nội | Bắc | ✅ **CÓ** |
+| Kangnam Sài Gòn | **Bệnh viện** (GP 287/BYT-GPHĐ) | 666 CM Tháng 8, P. Tân Sơn Nhất, TP.HCM | Nam | ✅ **CÓ** |
+| Kangnam Hà Nội (Viện TM) | Viện TM | 194 Trường Chinh, P. Kim Liên, Hà Nội | Bắc | ❌ không |
+| Kangnam Hải Phòng | Viện tỉnh | 378 Tô Hiệu, P. Trần Nguyên Hãn, Hải Phòng | Bắc | ❌ không |
+| Kangnam Nghệ An | Viện tỉnh | 148 Nguyễn Văn Cừ, TP. Vinh | Trung | ❌ không |
+| Kangnam Đà Nẵng | Viện tỉnh | 293 Hùng Vương, P. Thanh Khê, Đà Nẵng | Trung | ❌ không |
+| Kangnam Cần Thơ | Viện tỉnh | 28 Lý Tự Trọng, P. Ninh Kiều, Cần Thơ | Nam | ❌ không |
+| Kangnam Thanh Hóa | Viện tỉnh | 103 Nguyễn Trãi, P. Hạc Thành, Thanh Hóa | Trung | ❌ không |
 
-> ⚠️ **Đại phẫu chỉ tại tuyến bệnh viện** (190 Trường Chinh HN · 666 CMT8 SG). Viện tỉnh làm da/spa/tiểu phẫu + tư vấn/tái khám — **không quảng cáo đại phẫu cho viện tỉnh**.
-> Hotline campaign có thể khác số tổng đài (vd LP dùng 0962778866). Địa chỉ/cơ sở đổi theo thời điểm — **chạy local phải verify lại**.
+## ⚠️ TUYẾN CƠ SỞ — ràng buộc cứng
+
+**Đại phẫu chỉ tại tuyến bệnh viện:** 190 Trường Chinh (HN) · 666 CMT8 (TP.HCM).
+Viện tỉnh và viện TM làm **da/spa/tiểu phẫu + tư vấn/tái khám** — **không quảng cáo, không mời đại phẫu**.
+
+**Từ khoá đại phẫu + tên tỉnh chỉ có viện tỉnh** (vd *"nâng ngực Đà Nẵng"*) là **bẫy**: chạy được và có người tìm thật, nhưng landing **không được mời mổ tại đó**. Hai cách xử lý hợp lệ, phải chọn một và ghi rõ:
+
+① Đổ về landing **tư vấn/đặt khám tại viện tỉnh, phẫu thuật tại tuyến bệnh viện** — nói rõ điều đó **ngay ở hero**; hoặc
+② Đưa vào **phủ định** của chiến dịch local.
+
+Để mặc không xử lý là **vượt phạm vi giấy phép** — rủi ro pháp lý, không phải chỉ là lead kém.
+
+**Ràng buộc này được cài ở 4 chỗ:** §4 bộ não · tiêu chí ⑥ bảng chấm WIN (vi phạm = tự động 0 điểm → loại thẳng) · bước ③ của MODE 2 (kiểm trước khi dựng) · **cổng TUYẾN trong `tools/build_keyword_workbook.py`** (chặn không build nếu `ghi_chu` chưa khai cách xử lý).
+
+> Hotline campaign có thể khác số tổng đài (vd LP dùng 0962778866). **Địa chỉ, tuyến và phạm vi giấy phép đổi theo thời điểm — chạy local phải verify lại trước khi bật chiến dịch.**
 
 ## Trust / pháp lý — dùng làm bằng chứng gỡ nỗi sợ
 - Giấy phép KCB số **287/BYT-GPHĐ** (Bộ Y tế, 03/12/2020).
@@ -83,3 +102,7 @@ Agent **bắt buộc** lấy tại thời điểm chạy:
 
 ## Ranh giới với thương hiệu anh em
 Yêu cầu về **cơ xương khớp / bảo tồn khớp / PRP khớp** thuộc **Cơ Xương Khớp – Wellness** — thương hiệu phân biệt riêng, có agent riêng (CXK-CPW). Báo người dùng chuyển agent, **không viết bằng giọng thẩm mỹ**.
+
+**Nha khoa (KDT)** — niềng răng · bọc răng sứ · cấy Implant · dán mặt sứ — thuộc sub-brand **Kangnam Dental**. Vẫn trong hệ sinh thái nên **được phép cross-sell ở chặng S6**, nhưng rào cản chốt của nha khoa khác hẳn (NGỜ về vật liệu nặng nhất, thay vì SỢ về kết quả thấy bằng mắt). Vì vậy: **gợi ý được, nhưng không dựng bộ từ khoá hay landing nha khoa bằng bộ não này** — nghiệp vụ nha khoa có agent riêng (tham chiếu: [`Agent-AdsOptimize-NhaKhoaParis`](../../Agent-AdsOptimize-NhaKhoaParis/)).
+
+**Nha khoa KHÔNG phải một ZONE của MODE 4.** Màu nhóm `--g-nk` trong Design System chỉ dùng khi hiển thị danh mục toàn hệ sinh thái.

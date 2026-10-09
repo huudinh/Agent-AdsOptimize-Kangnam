@@ -1,5 +1,5 @@
 # CHÂN DUNG KHÁCH HÀNG & PHỄU 6 GIAI ĐOẠN — Thẩm mỹ
-Version: 2.0 — kế thừa mục 3.1 + 3.2 bản v1.3
+Version: 2.1 — kế thừa mục 3.1 + 3.2 bản v1.3
 
 ## Insight nền — khách thẩm mỹ mua gì
 - Khách mua **kết quả cảm xúc** (tự tin · trẻ ra · được công nhận), **không mua "ca phẫu thuật"**. Nói về quy trình trước khi nói về kết quả cảm xúc là đi sai thứ tự.
@@ -21,14 +21,20 @@ Version: 2.0 — kế thừa mục 3.1 + 3.2 bản v1.3
 | Giai đoạn | Nhiệt | Tâm lý / nỗi đau | Dấu hiệu intent trong từ khóa | Góc thông điệp Ads | LDP nên dùng |
 |---|---|---|---|---|---|
 | **1 NHẬN BIẾT** | Cold | Chưa ý thức vấn đề, tò mò | "là gì" · "có nên" · "xu hướng" | Khơi gợi + giáo dục nhẹ, **chưa bán** | Content/awareness — **không chạy LDP chốt** |
-| **2 TÌM HIỂU** | Warm | Đã biết vấn đề, so sánh phương pháp | "phương pháp" · "công nghệ" · "ở đâu tốt" · "bao nhiêu tiền" | So sánh + USP + định vị chuẩn Hàn / Bộ Y tế | **Loại A** hoặc **B** (thiên giáo dục) |
-| **3 CÂN NHẮC & NỖI SỢ ★** | Warm→Hot | Sợ đau/biến chứng/hỏng, ngờ tay nghề | "có đau không" · "bao lâu hồi phục" · "có nguy hiểm" · "bác sĩ nào" · "review" · "hỏng" | **Gỡ nỗi sợ**: an toàn Bộ Y tế · KCCS · bảo hành · ảnh thật | **Loại B (PAS)** — mạnh nhất ở đây |
-| **4 THỰC HIỆN** | Hot | Sẵn sàng, cần ưu đãi + đặt lịch | "giá [dịch vụ]" · "ưu đãi" · "đặt lịch" · "trả góp" | Ưu đãi có hạn + đặt lịch nhanh + cam kết an toàn | **Loại A** rút gọn, form booking nổi |
+| **2 TÌM HIỂU** | Warm | Đã biết vấn đề, so sánh phương pháp | "phương pháp" · "công nghệ" · "ở đâu tốt" · "bao nhiêu tiền" | So sánh + USP + định vị chuẩn Hàn / Bộ Y tế | **A1** (thiên giáo dục) |
+| **3 CÂN NHẮC & NỖI SỢ ★** | Warm→Hot | Sợ đau/biến chứng/hỏng, ngờ tay nghề | "có đau không" · "bao lâu hồi phục" · "có nguy hiểm" · "bác sĩ nào" · "review" · "hỏng" | **Gỡ nỗi sợ**: an toàn Bộ Y tế · KCCS · bảo hành · ảnh thật | **A2 — AIDA trả lời trước** (xem `kn-khung-landing.md`) |
+| **4 THỰC HIỆN** | Hot | Sẵn sàng, cần ưu đãi + đặt lịch | "giá [dịch vụ]" · "ưu đãi" · "đặt lịch" · "trả góp" | Ưu đãi có hạn + đặt lịch nhanh + cam kết an toàn | **A1** rút gọn, form booking nổi |
 | **5 TRẢI NGHIỆM & HẬU PHẪU** | Existing | Lo hồi phục, chăm sóc đúng cách | "chăm sóc sau" · "kiêng gì" · "sưng bao lâu" | Hướng dẫn + trấn an + mời tái khám | Trang hướng dẫn/CRM — **không chạy ads chốt** |
-| **6 GẮN BÓ & MỞ RỘNG** | LTV | Hài lòng → dịch vụ tiếp theo | "dịch vụ [khác]" · "khách cũ ưu đãi" | Cross-sell + loyalty + HTLX | **Loại A** cho dịch vụ mới |
+| **6 GẮN BÓ & MỞ RỘNG** | LTV | Hài lòng → dịch vụ tiếp theo | "dịch vụ [khác]" · "khách cũ ưu đãi" | Cross-sell + loyalty + HTLX | **A1** cho dịch vụ mới |
 
 **Giai đoạn 3 là điểm quyết định** — ngân sách và chất lượng nội dung nên dồn vào đây.
 **Giai đoạn 1 và 5 không chạy LDP chốt** — ép bán ở đây là đốt ngân sách và làm hỏng niềm tin.
+
+> ⚠️ **Cột "LDP nên dùng" ghi khung cho landing chạy Google Ads.** Khung chọn theo **nguồn traffic**, không theo intent: landing chạy Ads **luôn là AIDA** — `A1` khát khao hoặc `A2` **trả lời trước** (cho từ khoá nỗi sợ giai đoạn 3). **PAS chỉ dành cho SEO · GEO · social nguội.**
+>
+> Lý do, lý do sau nặng hơn: ① click đã trả tiền và từ khoá đã khai intent nên trì hoãn câu trả lời chỉ làm tăng bounce; ② **quảng cáo dịch vụ KCB không được gây hoang mang** nên khoét sâu nỗi sợ phẫu thuật là **rủi ro tuân thủ**.
+>
+> Luật đầy đủ + khung 13 section ở [`kn-khung-landing.md`](kn-khung-landing.md).
 
 ## Cách nhận diện giai đoạn từ một từ khóa lạ
 1. Từ khóa có **giá / "ở đâu" / "đặt lịch" / "ưu đãi"** → giai đoạn 4.

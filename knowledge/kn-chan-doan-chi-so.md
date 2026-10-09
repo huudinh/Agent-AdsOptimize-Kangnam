@@ -42,7 +42,7 @@ Khi intent lệch landing, hoặc CTR thấp + CPC cao + cạnh tranh cao.
 Khi CTR ổn nhưng CVR / scroll / form thấp — người vào rồi nhưng không chốt.
 → Sửa theo thứ tự: hook hero → phần gỡ nỗi sợ → CTA → form.
 
-**③ Đổi mẫu QC hoặc đổi loại LDP (A↔B)?**
+**③ Đổi mẫu QC hoặc đổi khung LDP (A1↔A2)?**
 Khi hook yếu, hoặc nỗi đau–khát khao không khớp khung đang dùng.
 → Quay B2–B3 của engine, hoặc đổi loại landing.
 
