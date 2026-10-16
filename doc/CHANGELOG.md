@@ -1,5 +1,40 @@
 # CHANGELOG — ADS OPTIMIZE (KANGNAM)
 
+## v2.5.1 — 16/10/2026 · Đồng bộ hồ sơ thương hiệu với site production
+
+Chỉ sửa **`knowledge/kn-ho-so-thuong-hieu.md`** (v2.1 → **v2.2**). Bộ não, prompts, zones, tools **không đổi**.
+Dữ liệu lấy trực tiếp từ `/doi-ngu-bac-si/` · `/chi-nhanh/` · menu chính, đối chiếu ngày 16/10/2026.
+
+### ⚠️ Một lỗi phải xử lý ngoài file knowledge
+**`Dr. Jolie Huynh` không còn tồn tại.** Trang `/doi-ngu-bac-si/jolie-huynh/` trả **404** và tên này không có trong danh sách bác sĩ live — nhưng vẫn đang nằm trong danh sách "bác sĩ nổi bật" của hồ sơ cũ. Hai slug khác cũng 404: `bac-si-dr-hong-vu`, `le-thi-thuy`.
+→ **Việc cần làm:** rà lại **landing và mẫu quảng cáo đang chạy**; chỗ nào đang nêu ba tên này phải gỡ. Đây là rào **R4**, không phải lỗi nội dung.
+
+### Ba mục đã sửa trong file
+
+| # | Cũ | Mới | Vì sao |
+|---|---|---|---|
+| ① | 6 "bác sĩ nổi bật", chỉ có tên | **Bảng 17 bác sĩ** kèm **CCHN · chuyên khoa · cơ sở · cờ `verified` · số năm · số ca** | Trang đội ngũ có khối JSON `kn-doctors-data` chứa sẵn các trường này — dùng được làm cổng R4 |
+| ② | 8 cơ sở (có dòng *"Kangnam Hà Nội (Viện TM) — 194 Trường Chinh, P. Kim Liên"*) | **7 cơ sở** = 2 bệnh viện + 5 viện thẩm mỹ | Dòng viện TM **không có trên `/chi-nhanh/`**. `194` là **số giấy phép** của bệnh viện Hà Nội, không phải số nhà — bệnh viện ở **190** Trường Chinh |
+| ③ | 9 nhóm dịch vụ, gộp *"Da liễu & sắc tố"* | **10 nhóm**, tách *Da liễu* / *Trị sắc tố* | Menu chính của site tách đôi |
+
+Thêm: email đổi thành `benhvienthammy@kangnam.com.vn` (theo site), ghi pháp nhân chịu trách nhiệm nội dung, ghi tên nhóm đúng như menu để dùng khi viết nội dung hiển thị (R2).
+
+### Luật mới khi gắn bác sĩ — ba cổng
+① có trong **danh sách live** *(trang hồ sơ còn sống **không** đồng nghĩa được dùng)* → ② **đúng chuyên khoa VÀ đúng cơ sở** *(bác sĩ Sài Gòn không gắn vào nội dung Hà Nội, dù tên đúng)* → ③ `status: verified` **và** có CCHN.
+Hiện **4 bác sĩ chưa có CCHN** trong dữ liệu (Alex Han · Nicolas Hung · Felix Tran · Frankie Vu) và **6 bác sĩ có `status` trống** → xác minh với Chuyên môn/Pháp chế trước khi dùng.
+
+### Chụp lại dữ liệu
+```bash
+python ../Agent-LDP-Kangnam/tools/fetch-du-lieu.py --chi bac_si co_so
+```
+In ra: tổng bác sĩ · ai thiếu CCHN · ai chưa `verified` · số cơ sở. Script **không tự sửa knowledge** — mỗi thay đổi về bác sĩ/cơ sở chạm R3-R4 nên cần người đối chiếu.
+
+### Chưa sửa (cố ý)
+- `doc/v1-ban-goc-1-file.md` — bản lưu trữ v1, giữ nguyên làm lịch sử.
+- Các agent khác cũng mang dữ liệu cũ: `Agent-KN-CPW` · `Agent-KN-CPWCheck` · `Agent-KN-GEO-Plant` (`kangnam-brand-geo.md`) · `Agent-PBP` (`kangnam-brand.md`) · `Kangnam-Agent-Factory` (`K4-dich-vu.md`, còn tên Jolie Huynh). **Cần đồng bộ riêng.**
+
+---
+
 ## v2.5 — 09/10/2026 · Đồng bộ logic với gói Nha khoa Paris + Design System từ production
 
 Đợt này **kéo gói Kangnam lên ngang gói [`Agent-AdsOptimize-NhaKhoaParis`](../../Agent-AdsOptimize-NhaKhoaParis/) v2.5**, rồi thêm phần đặc thù mà Paris không có. Bộ não brand-neutral giữ nguyên kiến trúc; phần đổi là **logic chọn khung landing**, **MODE 4**, và **ràng buộc tuyến cơ sở**.
