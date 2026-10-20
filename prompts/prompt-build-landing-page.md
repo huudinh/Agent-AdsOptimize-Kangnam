@@ -20,7 +20,7 @@ Trang mẫu là **trang quyền lợi thành viên** (`noindex`, chỉ dành cho
 
 **Trang tham chiếu đang THIẾU 5 thứ — LP chạy Ads bắt buộc phải có:**
 
-1. **Khối trust** — giấy phép Bộ Y tế + KCCS + hội đồng chuyên môn + HTLX (trang mẫu chỉ có dòng giấy phép ở footer).
+1. **Khối trust** — giấy phép Bộ Y tế + hội đồng chuyên môn + ekip bác sĩ phẫu thuật HTLX (trang mẫu chỉ có dòng giấy phép ở footer).
 2. **Khối gỡ 3 rào cản** — section quan trọng nhất của chặng S3.
 3. **FAQ xử lý nỗi sợ.**
 4. **Sticky CTA mobile** — trang mẫu chỉ có CTA ở header, không có thanh cố định đáy.
@@ -71,7 +71,7 @@ QUY TẮC NỘI DUNG:
   - Section "Gỡ 3 rào cản" phải gỡ ĐÚNG rào cản ghi ở cột "Rào cản gỡ chính",
     không gỡ chung chung cả ba.
   - Mỗi lời hứa phải kèm 1 bằng chứng kiểm chứng được. Thứ tự ưu tiên bằng chứng:
-    giấy phép KCB Bộ Y tế → KCCS → hội đồng chuyên môn + quy trình 5 bước vô khuẩn
+    giấy phép KCB Bộ Y tế → ekip bác sĩ phẫu thuật HTLX → hội đồng chuyên môn + quy trình 5 bước vô khuẩn
     → bảo hành minh bạch → case HTLX đã phát sóng → báo chí.
     Ở thẩm mỹ, bằng chứng AN TOÀN và TAY NGHỀ thắng bằng chứng vật liệu.
   - Nếu người gõ Google không phải người điều trị (chồng tìm cho vợ sau sinh),
@@ -177,7 +177,7 @@ RÀNG BUỘC PHÁP LÝ — vi phạm là loại thẳng, không tính điểm:
   - KHÔNG mời đại phẫu cho viện tỉnh (xem QUY TẮC TUYẾN).
   - Mọi con số kết quả gắn dấu * + dòng "Hiệu quả phụ thuộc cơ địa mỗi người".
   - Chỉ dùng tên bác sĩ có trong kn-ho-so-thuong-hieu.md. Tên khác → [CHỜ CẬP NHẬT].
-  - Giá, ưu đãi, điều kiện trả góp: đọc tại /bang-gia/ và /uu-dai/ LÚC CHẠY.
+  - Giá và ưu đãi: đọc tại /bang-gia/ và /uu-dai/ LÚC CHẠY. KHÔNG có trả góp.
     Không truy cập được → [CHỜ CẬP NHẬT], không dùng số đã nhớ, không bịa.
   - Before-after chỉ dùng case đã duyệt pháp lý. Chưa có → ô ảnh tạm ghi rõ.
   - Phải có checkbox đồng ý dữ liệu cá nhân + popup chính sách.
@@ -257,7 +257,7 @@ Chấm theo 12 câu, mỗi câu ĐẠT/KHÔNG kèm dẫn chứng cụ thể tron
     Có dùng --ink-3 cho chữ nhỏ không?
 11. ⚠️ TUYẾN: trang có mời đại phẫu không? Địa chỉ ở footer là tuyến nào?
     Có dòng giấy phép 287/BYT-GPHĐ nguyên văn không?
-12. Có từ cấm không? Có hứa thời gian hồi phục cứng không? Giá/ưu đãi/trả góp
+12. Có từ cấm không? Có claim KCCS/hội–hiệp hội hay trả góp không? Giá/ưu đãi
     có khớp dữ liệu đang hiệu lực không? Trích nguyên văn nếu có vi phạm.
 
 Kết luận: ĐƯỢC CHẠY / SỬA RỒI CHẠY / LÀM LẠI. Nếu phải sửa, liệt kê theo
@@ -320,7 +320,8 @@ Không viết code ở bước này.
 - [ ] Dòng giấy phép **287/BYT-GPHĐ** nguyên văn ở footer
 - [ ] Số kết quả có `*` + *"Hiệu quả phụ thuộc cơ địa mỗi người"*
 - [ ] Tên bác sĩ có trong `kn-ho-so-thuong-hieu.md`
-- [ ] Giá · ưu đãi · trả góp lấy động, không dùng số cũ
+- [ ] Giá · ưu đãi lấy động, không dùng số cũ · không có dòng nào về trả góp
+- [ ] Không có claim "bác sĩ thành viên KCCS" / hội – hiệp hội
 - [ ] Before-after đã duyệt pháp lý
 - [ ] Checkbox đồng ý dữ liệu cá nhân + popup chính sách
 - [ ] Người có thẩm quyền duyệt trước khi chạy

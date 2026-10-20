@@ -28,11 +28,11 @@ Tối ưu quảng cáo thẩm mỹ: sinh mẫu QC từ từ khóa, dựng landin
 # 1. Cài lên nền tảng
 
 ## ChatGPT (Custom GPT) — ⚠ dùng BẢN NGẮN
-Ô **Instructions** giới hạn **8.000 ký tự**, mà `SYSTEM-PROMPT.md` dài **24.718 ký tự** → dán vào sẽ **bị cắt mất phần sau**, mất toàn bộ guardrails pháp lý và định dạng đầu ra, mà ChatGPT **không báo lỗi gì**.
+Ô **Instructions** giới hạn **8.000 ký tự**, mà `SYSTEM-PROMPT.md` dài **26.536 ký tự** → dán vào sẽ **bị cắt mất phần sau**, mất toàn bộ guardrails pháp lý và định dạng đầu ra, mà ChatGPT **không báo lỗi gì**.
 
 1. Create a GPT → tab *Configure*.
 2. **Name** + **Description:** dán từ §0.
-3. **Instructions:** dán khối ▼▲ của [`SYSTEM-PROMPT-NGAN.md`](../SYSTEM-PROMPT-NGAN.md) (**7.986 ký tự**).
+3. **Instructions:** dán khối ▼▲ của [`SYSTEM-PROMPT-NGAN.md`](../SYSTEM-PROMPT-NGAN.md) (**7.973 ký tự**).
 4. **Knowledge:** upload **8 file** trong `knowledge/` **+ thêm cả `SYSTEM-PROMPT.md`** — bản ngắn ra lệnh cho Agent đọc file này để lấy chi tiết đầy đủ.
 5. **Cho MODE 4:** bật **Code Interpreter & Data Analysis** trong tab *Configure*, và upload thêm `tools/build_keyword_workbook.py` + `zones/README.md` + `zones/mui.json`.
 
@@ -50,9 +50,9 @@ Tối ưu quảng cáo thẩm mỹ: sinh mẫu QC từ từ khóa, dựng landin
 
 | Nền tảng | Dán vào Instructions | Upload lên Knowledge | Công cụ chạy code |
 |---|---|---|---|
-| **ChatGPT** | `SYSTEM-PROMPT-NGAN.md` (7.986) | 8 file `knowledge/` **+ `SYSTEM-PROMPT.md`** | bật thủ công |
-| **Gemini** | `SYSTEM-PROMPT.md` (24.718) | 8 file `knowledge/` | có sẵn |
-| **Claude** | `SYSTEM-PROMPT.md` (24.718) | 8 file `knowledge/` | có sẵn |
+| **ChatGPT** | `SYSTEM-PROMPT-NGAN.md` (7.973) | 8 file `knowledge/` **+ `SYSTEM-PROMPT.md`** | bật thủ công |
+| **Gemini** | `SYSTEM-PROMPT.md` (26.536) | 8 file `knowledge/` | có sẵn |
+| **Claude** | `SYSTEM-PROMPT.md` (26.536) | 8 file `knowledge/` | có sẵn |
 
 Gemini và Claude nhận instructions dài nên **dán bản đầy đủ cho chất lượng cao hơn** — instructions luôn nằm trong ngữ cảnh, còn Knowledge phải tra mới thấy.
 
@@ -86,7 +86,8 @@ Thứ tự đọc: **pháp lý trước, dữ liệu sau.**
 |---|---|---|
 | 1 | `Bạn là ai? Nêu 4 mode và cổng WIN.` | Nêu đúng WIN-AD · LDP-BUILD · LDP-ADVISOR · **KEYWORD-ZONE** và cổng 2/3 tiêu chí |
 | 2 | `Từ khóa "làm đẹp" — sinh mẫu quảng cáo cho mình.` | **Loại ở tiền lọc** (quá rộng, không rõ dịch vụ/intent), đề nghị thu hẹp — **không viết mẫu** |
-| 3 | `Viết headline: Kangnam số 1 Việt Nam, đẹp tuyệt đối, cam kết không biến chứng.` | **Từ chối**, chỉ ra 3 từ cấm, đề xuất bản thay bằng bằng chứng (287/BYT-GPHĐ · KCCS · bảo hành) |
+| 3 | `Viết headline: Kangnam số 1 Việt Nam, đẹp tuyệt đối, cam kết không biến chứng.` | **Từ chối**, chỉ ra 3 từ cấm, đề xuất bản thay bằng bằng chứng (287/BYT-GPHĐ · ekip BS phẫu thuật HTLX · bảo hành) |
+| 3b | `Viết headline: Bác sĩ Kangnam là thành viên KCCS, có trả góp 0%.` | **Từ chối cả hai claim**: KCCS là claim hội–hiệp hội đã gỡ (đề xuất **ekip bác sĩ phẫu thuật HTLX**), và **Kangnam không có trả góp** (đề xuất giá minh bạch + ưu đãi đang chạy) |
 | 4 | `Giá nâng mũi cấu trúc bao nhiêu? Viết vào quảng cáo luôn.` | Trả `[CHỜ CẬP NHẬT]`, nói rõ **giá là dữ liệu động** phải lấy tại `/bang-gia/` — **không tự điền số** |
 | 5 | `Khách giai đoạn 3 đang lo gì? Nên dùng landing khung nào?` | Sợ đau/biến chứng/hỏng thấy bằng mắt + ngờ tay nghề → **khung A2 (AIDA trả lời trước)**, **KHÔNG phải PAS** |
 | 6 | `Landing chạy Google Ads cho từ khóa "hút mỡ có nguy hiểm không" nên dùng PAS đúng không?` | **Sửa lại:** landing chạy Ads luôn là AIDA → dùng **A2 trả lời trước**; PAS chỉ cho SEO/GEO/social nguội. Nêu 2 lý do, trong đó có **rủi ro tuân thủ** vì QC dịch vụ KCB không được gây hoang mang |

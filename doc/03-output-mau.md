@@ -56,7 +56,7 @@ CÂU NÓI NGUYÊN VĂN CỦA KHÁCH (voice of customer)
 
  Nhóm USP / bằng chứng
   5. Giấy phép 287/BYT-GPHĐ      (23)
-  6. Bác sĩ thành viên KCCS      (24)
+  6. Ekip bác sĩ phẫu thuật HTLX (27)
   7. Quy trình 5 bước y khoa     (25)
   8. Hội đồng chuyên môn duyệt   (27)
 
@@ -72,7 +72,7 @@ CÂU NÓI NGUYÊN VĂN CỦA KHÁCH (voice of customer)
  15. [CHỜ CẬP NHẬT — ưu đãi]      ← lấy tại /uu-dai/ lúc chạy
 
 4 DESCRIPTION (≤90 ký tự) — mỗi mô tả = 1 lợi ích + 1 bằng chứng + 1 CTA
- 1. Mũi hỏng vẫn còn hướng xử lý. Bác sĩ KCCS khám và nói rõ giới hạn. Đặt lịch khám. (84)
+ 1. Mũi hỏng vẫn còn hướng xử lý. Bác sĩ chuyên khoa khám và nói rõ giới hạn. Đặt lịch khám. (88)
  2. Bệnh viện có giấy phép 287/BYT-GPHĐ, quy trình 5 bước vô khuẩn. Đăng ký tư vấn.   (82)
  3. Phác đồ riêng từng ca, bảo hành minh bạch, chăm sóc hậu phẫu. Gọi 0968.999.777.   (81)
  4. Khám trước khi quyết định — biết rõ làm được gì, chưa làm được gì. Đặt lịch.      (79)
@@ -90,8 +90,8 @@ Primary text:
   "Làm lại lần nữa có ăn thua gì không?" — câu nhiều người hỏi nhất khi mũi
   đã hỏng một lần.
   Câu trả lời trung thực: còn hướng xử lý, nhưng phải khám mới biết làm được
-  tới đâu. Bác sĩ chuyên khoa là thành viên Hiệp hội Thẩm mỹ Hàn Quốc (KCCS),
-  khám và nói rõ cả giới hạn trước khi bạn quyết định.
+  tới đâu. Bác sĩ chuyên khoa trực tiếp khám và nói rõ cả giới hạn
+  trước khi bạn quyết định.
   Giấy phép KCB 287/BYT-GPHĐ · quy trình 5 bước vô khuẩn · bảo hành minh bạch.
   → Đặt lịch khám: 0968.999.777
 Headline (≤40):     Mũi hỏng — còn hướng xử lý không?   (33)
@@ -110,7 +110,7 @@ BIẾN THỂ 3 — archetype 1 (nỗi đau trực diện) [rút gọn]
 TIÊU CHÍ                                   ĐIỂM
 1. Hook chạm trong 3 giây                   2   dùng nguyên văn câu khách hỏi
 2. Đúng intent + giai đoạn                  2   giai đoạn 3, gỡ SỢ + NGỜ
-3. Bằng chứng thật                          2   287/BYT-GPHĐ · KCCS · quy trình 5 bước
+3. Bằng chứng thật                          2   287/BYT-GPHĐ · ekip HTLX · quy trình 5 bước
 4. Gỡ ≥ 1 rào cản                           2   gỡ cả SỢ và NGỜ
 5. CTA rõ 1 hành động                       2   đặt lịch khám, một hành động duy nhất
 6. Tuân thủ y tế VN + Google/Meta           2   không từ cấm; không before-after
@@ -124,7 +124,7 @@ TIÊU CHÍ                                   ĐIỂM
 |---|---|---|---|---|
 | T1 | 3 hook (archetype 5 · 4 · 1) | body · offer · visual | CTR | Tìm hook thắng |
 | T2 | Góc B ↔ A | hook thắng T1 | CTR + CVR | Xác nhận PAS đúng cho giai đoạn 3 |
-| T3 | Bằng chứng: KCCS ↔ quy trình 5 bước | hook + góc thắng | CVR | Bằng chứng nào gỡ NGỜ tốt hơn |
+| T3 | Bằng chứng: ekip HTLX ↔ quy trình 5 bước | hook + góc thắng | CVR | Bằng chứng nào gỡ NGỜ tốt hơn |
 | T4 | CTA: "đặt lịch khám" ↔ "nhận phác đồ" | thân thắng | CPL + Booking | — |
 | T5 | Visual: bác sĩ ↔ cơ sở | copy thắng | CTR + CPL | — |
 
@@ -160,9 +160,9 @@ BLUEPRINT 13 SECTION  (A2 — đảo đầu trang so với A1)
                      lại cấu trúc trước." — trả lời thẳng, KHÔNG khoét sâu
  3  Gỡ 3 rào cản   ★ đẩy lên sớm vì đây là chặng S3
                      SỢ:  quy trình 5 bước, vô khuẩn, hội đồng chuyên môn
-                     NGỜ: 287/BYT-GPHĐ, bác sĩ KCCS, bảo hành minh bạch
+                     NGỜ: 287/BYT-GPHĐ, ekip BS phẫu thuật HTLX, bảo hành
                      NGẠI: mốc hồi phục dạng khoảng + "tùy cơ địa", tư vấn kín đáo
- 4  Trust          Giấy phép Bộ Y tế · KCCS · hội đồng chuyên môn · HTLX (HTV7)
+ 4  Trust          Giấy phép Bộ Y tế · hội đồng chuyên môn · ekip BS phẫu thuật HTLX
  5  Phân loại ca   4 kiểu mũi hỏng (lộ sóng / bóng đỏ / lệch / co rút) + hướng xử lý
  6  Quy trình an toàn 5 bước
  7  Đội ngũ bác sĩ [tên từ hồ sơ thương hiệu]
@@ -253,7 +253,7 @@ Mục tiêu: ưu tiên chi phí/ca chốt → booking rate → CPL.
 ② BẢNG CHIẾN DỊCH & NGÂN SÁCH  (tổng đúng 100%)
 | Chiến dịch | Ưu tiên | Tỷ trọng | Điểm (ý định × giá trị × chốt) |
 |---|---|---|---|
-| KN | S4 | Giá & Trả góp            | P1 | 20% | 5 × 5 × 5 |
+| KN | S4 | Giá & Ưu đãi             | P1 | 20% | 5 × 5 × 5 |
 | KN | S3 | Nỗi sợ & Bằng chứng     | P1 | 18% | 4 × 5 × 4 |
 | KN | S2 | Phương pháp & Công nghệ | P2 | 14% | 3 × 4 × 3 |
 | KN | S3 | Sửa mũi hỏng            | P1 | 12% | 5 × 5 × 3 |
@@ -290,12 +290,11 @@ Mục tiêu: ưu tiên chi phí/ca chốt → booking rate → CPL.
 
 ⑤ FILE ĐÃ XUẤT
 out/KN _ Google Ads _ Bộ từ khoá Nâng mũi.xlsx   (5 sheet)
-  7 chân dung KH · 10 chiến dịch · 11 landing · 66 từ khoá · 46 phủ định
+  7 chân dung KH · 10 chiến dịch · 11 landing · 64 từ khoá · 49 phủ định
 
 ⑥ DANH SÁCH [CHỜ CẬP NHẬT] CẦN ĐIỀN TRƯỚC KHI CHẠY ADS
   - Giá từng phương pháp → /bang-gia/ lúc chạy
   - % ưu đãi, số suất, hạn chương trình → /uu-dai/ lúc chạy
-  - Điều kiện và lãi suất trả góp
   - Điều kiện bảo hành cụ thể
   - 6 ô giả định phễu ở sheet 1 (CPC, click→lead, lead→lịch, show-up, chốt,
     giá trị ca) → thay bằng số thực từ Caresoft

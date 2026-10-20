@@ -82,7 +82,7 @@ Chỉ đào cụm tôi đã chọn, không đào cả bộ.
   - Chốt rào cản chính đang chặn họ: SỢ hay NGỜ hay NGẠI.
   - Khách này có cần GIỮ KÍN không? Nếu có thì ghi rõ, B5 phải cấp kênh riêng tư.
 XUẤT: hồ sơ insight + danh sách câu nói thật + rào cản chính + bằng chứng
-      nào của Kangnam gỡ được rào cản đó (theo thứ tự: giấy phép BYT → KCCS
+      nào của Kangnam gỡ được rào cản đó (theo thứ tự: giấy phép BYT → ekip BS phẫu thuật HTLX
       → hội đồng chuyên môn + quy trình 5 bước → bảo hành → HTLX).
 
 ─────────────────────────────────────────────────────────────
@@ -223,6 +223,7 @@ Mỗi bước chỉ được dùng thứ bước trước đã sinh. Thiếu m�
 - [ ] Không từ cấm · **không hứa thời gian hồi phục cứng**
 - [ ] ⚠️ **TUYẾN**: không mời đại phẫu cho viện tỉnh · địa chỉ landing đúng tuyến
 - [ ] Dòng giấy phép **287/BYT-GPHĐ** nguyên văn ở footer
-- [ ] Giá · ưu đãi · trả góp lấy động, không dùng số cũ
+- [ ] Giá · ưu đãi lấy động, không dùng số cũ · không có dòng nào về trả góp
+- [ ] Không có claim "bác sĩ thành viên KCCS" / hội – hiệp hội
 - [ ] Mọi `[CHỜ CẬP NHẬT]` đã điền hoặc đã xoá câu đó
 - [ ] Pháp chế duyệt + giấy xác nhận nội dung quảng cáo trước khi chạy

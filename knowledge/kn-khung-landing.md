@@ -1,5 +1,5 @@
 # KHUNG LANDING PAGE & DESIGN SYSTEM KANGNAM v3.0
-Version: 3.0 — kế thừa mục 5.2 + MODE 2 bản v1.3; token và khung trang lấy từ trang production
+Version: 3.1 — kế thừa mục 5.2 + MODE 2 bản v1.3; token và khung trang lấy từ trang production
 
 ## Chọn khung landing — theo NGUỒN TRAFFIC trước, rồi mới tới intent
 
@@ -33,13 +33,13 @@ Chọn sai khung là nguyên nhân phổ biến nhất của **CTR ổn nhưng k
 Dưới đây là thứ tự của **A1**. Với **A2** (từ khoá nỗi sợ), giữ nguyên 13 section nhưng **đảo đầu trang**: hero gọi tên nỗi lo → section 2 là **câu trả lời thẳng** cho đúng nỗi lo đó → rồi mới tới trust và phần còn lại. Khối gỡ 3 rào cản (Sợ–Ngờ–Ngại) đẩy lên **ngay sau câu trả lời**.
 
 1. **Hero (70–90vh)** — headline kết quả khát khao + subheadline + CTA chính + CTA phụ (gọi) + trust badge
-2. **Trust** — giấy phép Bộ Y tế + **KCCS** + hội đồng chuyên môn + **HTLX trên HTV7** + báo chí
+2. **Trust** — giấy phép Bộ Y tế + hội đồng chuyên môn + **ekip bác sĩ phẫu thuật HTLX trên HTV7** + báo chí
 3. **Dịch vụ & công nghệ** — card: icon – tên – mô tả – CTA
 4. **Vì sao chọn Kangnam** — **6 quyền lợi** · chuẩn Hàn · bệnh viện chuyên khoa · bảo hành minh bạch
 5. **Quy trình 5 bước chuẩn y khoa** — vô khuẩn · hội đồng chuyên môn giám sát
 6. **Đội ngũ bác sĩ** (tên thật từ hồ sơ thương hiệu)
 7. **Gỡ 3 rào cản (Sợ–Ngờ–Ngại)** ★ — gỡ **đúng** rào cản của chân dung được gán, không gỡ chung chung cả ba
-8. **Chi phí / ưu đãi / trả góp** `[động]`
+8. **Chi phí / ưu đãi** `[động]` — ⛔ không có trả góp
 9. **Review khách**
 10. **Before–After thật** (đã duyệt pháp lý) — chia tab theo chân dung
 11. **FAQ** — ưu tiên câu xử lý nỗi sợ
@@ -55,11 +55,11 @@ Dưới đây là thứ tự của **A1**. Với **A2** (từ khoá nỗi sợ),
 1. **Hero** — gọi đúng **Vấn đề/nỗi đau** (mũi hỏng · sụp mí · hô móm · béo bụng sau sinh) + hứa hẹn giải pháp + CTA
 2. **Khoét sâu** — hệ quả nếu không xử lý. Chỉ được khoét sâu ở đây, và vẫn **không gây hoang mang** — nêu hệ quả có thật, không vẽ thảm hoạ
 3. **Giải pháp** — phương pháp Kangnam giải quyết đúng vấn đề đó
-4. **Gỡ 3 rào cản (Sợ–Ngờ–Ngại)** ★ — giấy phép Bộ Y tế · KCCS · quy trình 5 bước + vô khuẩn · bảo hành minh bạch · gói chăm sóc hậu phẫu
+4. **Gỡ 3 rào cản (Sợ–Ngờ–Ngại)** ★ — giấy phép Bộ Y tế · ekip bác sĩ phẫu thuật HTLX · quy trình 5 bước + vô khuẩn · bảo hành minh bạch · gói chăm sóc hậu phẫu
 5. **Bằng chứng** — case thật **đúng vấn đề đó** + HTLX
 6. **Bác sĩ** (tên thật)
 7. **Quy trình an toàn**
-8. **Chi phí / ưu đãi / trả góp** `[động]`
+8. **Chi phí / ưu đãi** `[động]` — ⛔ không có trả góp
 9. **Review người từng gặp đúng vấn đề đó**
 10. **Before–After**
 11. **FAQ xử lý nỗi sợ**
@@ -92,7 +92,7 @@ Ba micro-conversion của Kangnam, xếp theo mức rào cản từ thấp lên 
 
 ## Quy tắc chung
 - **CTA lặp sau mỗi 2–3 section** + **Sticky CTA mobile** + **Popup CTA**.
-- Giá, ưu đãi và **trả góp** luôn là dữ liệu động — lấy tại `/bang-gia/` và `/uu-dai/` lúc chạy.
+- Giá và ưu đãi luôn là dữ liệu động — lấy tại `/bang-gia/` và `/uu-dai/` lúc chạy. ⛔ **Kangnam không có trả góp** — không dựng section hay dòng nào về trả góp.
 - Mọi con số gắn dấu `*` + dòng *"Hiệu quả phụ thuộc cơ địa mỗi người"*.
 - Before–after chỉ dùng case đã duyệt pháp lý.
 - **Chưa có ảnh thật → dựng ô ảnh tạm** theo mẫu ngay dưới, **không dùng ảnh stock/AI**.
@@ -356,7 +356,7 @@ Y khoa cao cấp chuẩn Hàn — sạch, nhiều khoảng trắng, navy làm n�
 
 ## Luồng làm việc MODE 2
 1. Nhận cụm từ khóa + dịch vụ → **xác định nguồn traffic trước**, rồi chốt khung `A1` / `A2` / `PAS` và **nói rõ vì sao**.
-2. Lấy USP / trust / bác sĩ / 6 quyền lợi từ `kn-ho-so-thuong-hieu.md`; giá & KM & trả góp lấy động.
+2. Lấy USP / trust / bác sĩ / 6 quyền lợi từ `kn-ho-so-thuong-hieu.md`; giá & KM lấy động (không có trả góp).
 3. **Kiểm tuyến cơ sở**: landing có mời đại phẫu không? Nếu có thì địa chỉ trong footer phải là tuyến bệnh viện.
 4. **Mặc định hỏi:** *"Xuất copy-deck trước, hay dựng thẳng HTML?"*
 5. Dựng HTML thì tuân Design System v3.0 ở trên, kèm **bảng kê ảnh cần cấp** cuối trang.

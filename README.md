@@ -16,13 +16,17 @@ Khách mua thẩm mỹ mua **kết quả cảm xúc** — nhưng chỉ xuống t
 
 ```
 ❌ "Kangnam — thẩm mỹ viện số 1 Việt Nam, đẹp tuyệt đối, không biến chứng"
-✅ "Giấy phép KCB 287/BYT-GPHĐ · bác sĩ thành viên Hiệp hội Thẩm mỹ Hàn Quốc (KCCS)
+✅ "Giấy phép KCB 287/BYT-GPHĐ · ekip bác sĩ phẫu thuật HTLX (HTV7)
    · quy trình 5 bước chuẩn y khoa · bảo hành minh bạch"
 ```
 
 **Phép thử trước khi xuất:** *"Câu này là bằng chứng kiểm chứng được, hay chỉ là tính từ?"*
 
-**Thứ tự dùng bằng chứng:** giấy phép KCB Bộ Y tế → **KCCS** → hội đồng chuyên môn + **quy trình 5 bước vô khuẩn** → **bảo hành minh bạch** → case **HTLX (HTV7)**.
+**Thứ tự dùng bằng chứng:** giấy phép KCB Bộ Y tế → **ekip bác sĩ phẫu thuật HTLX (HTV7)** → hội đồng chuyên môn + **quy trình 5 bước vô khuẩn** → **bảo hành minh bạch** → **case thật HTLX**.
+
+⛔ **Hai claim đã gỡ khỏi gói** (luật ③ và ④ ở `knowledge/kn-rao-phap-ly.md`, có cổng chặn trong `tools/build_keyword_workbook.py`):
+> ① *"bác sĩ thành viên KCCS / Hiệp hội Thẩm mỹ Hàn Quốc"* — tư cách hội là của từng người, không phải của thương hiệu → dùng **ekip bác sĩ phẫu thuật HTLX** hoặc **bác sĩ có CCHN**.
+> ② *"trả góp"* — **Kangnam không có dịch vụ trả góp** → từ khoá dạng này đưa vào phủ định; gỡ trục chi phí bằng giá minh bạch + ưu đãi đang chạy.
 Ở thẩm mỹ, kết quả hỏng **nhìn thấy bằng mắt và nằm trên mặt** — nên bằng chứng về *an toàn và tay nghề* thắng bằng chứng về *vật liệu*. (Ngược với nha khoa, nơi rào cản NGỜ về vật liệu nặng nhất.)
 
 ---
@@ -155,7 +159,7 @@ Giữ nguyên phần accessibility của production: `:focus-visible` viền amb
 
 | # | Tiêu chí | Đạt khi |
 |---|---|---|
-| ① | **Sát chuyển đổi** | Intent mua: giá · "ở đâu" · đặt lịch · trả góp — không phải thông tin thuần |
+| ① | **Sát chuyển đổi** | Intent mua: giá · "ở đâu" · đặt lịch · ưu đãi — không phải thông tin thuần |
 | ② | **Cạnh tranh ít → bid thấp** | Ngách, dài, hoặc local theo cơ sở |
 | ③ | **Giá trị dịch vụ lớn** | Nâng ngực · Lipo 360 · chỉnh hàm · gọt V-line · nâng mũi cấu trúc |
 
@@ -171,8 +175,8 @@ Giữ nguyên phần accessibility của production: `:focus-visible` viền amb
 |---|---|---|---|
 | 1 **NHẬN BIẾT** | "là gì" · "có nên" | Giáo dục nhẹ, **chưa bán** | Không chạy LDP chốt |
 | 2 **TÌM HIỂU** | "ở đâu tốt" · "bao nhiêu tiền" | So sánh + USP chuẩn Hàn | **A1** |
-| 3 **CÂN NHẮC & NỖI SỢ** ★ | "có đau không" · "có nguy hiểm" · "bao lâu hồi phục" · "review" · "hỏng" | **Gỡ nỗi sợ**: Bộ Y tế · KCCS · quy trình 5 bước · bảo hành | **A2 — trả lời trước** |
-| 4 **THỰC HIỆN** | "giá" · "ưu đãi" · "đặt lịch" · "trả góp" | Ưu đãi + trả góp + cam kết an toàn | **A1** rút gọn, form nổi |
+| 3 **CÂN NHẮC & NỖI SỢ** ★ | "có đau không" · "có nguy hiểm" · "bao lâu hồi phục" · "review" · "hỏng" | **Gỡ nỗi sợ**: Bộ Y tế · ekip BS phẫu thuật HTLX · quy trình 5 bước · bảo hành | **A2 — trả lời trước** |
+| 4 **THỰC HIỆN** | "giá" · "ưu đãi" · "đặt lịch" · "chi phí" | Ưu đãi + chi phí minh bạch + cam kết an toàn | **A1** rút gọn, form nổi |
 | 5 **HẬU PHẪU** | "chăm sóc sau" · "kiêng gì" · "sưng bao lâu" | Hướng dẫn + trấn an | Trang CRM |
 | 6 **GẮN BÓ** | "khách cũ ưu đãi" · "dịch vụ khác" | Cross-sell + HTLX | **A1** |
 
@@ -213,8 +217,8 @@ Bộ câu lệnh đầy đủ: [`doc/02-cau-lenh.md`](doc/02-cau-lenh.md) · pro
 
 | File | Nội dung | Trạng thái |
 |---|---|---|
-| [SYSTEM-PROMPT.md](SYSTEM-PROMPT.md) | Bộ não — 19 mục · **24.718 ký tự** | ✅ |
-| [SYSTEM-PROMPT-NGAN.md](SYSTEM-PROMPT-NGAN.md) | Bản ngắn **7.986 ký tự** (dư 14) — chỉ cho **ChatGPT** (ô Instructions giới hạn 8.000) | ✅ |
+| [SYSTEM-PROMPT.md](SYSTEM-PROMPT.md) | Bộ não — 19 mục · **26.536 ký tự** | ✅ |
+| [SYSTEM-PROMPT-NGAN.md](SYSTEM-PROMPT-NGAN.md) | Bản ngắn **7.973 ký tự** (dư 27) — chỉ cho **ChatGPT** (ô Instructions giới hạn 8.000) | ✅ |
 | [knowledge/kn-rao-phap-ly.md](knowledge/kn-rao-phap-ly.md) | Từ cấm → từ đúng · luật ảnh · HITL · policy Google/Meta | ✅ |
 | [knowledge/kn-ho-so-thuong-hieu.md](knowledge/kn-ho-so-thuong-hieu.md) | Định vị · nhận diện · 8 cơ sở + **tuyến** · trust · bác sĩ · taxonomy *(module swappable)* | ✅ |
 | [knowledge/kn-chan-dung-hanh-trinh.md](knowledge/kn-chan-dung-hanh-trinh.md) | Insight · 3 rào cản · phễu 6 giai đoạn | ✅ |
@@ -247,7 +251,7 @@ Bộ câu lệnh đầy đủ: [`doc/02-cau-lenh.md`](doc/02-cau-lenh.md) · pro
 
 Agent **bắt buộc** lấy giá tại `/bang-gia/` và ưu đãi tại `/uu-dai/` **ở thời điểm chạy**. **Không bịa, không dùng số cũ đã nhớ.** Không truy cập được → để `[CHỜ CẬP NHẬT]` và báo người dùng.
 
-Áp cho cả: % ưu đãi · số suất · hạn chương trình · **điều kiện và lãi suất trả góp**.
+Áp cho cả: % ưu đãi · số suất · hạn chương trình. ⛔ **Kangnam không có trả góp** — không có số nào để lấy và không được viết vào nội dung.
 
 ---
 

@@ -1,5 +1,5 @@
 # HỒ SƠ THƯƠNG HIỆU — KANGNAM *(module swappable)*
-Version: **2.2** — 2026-10-16: đối chiếu trực tiếp với site production (bác sĩ · cơ sở · taxonomy). Trước đó: v2.1 bổ sung cột TUYẾN và đối chiếu Design System v3.0.
+Version: **2.3** — 2026-10-20: gỡ claim "bác sĩ thành viên KCCS" khỏi khối Trust + chuỗi bằng chứng, và gỡ "trả góp" (Kangnam không có dịch vụ này) — luật ③ và ④ ở `kn-rao-phap-ly.md`. Trước đó: v2.2 — 2026-10-16: đối chiếu trực tiếp với site production (bác sĩ · cơ sở · taxonomy). Trước đó: v2.1 bổ sung cột TUYẾN và đối chiếu Design System v3.0.
 
 > 🔧 **Ba mục đã sửa ở v2.2 — đọc trước khi dùng lại nội dung cũ:**
 > ① **Dr. Jolie Huynh đã bị loại** (trang 404, không còn trong danh sách live) — rà lại landing và mẫu quảng cáo đang chạy.
@@ -78,13 +78,14 @@ Site tự phát biểu luật này, dùng được nguyên văn làm copy:
 
 ## Trust / pháp lý — dùng làm bằng chứng gỡ nỗi sợ
 - Giấy phép KCB **287/BYT-GPHĐ** (Bộ Y tế, 03/12/2020 — **Sài Gòn**) và **194/BYT-GPHĐ** (**Hà Nội**). Footer phải ghi **đúng số của cơ sở mà nội dung đang nhắm**.
-- Bác sĩ có **chứng chỉ hành nghề (CCHN)** — số CCHN từng người ở bảng mục *Bác sĩ*; nhiều bác sĩ là **thành viên Hiệp hội Thẩm mỹ Hàn Quốc (KCCS)** và các hiệp hội quốc tế (VSAPS · ASPS · ISAPS…) — nêu theo từng người, không nêu chung chung.
+- Bác sĩ có **chứng chỉ hành nghề (CCHN)** — số CCHN từng người ở bảng mục *Bác sĩ*. Đây là bằng chứng tay nghề **duy nhất** được dùng ở mức cá nhân, và phải nêu kèm **tên + chuyên khoa + cơ sở**.
+- ⛔ **Không dùng claim hội – hiệp hội** (KCCS · Hiệp hội Thẩm mỹ Hàn Quốc · VSAPS · ASPS · ISAPS…) trong bất kỳ đầu ra nào — tư cách hội là của từng người, không phải của thương hiệu. Luật ③ ở [`kn-rao-phap-ly.md`](kn-rao-phap-ly.md).
 - **Phòng mổ vô khuẩn + khu hậu phẫu riêng** tại tuyến bệnh viện *(nguyên văn `/chi-nhanh/`)*.
 - **Quy trình 5 bước chuẩn y khoa**, môi trường **vô khuẩn**, Hội đồng chuyên môn giám sát.
 - **6 quyền lợi:** bác sĩ chuyên khoa trực tiếp khám · gói xét nghiệm tổng quát · trải nghiệm phẫu thuật đẳng cấp · gói chăm sóc hậu phẫu · tái khám định kỳ · **bảo hành minh bạch**.
-- Chương trình **Hành Trình Lột Xác (HTLX)** phát trên HTV7 — nguồn case thật.
+- Chương trình **Hành Trình Lột Xác (HTLX)** phát trên HTV7 — hai công dụng: **ekip bác sĩ phẫu thuật HTLX** là bằng chứng tay nghề ở mức ekip (thay cho claim hội – hiệp hội đã gỡ), và là nguồn **case thật** đã phát sóng. Chỉ dùng cho ngữ cảnh **ekip mổ**; nói về bác sĩ khám/tư vấn thì viết "bác sĩ chuyên khoa trực tiếp khám".
 
-**Ưu tiên dùng bằng chứng theo thứ tự:** giấy phép Bộ Y tế → KCCS → quy trình 5 bước + vô khuẩn → bảo hành minh bạch → case HTLX.
+**Ưu tiên dùng bằng chứng theo thứ tự:** giấy phép Bộ Y tế → ekip bác sĩ phẫu thuật HTLX → hội đồng chuyên môn + quy trình 5 bước vô khuẩn → bảo hành minh bạch → case thật HTLX.
 
 ## Bác sĩ — **nguồn duy nhất: `/doi-ngu-bac-si/`**
 Danh sách nằm trong khối `<script type="application/json" id="kn-doctors-data">` của trang đó, kèm **CCHN · chuyên khoa · cơ sở · cờ `verified` · số năm · số ca · ảnh**. Bản chụp **2026-10-16: 16 bác sĩ + Dr. Richard Huy giới thiệu riêng**.
@@ -147,7 +148,9 @@ Agent **bắt buộc** lấy tại thời điểm chạy:
 - Giá: `/bang-gia/`
 - Ưu đãi: `/uu-dai/`
 
-**KHÔNG bịa. KHÔNG dùng số cũ.** Không truy cập được → để `[CHỜ CẬP NHẬT]` và báo người dùng. Áp cho cả: % ưu đãi · số suất · hạn chương trình · giá trả góp.
+**KHÔNG bịa. KHÔNG dùng số cũ.** Không truy cập được → để `[CHỜ CẬP NHẬT]` và báo người dùng. Áp cho cả: % ưu đãi · số suất · hạn chương trình.
+
+⛔ **Kangnam KHÔNG có dịch vụ trả góp** — không phải dữ liệu động, mà là **không có**. Không viết "trả góp / trả chậm / góp 0%" vào nội dung; từ khoá dạng này đưa vào phủ định. Trục NGẠI chi phí gỡ bằng **giá minh bạch + ưu đãi đang chạy + cam kết không phát sinh**. Luật ④ ở [`kn-rao-phap-ly.md`](kn-rao-phap-ly.md).
 
 ## Ranh giới với thương hiệu anh em
 Yêu cầu về **cơ xương khớp / bảo tồn khớp / PRP khớp** thuộc **Cơ Xương Khớp – Wellness** — thương hiệu phân biệt riêng, có agent riêng (CXK-CPW). Báo người dùng chuyển agent, **không viết bằng giọng thẩm mỹ**.

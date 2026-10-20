@@ -1,5 +1,60 @@
 # CHANGELOG — ADS OPTIMIZE (KANGNAM)
 
+## v2.6 — 20/10/2026 · Gỡ hai claim sai khỏi góc: "bác sĩ thành viên KCCS" và "trả góp"
+
+Phát hiện từ lần duyệt bộ từ khoá Nâng mũi: **10/11 nhóm** có headline *"Bác sĩ thành viên KCCS"*. Sửa ở file Excel chỉ là sửa ngọn — claim nằm sẵn trong **tri thức + bộ não**, nên ZONE sau vẫn sẽ sinh lại. Lần này sửa **tận gốc**.
+
+### Hai claim bị gỡ
+
+| Claim | Vì sao gỡ | Thay bằng |
+|---|---|---|
+| *"bác sĩ thành viên KCCS / Hiệp hội Thẩm mỹ Hàn Quốc"* (và VSAPS · ASPS · ISAPS…) | Tư cách hội là **của từng cá nhân**, không phải của ekip hay thương hiệu → viết ở mức nhóm QC là claim **không kiểm chứng được**, lại đứng đúng chỗ "bằng chứng gỡ NGỜ" | **ekip bác sĩ phẫu thuật HTLX (HTV7)** · hoặc **bác sĩ có CCHN** (đúng tên, đúng cơ sở) |
+| *"trả góp" · "trả chậm" · "góp 0%"* | **Kangnam không có dịch vụ trả góp** → hứa một thứ không tồn tại, và kéo lead không đủ ngân sách làm đội chi phí/ca chốt | **giá minh bạch (`/bang-gia/`) + ưu đãi đang chạy (`/uu-dai/`) + cam kết không phát sinh**; từ khoá đưa vào **phủ định** |
+
+> **Lưu ý ngữ cảnh:** chỗ đang nói về **bác sĩ khám / tư vấn** thì **bỏ hẳn claim**, viết *"bác sĩ chuyên khoa trực tiếp khám"* — **không** gắn HTLX vào, vì HTLX là **ekip phẫu thuật**.
+
+### Chuỗi bằng chứng mới (dùng đúng thứ tự)
+
+```
+giấy phép KCB Bộ Y tế
+  → ekip bác sĩ phẫu thuật HTLX (HTV7)
+  → hội đồng chuyên môn + quy trình 5 bước vô khuẩn
+  → bảo hành minh bạch
+  → case thật HTLX
+```
+
+### Đã sửa ở đâu
+
+| Nhóm | File | Sửa gì |
+|---|---|---|
+| **Bộ não** | `SYSTEM-PROMPT.md` (v2.5 → **v2.6**) | §3 chuỗi bằng chứng + 2 khối ⛔ claim đã gỡ · §5 ví dụ ✅ · §7 ① · §8 phễu · §9 B3/B4 · §10 T4 · §14 hai đoạn guardrail mới · §15 · §16 · §18 thêm **rule 16 và 17** |
+| | `SYSTEM-PROMPT-NGAN.md` (v2.5 → **v2.6**) | chuỗi bằng chứng + dòng ⛔ hai lệnh cấm + cổng WIN ① |
+| **Tri thức** | `kn-rao-phap-ly.md` (v2.1 → **v2.2**) | 2 dòng mới ở bảng từ cấm + **luật ③ và ④** ("Hai luật riêng" → **Bốn luật riêng**) |
+| | `kn-ho-so-thuong-hieu.md` (v2.2 → **v2.3**) | khối Trust bỏ claim hội–hiệp hội · HTLX thêm vai trò "ekip" · mục GIÁ & KM ghi rõ **không có trả góp** |
+| | `kn-chan-dung-hanh-trinh.md` (v2.1 → **v2.2**) | bằng chứng gỡ NGỜ · gỡ SỢ · từ khoá S4 |
+| | `kn-engine-win-ad.md` (v2.1 → **v2.2**) | template primary text Meta |
+| | `kn-khung-landing.md` (v3.0 → **v3.1**) | section Trust · section Gỡ 3 rào cản · **section 8 bỏ trục trả góp** (cả A1 và A2) · quy tắc chung |
+| | `kn-ppl-kh-trung-tam.md` (v1.0 → **v1.1**) | kết luận về bằng chứng mạnh nhất |
+| **ZONE** | `zones/mui.json` | 6 chỗ KCCS · **xoá 2 từ khoá trả góp** (66 → **64**) · thêm **3 phủ định** nhóm *Dịch vụ Kangnam không có* (46 → **49**) · chiến dịch *"KN \| S4 \| Giá & Trả góp"* → **"KN \| S4 \| Giá & Ưu đãi"** · LP6 đổi tên · 2 nguyên tắc mới |
+| **Cổng** | `tools/build_keyword_workbook.py` | thêm **`CLAIM_GO` + `soat_claim()`** — **chặn build** nếu còn `kccs` / `hiệp hội thẩm mỹ hàn quốc` / `trả góp` / `trả chậm` / `góp 0` trong từ khoá · thông điệp · nhóm QC · hành trình · landing · tên chiến dịch. **Phủ định được miễn** |
+| **Prompt** | `prompt-build-landing-page.md` · `prompt-quy-trinh-tron-goi.md` | khối trust · chuỗi bằng chứng · checklist thêm 1 dòng kiểm claim |
+| **Tài liệu** | `README.md` · `doc/01-cai-dat.md` · `doc/02-cau-lenh.md` · `doc/03-output-mau.md` | đồng bộ ví dụ + số đếm · **smoke test mới số 3b** bắt Agent từ chối cả hai claim |
+
+### Phải làm bên ngoài repo
+
+1. **Dán lại Instructions** cho cả ba nền tảng — bộ não nằm trong ô Instructions, sửa file không tự đẩy lên Gem/GPT/Project.
+2. **Upload lại 8 file `knowledge/`** (ChatGPT thêm `SYSTEM-PROMPT.md`).
+3. **Rà quảng cáo và landing đang chạy:** chỗ nào còn *"bác sĩ thành viên KCCS"* hoặc *"trả góp"* phải gỡ — đây là rào **R4**, không phải lỗi chữ nghĩa.
+4. **Thêm 3 từ phủ định** (`trả góp` · `trả chậm` · `góp 0 đồng`) vào danh sách phủ định toàn tài khoản trên Google Ads.
+5. **File Excel trong `out/` không được build lại tự động** (bản đang giao đã có sửa tay). Cần bản mới thì chạy:
+   ```bash
+   python tools/build_keyword_workbook.py zones/mui.json --out out
+   ```
+
+### Hai số cần nhớ
+- `SYSTEM-PROMPT.md`: **26.536 ký tự** (Gemini/Claude dán đủ).
+- `SYSTEM-PROMPT-NGAN.md`: **7.973 ký tự**, hạn mức ChatGPT 8.000 → **chỉ dư 27**. Thêm câu mới vào bản ngắn thì phải cắt chỗ khác, và **đếm lại** trước khi dán.
+
 ## v2.5.1 — 16/10/2026 · Đồng bộ hồ sơ thương hiệu với site production
 
 Chỉ sửa **`knowledge/kn-ho-so-thuong-hieu.md`** (v2.1 → **v2.2**). Bộ não, prompts, zones, tools **không đổi**.

@@ -1,4 +1,5 @@
 # AGENT — ADS OPTIMIZE (KANGNAM) · v1.3
+> ⚠️ **BẢN LƯU TRỮC — KHÔNG DÙNG, KHÔNG UPLOAD.** Giữ lại để tra lịch sử. Hai claim trong file này **đã bị gỡ từ v2.6 (20/10/2026)**: *"bác sĩ thành viên KCCS / Hiệp hội Thẩm mỹ Hàn Quốc"* → dùng **ekip bác sĩ phẫu thuật HTLX**, và *"trả góp"* → **Kangnam không có dịch vụ này**. Xem `doc/CHANGELOG.md` và luật ③–④ ở `knowledge/kn-rao-phap-ly.md`.
 > Chuẩn HCI R·M·K·W·O + Rules · Kiến trúc: BRAIN brand-neutral (mục 1,2,4,5,6,7) + MODULE kiến thức thương hiệu tách riêng (mục 3.3 — thay module này là chuyển brand khác).
 > v1.1: tích hợp Engine tạo nội dung WIN (B1–B9) vào MODE 1/3 + cổng 2/3 tiêu chí (mục 3.4).
 > v1.2: bổ sung Nhận diện thương hiệu (logo · địa chỉ · màu) vào mục 3.3.

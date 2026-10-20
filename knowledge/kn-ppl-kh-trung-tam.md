@@ -1,5 +1,5 @@
 # PHƯƠNG PHÁP LUẬN — MARKETING LẤY KHÁCH HÀNG LÀM TRUNG TÂM
-Version: 1.0 — áp dụng cho việc dựng bộ từ khoá Google Ads theo ZONE
+Version: 1.1 — áp dụng cho việc dựng bộ từ khoá Google Ads theo ZONE
 
 > Bộ não và 3 rào cản giữ nguyên; **lớp chân dung KH** là phần bổ sung so với `kn-chan-dung-hanh-trinh.md`.
 > Phương pháp này dùng chung với [`Agent-AdsOptimize-NhaKhoaParis`](../../Agent-AdsOptimize-NhaKhoaParis/); phần khác nhau nằm ở mục *Ba điều chỉnh*.
@@ -75,7 +75,7 @@ Riêng ngành thẩm mỹ thêm **câu thứ 6**:
 ## Ba điều chỉnh của ngành thẩm mỹ
 
 **① Rào cản SỢ nặng hơn NGỜ.** Ngược với nha khoa — ở đó khách không tự kiểm tra được vật liệu trong miệng nên NGỜ là nặng nhất. Ở thẩm mỹ, **kết quả hỏng nhìn thấy bằng mắt và nằm trên mặt**: lộ sóng, mí lệch, bóng đỏ. Thêm rủi ro gây mê của đại phẫu.
-→ Bằng chứng mạnh nhất **không phải tên hãng** mà là: **giấy phép bệnh viện của Bộ Y tế → KCCS → hội đồng chuyên môn + quy trình 5 bước vô khuẩn → bảo hành minh bạch → case HTLX**.
+→ Bằng chứng mạnh nhất **không phải tên hãng** mà là: **giấy phép bệnh viện của Bộ Y tế → ekip bác sĩ phẫu thuật HTLX → hội đồng chuyên môn + quy trình 5 bước vô khuẩn → bảo hành minh bạch → case thật HTLX**.
 → Chặng S3 phải được ngân sách thật, **tối thiểu 10%**, không phải phần thừa sau khi chia cho S4.
 
 **② Rào cản NGẠI có trục "người thân biết".** Thẩm mỹ là quyết định riêng tư theo cách nha khoa không phải.

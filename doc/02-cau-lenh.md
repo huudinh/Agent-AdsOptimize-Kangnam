@@ -251,7 +251,7 @@ Thêm kênh liên hệ riêng tư (Zalo) song song form — chân dung này cầ
 
 | Yêu cầu | Phản hồi của Agent |
 |---|---|
-| "Viết Kangnam số 1 / tốt nhất Việt Nam" | Từ chối; nêu từ cấm; đề xuất USP đo được (287/BYT-GPHĐ · KCCS · bảo hành) |
+| "Viết Kangnam số 1 / tốt nhất Việt Nam" | Từ chối; nêu từ cấm; đề xuất USP đo được (287/BYT-GPHĐ · ekip BS phẫu thuật HTLX · bảo hành) |
 | "Ghi cam kết không biến chứng / đẹp tuyệt đối / an toàn tuyệt đối" | Từ chối; đề xuất ngôn ngữ xác suất + bằng chứng + dấu `*` |
 | **"Ghi 3 ngày là đi làm bình thường"** | Từ chối hứa thời gian hồi phục cứng; đổi sang dạng khoảng + *"tùy cơ địa"* |
 | **"Ghi không để lại sẹo"** | Từ chối; nói về vị trí đường mổ và cách hạn chế sẹo |

@@ -1,5 +1,5 @@
 # CHÂN DUNG KHÁCH HÀNG & PHỄU 6 GIAI ĐOẠN — Thẩm mỹ
-Version: 2.1 — kế thừa mục 3.1 + 3.2 bản v1.3
+Version: 2.2 — kế thừa mục 3.1 + 3.2 bản v1.3
 
 ## Insight nền — khách thẩm mỹ mua gì
 - Khách mua **kết quả cảm xúc** (tự tin · trẻ ra · được công nhận), **không mua "ca phẫu thuật"**. Nói về quy trình trước khi nói về kết quả cảm xúc là đi sai thứ tự.
@@ -11,7 +11,7 @@ Version: 2.1 — kế thừa mục 3.1 + 3.2 bản v1.3
 | Rào cản | Khách đang nghĩ gì | Bằng chứng gỡ |
 |---|---|---|
 | **① SỢ** | Đau không? Biến chứng không? Hỏng thì sao? | Quy trình 5 bước chuẩn y khoa · môi trường vô khuẩn · hội đồng chuyên môn giám sát · gói chăm sóc hậu phẫu |
-| **② NGỜ** | Bác sĩ có thật giỏi không? Cơ sở có phép không? Có giá ẩn không? | Giấy phép KCB 287/BYT-GPHĐ · bác sĩ thành viên KCCS · bảng giá công khai · bảo hành minh bạch |
+| **② NGỜ** | Bác sĩ có thật giỏi không? Cơ sở có phép không? Có giá ẩn không? | Giấy phép KCB 287/BYT-GPHĐ · ekip bác sĩ phẫu thuật HTLX · bảng giá công khai · bảo hành minh bạch |
 | **③ NGẠI** | Nghỉ bao lâu? Người nhà có biết không? | Mốc hồi phục cụ thể theo dịch vụ · tư vấn kín đáo · tái khám định kỳ |
 
 > Mọi nội dung chốt phải gỡ **đúng rào cản của giai đoạn phễu đang nhắm**. Gỡ sai rào cản = nói lạc đề với người đang lo chuyện khác.
@@ -22,8 +22,8 @@ Version: 2.1 — kế thừa mục 3.1 + 3.2 bản v1.3
 |---|---|---|---|---|---|
 | **1 NHẬN BIẾT** | Cold | Chưa ý thức vấn đề, tò mò | "là gì" · "có nên" · "xu hướng" | Khơi gợi + giáo dục nhẹ, **chưa bán** | Content/awareness — **không chạy LDP chốt** |
 | **2 TÌM HIỂU** | Warm | Đã biết vấn đề, so sánh phương pháp | "phương pháp" · "công nghệ" · "ở đâu tốt" · "bao nhiêu tiền" | So sánh + USP + định vị chuẩn Hàn / Bộ Y tế | **A1** (thiên giáo dục) |
-| **3 CÂN NHẮC & NỖI SỢ ★** | Warm→Hot | Sợ đau/biến chứng/hỏng, ngờ tay nghề | "có đau không" · "bao lâu hồi phục" · "có nguy hiểm" · "bác sĩ nào" · "review" · "hỏng" | **Gỡ nỗi sợ**: an toàn Bộ Y tế · KCCS · bảo hành · ảnh thật | **A2 — AIDA trả lời trước** (xem `kn-khung-landing.md`) |
-| **4 THỰC HIỆN** | Hot | Sẵn sàng, cần ưu đãi + đặt lịch | "giá [dịch vụ]" · "ưu đãi" · "đặt lịch" · "trả góp" | Ưu đãi có hạn + đặt lịch nhanh + cam kết an toàn | **A1** rút gọn, form booking nổi |
+| **3 CÂN NHẮC & NỖI SỢ ★** | Warm→Hot | Sợ đau/biến chứng/hỏng, ngờ tay nghề | "có đau không" · "bao lâu hồi phục" · "có nguy hiểm" · "bác sĩ nào" · "review" · "hỏng" | **Gỡ nỗi sợ**: an toàn Bộ Y tế · ekip bác sĩ phẫu thuật HTLX · bảo hành · ảnh thật | **A2 — AIDA trả lời trước** (xem `kn-khung-landing.md`) |
+| **4 THỰC HIỆN** | Hot | Sẵn sàng, cần ưu đãi + đặt lịch | "giá [dịch vụ]" · "ưu đãi" · "đặt lịch" · "chi phí" | Ưu đãi có hạn + đặt lịch nhanh + cam kết an toàn | **A1** rút gọn, form booking nổi |
 | **5 TRẢI NGHIỆM & HẬU PHẪU** | Existing | Lo hồi phục, chăm sóc đúng cách | "chăm sóc sau" · "kiêng gì" · "sưng bao lâu" | Hướng dẫn + trấn an + mời tái khám | Trang hướng dẫn/CRM — **không chạy ads chốt** |
 | **6 GẮN BÓ & MỞ RỘNG** | LTV | Hài lòng → dịch vụ tiếp theo | "dịch vụ [khác]" · "khách cũ ưu đãi" | Cross-sell + loyalty + HTLX | **A1** cho dịch vụ mới |
 

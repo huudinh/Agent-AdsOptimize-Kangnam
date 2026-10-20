@@ -483,6 +483,35 @@ CAM = ["tốt nhất", "số 1", "số một", "không đau 100", "cam kết th�
        "khỏi 100", "đẹp tuyệt đối", "vĩnh viễn", "duy nhất",
        "an toàn tuyệt đối", "không biến chứng", "không để lại sẹo"]
 
+
+# ------------------------------------------------------- cổng CLAIM ĐÃ GỠ
+# Luật ③ và ④ ở kn-rao-phap-ly.md:
+#  - claim hội - hiệp hội (KCCS...) là tư cách của TỪNG NGƯỜI, không phải của
+#    thương hiệu -> viết ở mức nhóm QC là claim không kiểm chứng được;
+#  - Kangnam KHÔNG có dịch vụ trả góp -> chạy từ khoá này là hứa cái không có.
+# Quét từ khoá + thông điệp + hành trình + landing. Phủ định được miễn.
+CLAIM_GO = [
+    (u"kccs", u"claim hội - hiệp hội đã gỡ: thay bằng 'ekip bác sĩ phẫu thuật HTLX'"
+              u" hoặc bác sĩ có CCHN (đúng tên, đúng cơ sở)"),
+    (u"hiệp hội thẩm mỹ hàn quốc", u"như trên"),
+    (u"thành viên hiệp hội", u"như trên"),
+    (u"trả góp", u"Kangnam không có dịch vụ trả góp: đưa từ khoá này vào PHỦ ĐỊNH,"
+                  u" gỡ trục chi phí bằng giá minh bạch + ưu đãi đang chạy"),
+    (u"trả chậm", u"như trên"),
+    (u"góp 0", u"như trên"),
+]
+MIEN_TRU = u"không có trả góp"   # câu tự nhắc đã đúng luật thì không báo lỗi
+
+
+def soat_claim(chuoi, nhan, errs):
+    """Thấy claim đã gỡ trong một ô nội dung thì ghi lỗi."""
+    low = (chuoi or "").lower()
+    if MIEN_TRU in low:
+        return
+    for w, vi_sao in CLAIM_GO:
+        if w in low:
+            errs.append(u"%s: còn claim đã gỡ '%s' - %s" % (nhan, w, vi_sao))
+
 # ---------------------------------------------------------------- cổng TUYẾN
 # Đại phẫu chỉ được làm tại tuyến bệnh viện (190 Trường Chinh HN · 666 CMT8 SG).
 # Từ khoá "đại phẫu + tên tỉnh chỉ có viện tỉnh" là bẫy pháp lý: chạy được nhưng
@@ -544,6 +573,8 @@ def validate(z, path):
         for w in CAM:
             if w in low:
                 errs.append("%s: thông điệp chứa từ cấm quảng cáo y tế '%s'" % (tag, w))
+        soat_claim(u"%s %s %s" % (kw.get("tu_khoa", ""), kw.get("thong_diep", ""),
+                                  kw.get("nhom_qc", "")), tag, errs)
         key = ((kw.get("tu_khoa") or "").strip().lower(), kw.get("khop"))
         if key in seen:
             errs.append("trùng từ khoá x kiểu khớp: %s (%s)" % key)
@@ -562,6 +593,15 @@ def validate(z, path):
                     "khám tại viện tỉnh + mổ tại TUYẾN BỆNH VIỆN, nói rõ trên trang; "
                     "hoặc (2) đưa vào PHỦ ĐỊNH của chiến dịch local. Ghi rõ vào ghi_chu."
                     % (tag, dp, vt))
+
+    for i, ht in enumerate(z["hanh_trinh"], start=1):
+        for k in ("thong_diep", "bang_chung", "tiep_theo", "chien_dich"):
+            soat_claim(ht.get(k, ""), u"hành trình #%d · %s" % (i, k), errs)
+    for i, lp in enumerate(z["landing"], start=1):
+        for k in ("ma_ten", "noi_dung", "cta"):
+            soat_claim(lp.get(k, ""), u"landing #%d · %s" % (i, k), errs)
+    for c in z["chien_dich"]:
+        soat_claim(c.get("ten", ""), u"chiến dịch '%s'" % c.get("ten", ""), errs)
 
     if errs:
         raise SystemExit("[LỖI] " + path + "\n  - " + "\n  - ".join(errs))

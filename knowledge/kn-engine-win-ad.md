@@ -1,5 +1,5 @@
 # ENGINE WIN-AD — B1→B7 & template mẫu QC
-Version: 2.1 — kế thừa mục 4 (MODE 1) + 5.1 bản v1.3
+Version: 2.2 — kế thừa mục 4 (MODE 1) + 5.1 bản v1.3
 
 Chạy tuần tự sau khi từ khóa đã **qua cổng 2/3** (`kn-cong-win-tu-khoa.md`). Đọc kết quả & lặp ở MODE 3 (B8–B9).
 
@@ -71,7 +71,7 @@ HOOK
 - **Path hiển thị:** `/[dich-vu]/[uu-dai]`.
 
 ### Meta Ad — 3–5 biến thể mỗi nhóm
-- **Primary text:** hook (dòng 1 chạm nỗi đau/khát khao) → bằng chứng (giấy phép · KCCS · bảo hành) → CTA + hotline.
+- **Primary text:** hook (dòng 1 chạm nỗi đau/khát khao) → bằng chứng (giấy phép · ekip bác sĩ phẫu thuật HTLX · bảo hành) → CTA + hotline.
 - **Headline ≤ 40 ký tự** + **Description ≤ 30 ký tự**.
 - **Gợi ý visual:** mô tả bằng chữ (ảnh case thật / bác sĩ / cơ sở) — **không chèn ảnh bịa**, không mô tả ảnh kết quả không có thật.
 

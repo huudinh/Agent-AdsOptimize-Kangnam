@@ -69,7 +69,7 @@ Khuyến nghị **4–7 chân dung**. Ít hơn 4 thường là chưa tách đủ
 | S1 NHẬN BIẾT | "là gì" · "có nên" · "xu hướng" | Không chạy landing chốt |
 | S2 TÌM HIỂU | "phương pháp nào tốt" · "công nghệ" · "ở đâu tốt" | |
 | **S3 CÂN NHẮC & NỖI SỢ** | "có đau không" · "có nguy hiểm" · "bao lâu hồi phục" · "review" · "hỏng" | **Chặng quyết định** — cạnh tranh thấp nhất, Kangnam có bằng chứng mạnh nhất |
-| S4 THỰC HIỆN | "giá" · "ở đâu" · "trả góp" · "đặt lịch" | |
+| S4 THỰC HIỆN | "giá" · "ở đâu" · "ưu đãi" · "đặt lịch" | |
 | S5 TRẢI NGHIỆM & HẬU PHẪU | "chăm sóc sau" · "kiêng gì" · "sưng bao lâu" | Không chạy landing chốt |
 | S6 GẮN BÓ & MỞ RỘNG | "khách cũ" · "dịch vụ khác" | Cross-sell sang ZONE khác; **sang KDT/cơ xương khớp là đổi sub-brand** — chỉ gợi ý |
 
@@ -78,7 +78,7 @@ Khuyến nghị **4–7 chân dung**. Ít hơn 4 thường là chưa tách đủ
 `chien_dich[]`: `ten`, `uu_tien` (phải khớp một `cap` trong `cap_uu_tien`), `vai_tro`,
 `ty_trong` (**tổng đúng 1.0**), `diem {y_dinh, gia_tri, kha_nang_chot}` (1–5), `bid`, `chi_tieu`.
 
-> Quy ước đặt tên: `KN | <chặng> | <cụm truy vấn>` — vd `KN | S4 | Giá & Trả góp`.
+> Quy ước đặt tên: `KN | <chặng> | <cụm truy vấn>` — vd `KN | S4 | Giá & Ưu đãi`.
 > Chiến dịch local thêm **tuyến** của cơ sở nó phục vụ: `KN | S4 | Giá - Đà Nẵng (viện tỉnh)`.
 > Tên này là **khoá nối** sang sheet 2 (`COUNTIF`) và sheet 5 (tham chiếu ô). Sửa tên ở một nơi phải sửa cả hai.
 

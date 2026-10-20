@@ -24,7 +24,7 @@
       "insight": "Đã đọc review 6 tháng đến 1 năm, biết hết thuật ngữ sụn sườn - sụn tai - sụn nhân tạo. Không sợ đau, sợ chọn sai bác sĩ. Người gõ Google chính là người điều trị.",
       "rao_can": "NGỜ — tay nghề bác sĩ và cơ sở có đúng tuyến bệnh viện không",
       "chang_vao": "S2-S4",
-      "chien_dich": "KN | S2 | Ở đâu tốt - Thương hiệu · KN | S4 | Giá & Trả góp",
+      "chien_dich": "KN | S2 | Ở đâu tốt - Thương hiệu · KN | S4 | Giá & Ưu đãi",
       "gia_tri_ca": "Rất cao"
     },
     {
@@ -42,7 +42,7 @@
       "insight": "Tự thấy xuống sắc sau sinh nhưng không dám chi cho bản thân. NGƯỜI GÕ GOOGLE THƯỜNG LÀ CHỒNG — tìm quà tặng vợ, hoặc vợ nhờ chồng tìm. Thông điệp phải viết cho người mua hộ.",
       "rao_can": "NGẠI — nghỉ dưỡng bao lâu, ai trông con, chi phí có đáng không",
       "chang_vao": "S3-S4",
-      "chien_dich": "KN | S3 | Nỗi sợ & Bằng chứng · KN | S4 | Giá & Trả góp",
+      "chien_dich": "KN | S3 | Nỗi sợ & Bằng chứng · KN | S4 | Giá & Ưu đãi",
       "gia_tri_ca": "Cao"
     },
     {
@@ -97,7 +97,7 @@
       "chien_dich": "KN | S2 | Phương pháp & Công nghệ · KN | S2 | Ở đâu tốt - Thương hiệu",
       "tu_khoa": "nâng mũi cấu trúc · nâng mũi sụn sườn · nâng mũi ở đâu tốt",
       "thong_diep": "So sánh phương pháp theo tình trạng mũi + định vị bệnh viện chuẩn Hàn",
-      "bang_chung": "BẮT BUỘC: giấy phép KCB Bộ Y tế 287/BYT-GPHĐ + bác sĩ thành viên KCCS",
+      "bang_chung": "BẮT BUỘC: giấy phép KCB Bộ Y tế 287/BYT-GPHĐ + ekip bác sĩ phẫu thuật HTLX",
       "lp": "LP2, LP3",
       "chuyen_doi": "Để lại SĐT nhận tư vấn phương pháp",
       "sau_lead": "Tư vấn viên gọi trong 5 phút, chốt lịch khám miễn phí",
@@ -117,16 +117,16 @@
       "chuyen_doi": "Đặt khám miễn phí với bác sĩ chuyên khoa (KHÔNG phải đặt lịch mổ)",
       "sau_lead": "Bác sĩ khám và tư vấn trực tiếp, không chốt mổ ngay buổi đầu",
       "kpi": "Booking rate, show-up rate. CPL ở đây CAO là bình thường — đừng cắt sớm",
-      "tiep_theo": "Sau khám → S4 báo giá và trả góp"
+      "tiep_theo": "Sau khám → S4 báo giá và ưu đãi"
     },
     {
       "chang": "S4 THỰC HIỆN",
       "chan_dung": "CD2, CD4, CD6",
       "tam_ly": "Đã quyết làm, đang hỏi giá và sắp xếp thời gian - tiền",
       "rao_can": "NGẠI — chi phí lớn, nghỉ dưỡng, (CD6) đi lại xa",
-      "chien_dich": "KN | S4 | Giá & Trả góp · KN | S4 | Đặt lịch - Local tuyến BV · KN | S4 | Local viện tỉnh - Tư vấn",
-      "tu_khoa": "nâng mũi giá bao nhiêu · nâng mũi trả góp · nâng mũi hà nội",
-      "thong_diep": "Giá minh bạch [động] + trả góp + cam kết an toàn + đặt lịch nhanh",
+      "chien_dich": "KN | S4 | Giá & Ưu đãi · KN | S4 | Đặt lịch - Local tuyến BV · KN | S4 | Local viện tỉnh - Tư vấn",
+      "tu_khoa": "nâng mũi giá bao nhiêu · nâng mũi ưu đãi · nâng mũi hà nội",
+      "thong_diep": "Giá minh bạch [động] + ưu đãi [động] + không phát sinh + đặt lịch nhanh",
       "bang_chung": "Bảng giá tại /bang-gia/ và ưu đãi tại /uu-dai/ đọc LÚC CHẠY — không dùng số cũ",
       "lp": "LP6, LP7, LP8",
       "chuyen_doi": "Đặt lịch + đặt cọc giữ suất ưu đãi",
@@ -232,7 +232,7 @@
       "chi_tieu": "Giữ, đây là lợi thế bệnh viện"
     },
     {
-      "ten": "KN | S4 | Giá & Trả góp",
+      "ten": "KN | S4 | Giá & Ưu đãi",
       "uu_tien": "P1",
       "vai_tro": "Chốt đơn - intent mua cao nhất",
       "ty_trong": 0.2,
@@ -332,7 +332,7 @@
       "chang": "S2",
       "chan_dung": "CD1, CD2",
       "rao_can": "NGỜ - phương pháp nào phù hợp với mũi mình",
-      "noi_dung": "Kết quả tự nhiên theo dáng mặt Á Đông, so sánh cấu trúc vs bọc sụn, bác sĩ KCCS, quy trình 5 bước. Địa chỉ TUYẾN BỆNH VIỆN.",
+      "noi_dung": "Kết quả tự nhiên theo dáng mặt Á Đông, so sánh cấu trúc vs bọc sụn, ekip bác sĩ phẫu thuật HTLX, quy trình 5 bước. Địa chỉ TUYẾN BỆNH VIỆN.",
       "cta": "Đặt khám miễn phí với bác sĩ chuyên khoa",
       "micro": "Chọn dịch vụ quan tâm (bottom sheet) trước form"
     },
@@ -367,12 +367,12 @@
       "micro": "Chat riêng tư Zalo - gửi ảnh không cần để SĐT"
     },
     {
-      "ma_ten": "LP6: Giá nâng mũi & Trả góp",
+      "ma_ten": "LP6: Giá nâng mũi & Ưu đãi",
       "loai": "A1 - AIDA khát khao",
       "chang": "S4",
       "chan_dung": "CD2, CD4",
       "rao_can": "NGẠI - chi phí lớn",
-      "noi_dung": "Bảng giá theo phương pháp [ĐỘNG - đọc /bang-gia/ lúc chạy], ưu đãi [ĐỘNG - /uu-dai/], điều kiện trả góp [ĐỘNG]. Minh bạch chi phí phát sinh. Địa chỉ TUYẾN BỆNH VIỆN.",
+      "noi_dung": "Bảng giá theo phương pháp [ĐỘNG - đọc /bang-gia/ lúc chạy], ưu đãi [ĐỘNG - /uu-dai/]. Minh bạch chi phí phát sinh. KHÔNG có trả góp. Địa chỉ TUYẾN BỆNH VIỆN.",
       "cta": "Nhận báo giá theo tình trạng của bạn",
       "micro": "Chọn mức ưu đãi quan tâm trước form"
     },
@@ -729,7 +729,7 @@
       "canh_tranh": "Cao",
       "win": "2/3",
       "lp": "LP3",
-      "thong_diep": "Bác sĩ thành viên Hiệp hội Thẩm mỹ Hàn Quốc KCCS · Xem đội ngũ",
+      "thong_diep": "Ekip bác sĩ phẫu thuật HTLX · Xem đội ngũ",
       "volume": "",
       "cpc": "",
       "ghi_chu": "CHỈ dùng tên bác sĩ có trong kn-ho-so-thuong-hieu.md."
@@ -984,7 +984,7 @@
       "canh_tranh": "Thấp",
       "win": "3/3",
       "lp": "LP5",
-      "thong_diep": "Tuyến bệnh viện, phòng mổ vô khuẩn, bác sĩ KCCS · Đặt khám",
+      "thong_diep": "Tuyến bệnh viện, phòng mổ vô khuẩn, ekip BS HTLX · Đặt khám",
       "volume": "",
       "cpc": "",
       "ghi_chu": ""
@@ -1092,7 +1092,7 @@
       "ghi_chu": "KHÔNG báo giá ca cụ thể trước khám. Giá ĐỘNG."
     },
     {
-      "chien_dich": "KN | S4 | Giá & Trả góp",
+      "chien_dich": "KN | S4 | Giá & Ưu đãi",
       "nhom_qc": "Giá",
       "tu_khoa": "nâng mũi giá bao nhiêu",
       "khop": "Exact",
@@ -1109,7 +1109,7 @@
       "ghi_chu": "Intent mua cao nhất. Giá ĐỘNG - đọc /bang-gia/ lúc chạy, KHÔNG dùng số cũ."
     },
     {
-      "chien_dich": "KN | S4 | Giá & Trả góp",
+      "chien_dich": "KN | S4 | Giá & Ưu đãi",
       "nhom_qc": "Giá",
       "tu_khoa": "chi phí nâng mũi cấu trúc",
       "khop": "Phrase",
@@ -1126,7 +1126,7 @@
       "ghi_chu": ""
     },
     {
-      "chien_dich": "KN | S4 | Giá & Trả góp",
+      "chien_dich": "KN | S4 | Giá & Ưu đãi",
       "nhom_qc": "Giá",
       "tu_khoa": "bảng giá nâng mũi",
       "khop": "Phrase",
@@ -1143,7 +1143,7 @@
       "ghi_chu": "Gỡ rào cản 'giá ẩn' của NGỜ."
     },
     {
-      "chien_dich": "KN | S4 | Giá & Trả góp",
+      "chien_dich": "KN | S4 | Giá & Ưu đãi",
       "nhom_qc": "Giá",
       "tu_khoa": "nâng mũi bao nhiêu tiền 2026",
       "khop": "Phrase",
@@ -1160,41 +1160,7 @@
       "ghi_chu": "Từ khoá có năm - phải kiểm lại mỗi năm, giá ĐỘNG."
     },
     {
-      "chien_dich": "KN | S4 | Giá & Trả góp",
-      "nhom_qc": "Trả góp",
-      "tu_khoa": "nâng mũi trả góp",
-      "khop": "Exact",
-      "uu_tien": "P1",
-      "chang": "S4",
-      "chan_dung": "CD4",
-      "rao_can": "NGẠI",
-      "canh_tranh": "Trung bình",
-      "win": "3/3",
-      "lp": "LP6",
-      "thong_diep": "Trả góp theo điều kiện hiện hành [CHỜ CẬP NHẬT] · Xem điều kiện",
-      "volume": "",
-      "cpc": "",
-      "ghi_chu": "Điều kiện và lãi suất trả góp là DỮ LIỆU ĐỘNG - không tự điền."
-    },
-    {
-      "chien_dich": "KN | S4 | Giá & Trả góp",
-      "nhom_qc": "Trả góp",
-      "tu_khoa": "nâng mũi trả góp 0 đồng",
-      "khop": "Phrase",
-      "uu_tien": "P2",
-      "chang": "S4",
-      "chan_dung": "CD4",
-      "rao_can": "NGẠI",
-      "canh_tranh": "Trung bình",
-      "win": "2/3",
-      "lp": "LP6",
-      "thong_diep": "Chương trình trả góp hiện hành [CHỜ CẬP NHẬT] · Hỏi điều kiện",
-      "volume": "",
-      "cpc": "",
-      "ghi_chu": "KHÔNG hứa '0 đồng' nếu chương trình không còn hiệu lực. Kiểm /uu-dai/ lúc chạy."
-    },
-    {
-      "chien_dich": "KN | S4 | Giá & Trả góp",
+      "chien_dich": "KN | S4 | Giá & Ưu đãi",
       "nhom_qc": "Ưu đãi",
       "tu_khoa": "nâng mũi ưu đãi",
       "khop": "Phrase",
@@ -1211,7 +1177,7 @@
       "ghi_chu": "% ưu đãi, số suất, hạn chương trình đều ĐỘNG."
     },
     {
-      "chien_dich": "KN | S4 | Giá & Trả góp",
+      "chien_dich": "KN | S4 | Giá & Ưu đãi",
       "nhom_qc": "Đặt lịch",
       "tu_khoa": "đặt lịch nâng mũi",
       "khop": "Phrase",
@@ -1553,6 +1519,27 @@
   ],
   "phu_dinh_chung": [
     {
+      "nhom": "Dịch vụ Kangnam không có",
+      "tu": "trả góp",
+      "khop": "Phrase",
+      "ap_dung": "Toàn tài khoản",
+      "ly_do": "Kangnam KHÔNG có dịch vụ trả góp - chạy từ khoá này là hứa cái không có, và kéo lead không đủ ngân sách"
+    },
+    {
+      "nhom": "Dịch vụ Kangnam không có",
+      "tu": "trả chậm",
+      "khop": "Phrase",
+      "ap_dung": "Toàn tài khoản",
+      "ly_do": "Như trên - không có hình thức thanh toán này"
+    },
+    {
+      "nhom": "Dịch vụ Kangnam không có",
+      "tu": "góp 0 đồng",
+      "khop": "Phrase",
+      "ap_dung": "Toàn tài khoản",
+      "ly_do": "Như trên - và '0 đồng' còn là hứa mức giá không có thật"
+    },
+    {
       "nhom": "Miễn phí & giá rẻ",
       "tu": "miễn phí",
       "khop": "Phrase",
@@ -1733,35 +1720,35 @@
       "nhom": "S4 → S1",
       "tu": "là gì",
       "khop": "Phrase",
-      "ap_dung": "KN | S4 | Giá & Trả góp",
+      "ap_dung": "KN | S4 | Giá & Ưu đãi",
       "ly_do": "ĐIỀU HƯỚNG: truy vấn khái niệm thuộc CD1 chặng S1 - đẩy về chiến dịch S1, không loại"
     },
     {
       "nhom": "S4 → S1",
       "tu": "có nên",
       "khop": "Phrase",
-      "ap_dung": "KN | S4 | Giá & Trả góp",
+      "ap_dung": "KN | S4 | Giá & Ưu đãi",
       "ly_do": "ĐIỀU HƯỚNG về S1 - khách chưa quyết định làm"
     },
     {
       "nhom": "S4 → S3",
       "tu": "có đau không",
       "khop": "Phrase",
-      "ap_dung": "KN | S4 | Giá & Trả góp",
+      "ap_dung": "KN | S4 | Giá & Ưu đãi",
       "ly_do": "ĐIỀU HƯỚNG: nỗi sợ thuộc S3, landing A2 trả lời trước mới đúng"
     },
     {
       "nhom": "S4 → S3",
       "tu": "có nguy hiểm",
       "khop": "Phrase",
-      "ap_dung": "KN | S4 | Giá & Trả góp",
+      "ap_dung": "KN | S4 | Giá & Ưu đãi",
       "ly_do": "ĐIỀU HƯỚNG về S3"
     },
     {
       "nhom": "S4 → S3",
       "tu": "bao lâu hồi phục",
       "khop": "Phrase",
-      "ap_dung": "KN | S4 | Giá & Trả góp",
+      "ap_dung": "KN | S4 | Giá & Ưu đãi",
       "ly_do": "ĐIỀU HƯỚNG về S3"
     },
     {
@@ -1810,21 +1797,21 @@
       "nhom": "Local chéo",
       "tu": "hà nội",
       "khop": "Phrase",
-      "ap_dung": "KN | S4 | Giá & Trả góp",
+      "ap_dung": "KN | S4 | Giá & Ưu đãi",
       "ly_do": "ĐIỀU HƯỚNG về chiến dịch local tuyến BV để đo riêng theo cơ sở"
     },
     {
       "nhom": "Local chéo",
       "tu": "tphcm",
       "khop": "Phrase",
-      "ap_dung": "KN | S4 | Giá & Trả góp",
+      "ap_dung": "KN | S4 | Giá & Ưu đãi",
       "ly_do": "ĐIỀU HƯỚNG về local tuyến BV"
     },
     {
       "nhom": "Local chéo",
       "tu": "sài gòn",
       "khop": "Phrase",
-      "ap_dung": "KN | S4 | Giá & Trả góp",
+      "ap_dung": "KN | S4 | Giá & Ưu đãi",
       "ly_do": "ĐIỀU HƯỚNG về local tuyến BV"
     },
     {
@@ -1909,7 +1896,9 @@
     "Từ khoá đại phẫu + tỉnh có viện tỉnh phải khai cách xử lý trong ghi_chu: hoặc điều hướng về LP11 (mổ tại tuyến BV, nói rõ trên trang), hoặc phủ định. Generator chặn nếu để trống.",
     "Chỉ dùng Exact và Phrase. KHÔNG Broad cho tới khi đã import được chuyển đổi offline.",
     "Để TRỐNG lượng tìm kiếm và CPC. Hai số đó lấy từ Keyword Planner, không ước lượng, không bịa.",
-    "Giá, ưu đãi và trả góp là DỮ LIỆU ĐỘNG: đọc /bang-gia/ và /uu-dai/ lúc chạy, không dùng số cũ đã nhớ.",
+    "Giá và ưu đãi là DỮ LIỆU ĐỘNG: đọc /bang-gia/ và /uu-dai/ lúc chạy, không dùng số cũ đã nhớ.",
+    "Kangnam KHÔNG có dịch vụ trả góp: không viết trả góp / trả chậm / góp 0% vào thông điệp, từ khoá dạng này đưa vào phủ định toàn tài khoản.",
+    "Không dùng claim hội - hiệp hội (KCCS, Hiệp hội Thẩm mỹ Hàn Quốc, VSAPS, ASPS, ISAPS): thay bằng ekip bác sĩ phẫu thuật HTLX hoặc bác sĩ có CCHN.",
     "Đánh giá bằng chi phí/ca chốt, không chỉ bằng CPL. Giá trị ca cao nên lead rẻ mà không ra ca là lỗ.",
     "Báo cáo theo chiến dịch VÀ theo chân dung KH. Cần trường chân dung trong Caresoft từ Pha 1."
   ],
@@ -1979,7 +1968,7 @@
     },
     {
       "hang_muc": "So sánh",
-      "quy_tac": "So sánh bằng tiêu chí khách quan, không nêu tên: tuyến bệnh viện · giấy phép Bộ Y tế · KCCS · hội đồng chuyên môn."
+      "quy_tac": "So sánh bằng tiêu chí khách quan, không nêu tên: tuyến bệnh viện · giấy phép Bộ Y tế · hội đồng chuyên môn · quy trình 5 bước vô khuẩn."
     },
     {
       "hang_muc": "Ngách ưu tiên",
@@ -2129,7 +2118,7 @@
     {
       "chang": "S2",
       "chan_dung": "CD2",
-      "hook": "Tiêu chí chọn nơi làm: tuyến bệnh viện · giấy phép · KCCS",
+      "hook": "Tiêu chí chọn nơi làm: tuyến bệnh viện · giấy phép · ekip phẫu thuật",
       "format": "Video review quy trình + phòng mổ",
       "muc_tieu": "Đẩy về LP2/LP3, nhấn điều kiện bệnh viện"
     },
@@ -2158,7 +2147,7 @@
       "chang": "S4",
       "chan_dung": "CD4",
       "hook": "Thông điệp cho NGƯỜI MUA HỘ — chồng tìm cho vợ",
-      "format": "Video ngắn + landing có trục trả góp",
+      "format": "Video ngắn + landing có trục chi phí minh bạch",
       "muc_tieu": "Đẩy về LP6. Ngôn ngữ nói với người chi trả, không nói với người điều trị"
     },
     {
