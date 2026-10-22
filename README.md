@@ -235,6 +235,7 @@ Bộ câu lệnh đầy đủ: [`doc/02-cau-lenh.md`](doc/02-cau-lenh.md) · pro
 | [tools/build_keyword_workbook.py](tools/) | Generator `.xlsx` 5 sheet · 6 cổng kiểm tra | ✅ |
 | [template/KN … Nâng mũi.xlsx](template/) | **File Excel mẫu** — bộ từ khoá ZONE Mũi đã dựng xong, đủ 5 sheet có công thức (36 KB) | 📦 |
 | [template/dep-ven-tron.html](template/) | Trang production đã lưu — nguồn của Design System v3.0 | 📦 |
+| [goi/](goi/) | **Bản gộp dự phòng** — 1 file thay cho 8 file rời, dùng khi chạm trần số file của nền tảng | ✅ |
 | [doc/01-cai-dat.md](doc/01-cai-dat.md) | Tên & mô tả · cài 3 nền tảng · smoke test · xử lý sự cố | ✅ |
 | [doc/02-cau-lenh.md](doc/02-cau-lenh.md) | Câu lệnh 4 mode · prompt mẫu · điều Agent sẽ từ chối | ✅ |
 | [doc/03-output-mau.md](doc/03-output-mau.md) | Output mẫu đủ 4 mode · dấu hiệu đúng/sai | ✅ |
